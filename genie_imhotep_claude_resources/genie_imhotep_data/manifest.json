@@ -1,0 +1,28 @@
+{
+  "source": "FASCICULE_ACADEMIE_GENIE_IMHOTEP_Lycée.pdf",
+  "rubrics": "rubrics.json",
+  "rules": "REGLES.md",
+  "question_files": {
+    "etat_de_choc": "etat_de_choc.json",
+    "consultation": "consultation.json",
+    "diagnostic": "diagnostic.json",
+    "constante": "constante.json",
+    "dossier_medical": "dossier_medical.json",
+    "points_de_suture": "points_de_suture.json",
+    "orthopedie": "orthopedie.json",
+    "scanner": "scanner.json",
+    "reanimation": "reanimation.json"
+  },
+  "raw_question_files": {
+    "etat_de_choc": "etat_de_choc.md",
+    "consultation": "consultation.md",
+    "diagnostic": "diagnostic.md",
+    "constante": "constante.md",
+    "dossier_medical": "dossier_medical.md",
+    "points_de_suture": "points_de_suture.md",
+    "orthopedie": "orthopedie.md",
+    "scanner": "scanner.md",
+    "reanimation": "reanimation.md"
+  },
+  "note": "Les fichiers JSON sont une structuration technique du texte extrait; les fichiers MD conservent le texte de questionnaire pour contrôle."
+}

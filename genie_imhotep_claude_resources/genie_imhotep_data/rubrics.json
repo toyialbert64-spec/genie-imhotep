@@ -1,0 +1,97 @@
+{
+  "admission": {
+    "name": "Admission",
+    "mode": "solo",
+    "time_answer_seconds": 3,
+    "points_correct": 10,
+    "bonus_all_5": 10,
+    "reply": false
+  },
+  "constante": {
+    "name": "Constante",
+    "mode": "buzzer",
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_correct": 10,
+    "points_reply": 10,
+    "penalty_wrong_letter": -10
+  },
+  "consultation": {
+    "name": "Consultation",
+    "mode": "alternating",
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_correct": 20,
+    "points_reply": 10,
+    "penalty_wrong": 0
+  },
+  "diagnostic": {
+    "name": "Diagnostic",
+    "mode": "progressive_clues",
+    "clue_points": [
+      40,
+      30,
+      20,
+      10
+    ],
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_reply_same_as_clue": true,
+    "one_attempt_per_team_per_clue": true
+  },
+  "dossier_medical": {
+    "name": "Dossier médical",
+    "mode": "theme",
+    "time_reply_seconds": 3,
+    "points_correct": 20,
+    "points_reply": 10,
+    "themes_min_questions": 5,
+    "themes_offered": "1 to 3"
+  },
+  "scanner": {
+    "name": "Scanner",
+    "mode": "duo_word_guessing",
+    "time_seconds": 30,
+    "words": 3,
+    "max_clues_per_word": 3,
+    "points_word": 10,
+    "bonus_all_words": 10,
+    "reply": false
+  },
+  "orthopedie": {
+    "name": "Orthopédie",
+    "mode": "word_transformation",
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_correct": 10,
+    "points_reply": 10,
+    "penalty_wrong": 0
+  },
+  "points_de_suture": {
+    "name": "Points de suture",
+    "mode": "associations",
+    "time_seconds_classic": 45,
+    "time_seconds_final": 60,
+    "points_association": 10,
+    "points_missing_element": 10,
+    "reply": false
+  },
+  "etat_de_choc": {
+    "name": "État de choc",
+    "mode": "buzzer",
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_correct": 10,
+    "points_reply": 10,
+    "penalty_buzz_before_question_wrong": -10
+  },
+  "reanimation": {
+    "name": "Réanimation",
+    "mode": "changing_letter_buzzer",
+    "time_answer_seconds": 5,
+    "time_reply_seconds": 3,
+    "points_correct": 10,
+    "points_reply": 10,
+    "penalty_wrong_letter": 0
+  }
+}

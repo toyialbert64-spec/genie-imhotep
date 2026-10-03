@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "raw": "I – Nerf olfactif Fonction : odorat"
+  },
+  {
+    "id": 2,
+    "raw": "II – Nerf optique Fonction : vision"
+  },
+  {
+    "id": 3,
+    "raw": "III – Nerf oculomoteur Fonction : mouvements des yeux, ouverture des paupieres, reflexe pupillaire"
+  },
+  {
+    "id": 4,
+    "raw": "IV – Nerf trochleaire (ou pathetique) Fonction : mouvement de l’œil (vers le bas et l’interieur)"
+  },
+  {
+    "id": 5,
+    "raw": "V – Nerf trijumeau Fonction : sensations du visage, mastication"
+  },
+  {
+    "id": 6,
+    "raw": "VI – Nerf abducens Fonction : mouvement lateral de l’œil"
+  },
+  {
+    "id": 7,
+    "raw": "VII – Nerf facial Fonction : expressions du visage, gout (2/3 anterieurs de la langue), glandes lacrymales et salivaires"
+  },
+  {
+    "id": 8,
+    "raw": "VIII – Nerf vestibulo-cochleaire (ou auditif) Fonction : audition et equilibre Page 183 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 9,
+    "raw": "IX – Nerf glossopharyngien Fonction : gout (1/3 posterieur de la langue), deglutition, glandes salivaires"
+  },
+  {
+    "id": 10,
+    "raw": "X – Nerf vague (ou pneumogastrique) Fonction : regulation des organes internes (cœur, poumons, digestion), voix"
+  },
+  {
+    "id": 11,
+    "raw": "XI – Nerf accessoire (ou spinal) Fonction : mouvements de la tete et des epaules"
+  },
+  {
+    "id": 12,
+    "raw": "XII – Nerf hypoglosse Fonction : mouvements de la langue Page 184 sur 209 ACADEMIE GENIE IMHOTEP"
+  }
+]

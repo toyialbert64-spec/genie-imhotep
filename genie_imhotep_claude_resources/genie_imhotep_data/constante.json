@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 1,
+    "question": "Un pays membre de l’ONU :",
+    "answer": "Afghanistan, Afrique du Sud, Albanie, Algerie, Allemagne, Andorre, Angola, Antigua-et-Barbuda, Arabie saoudite, Argentine, Armenie, Australie, Autriche, Azerbaîdjan"
+  },
+  {
+    "id": 2,
+    "question": "Une vertebre cervicale :",
+    "answer": "Atlas (C1) Axis (C2)"
+  },
+  {
+    "id": 3,
+    "question": "Une maladie respiratoire :",
+    "answer": "Asthme, Apnee du sommeil, Aspergillose bronchopulmonaire allergique, Asbestose"
+  },
+  {
+    "id": 4,
+    "question": "Un doigt de la main :",
+    "answer": "Annulaire, Auriculaire"
+  },
+  {
+    "id": 5,
+    "raw": "Un type de medicament pour soulager la douleur :R : Antalgique, Analgesique, Anti- douleur • LETTRE B"
+  },
+  {
+    "id": 1,
+    "question": "Un animal a 04 pattes :",
+    "answer": "Bison, Bouledogue, Blaireau, Babouin, Bonobo, Bœuf, Bouquetin, Beagle"
+  },
+  {
+    "id": 2,
+    "question": "Une roche :",
+    "answer": "Basalte, Bauxite, Breche, Biomasse fossile (La \"biomasse fossile\" est une roche d'origine organique comme le charbon.)"
+  },
+  {
+    "id": 3,
+    "question": "Un pays membre de l’ONU :",
+    "answer": "Bahamas, Bahreîn, Bangladesh, Barbade, Bielorussie, Belgique, Belize, Benin, Bhoutan, Bolivie, Bosnie-Herzegovine, Botswana, Bresil, Brunei, Bulgarie, Burkina Faso, Burundi"
+  },
+  {
+    "id": 4,
+    "question": "Une maladie :",
+    "answer": "Borreliose, Brucellose, Botulisme, Bronchite, Blennorragie 5. Une cereale : R : Ble, Boulgour • LETTRE C"
+  },
+  {
+    "id": 1,
+    "question": "Une specialite medicale :",
+    "answer": "Cardiologie, Carcinologie (cancer), Chirurgie"
+  },
+  {
+    "id": 2,
+    "question": "Un os du corps humain :",
+    "answer": "Calcaneus, Carpe, Clavicule, Coccyx, Colonne vertebrale, Cornet nasal, Cubitus"
+  },
+  {
+    "id": 3,
+    "question": "Un cri d’animal :",
+    "answer": "Coassement, Couinement, Croassement, Chuintement, Chatoiement"
+  },
+  {
+    "id": 4,
+    "question": "Un insecte :",
+    "answer": "Cigale, Criquet, Coccinelle, Cafard"
+  },
+  {
+    "id": 5,
+    "question": "Un legume :",
+    "answer": "Carotte, Celeri, Champignon, Chou-fleur, Choux, Cresson, Courgette ou Concombre, et capre • LETTRE D"
+  },
+  {
+    "id": 1,
+    "question": "Un mal de l’œil :",
+    "answer": "Daltonisme, Diplopie, Degenerescence Maculaire Liee a l'Age (DMLA), Decollement de retine, Dry Eye Syndrome (Syndrome de l'œil sec)"
+  },
+  {
+    "id": 2,
+    "question": "Un mammifere :",
+    "answer": "Dauphin, dromadaire, Daim, Dingo, Dugong"
+  },
+  {
+    "id": 3,
+    "question": "Un sport :",
+    "answer": "Decathlon, Danse, Disc golf, Dodgeball, Dressage Page 162 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 4,
+    "question": "Un pays membre de l’ONU :",
+    "answer": "Danemark, Djibouti, Dominique"
+  },
+  {
+    "id": 5,
+    "question": "Une epice :",
+    "answer": "Daikon, dent-de-lion, dolique, dachine • LETTRE E"
+  },
+  {
+    "id": 1,
+    "question": "Un oiseau :",
+    "answer": "Epervier, Emeu, Engoulevent, Etourneau"
+  },
+  {
+    "id": 2,
+    "question": "Un sport :",
+    "answer": "Equitation, Escalade, Escrime, E-sport"
+  },
+  {
+    "id": 3,
+    "question": "Un poisson :",
+    "answer": "Ecrevisse, Eglefin, Elbot, Empereur, Eperlan, Espadon, Esturgeon."
+  },
+  {
+    "id": 4,
+    "question": "Un legume :",
+    "answer": "Epinard, Endive, Echalote, Epinard de Malabar, Estragon"
+  },
+  {
+    "id": 5,
+    "question": "Une maladie :",
+    "answer": "Erytheme, Endometriose, Epilepsie, Eczema, Erysipele LETTRE F"
+  },
+  {
+    "id": 1,
+    "question": "Une maladie :",
+    "answer": "Fievre jaune, Fibrose, Furonculose"
+  },
+  {
+    "id": 2,
+    "question": "Un os :",
+    "answer": "Femur, fascia, fibula"
+  },
+  {
+    "id": 3,
+    "question": "Un sport:",
+    "answer": "Football, Football American, Futsal, Flechettes, Floorball, Frisbee, Free running,"
+  },
+  {
+    "id": 4,
+    "question": "Une epice :",
+    "answer": "Feuille de laurier, Fenouil, Flocons de piment, Fleur de sel"
+  },
+  {
+    "id": 5,
+    "question": "Un animal :",
+    "answer": "Faucon, Faisan, Furet, Fourmilier, Fouine, Fennec. • LETTRE G"
+  },
+  {
+    "id": 1,
+    "question": "Un sport :",
+    "answer": "Golf, gymnastique, gymnastique rythmique, go-karting, grappling, glisse, golf-foot."
+  },
+  {
+    "id": 2,
+    "question": "Une plante medicinale :",
+    "answer": "Goyavier, gingembre, guimauve, ginkgo, galanga."
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "Goyave, grenade, groseille, guigne, grain de cafe"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "Girafe, guepard, gorille, grenouille, gnou, geai, goeland, grizzly 5. Une roche : R : Gabbro, granite, gneiss, gres, galene • LETTRE H"
+  },
+  {
+    "id": 1,
+    "question": "Un sport:",
+    "answer": "Handball, hockey, halterophilie"
+  },
+  {
+    "id": 2,
+    "question": "Une cellule :",
+    "answer": "Hematie, Histiocyte, hepatocyte."
+  },
+  {
+    "id": 3,
+    "question": "Un os :",
+    "answer": "Humerus"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "Herisson, hibou, homard, huître, hareng, hamster"
+  },
+  {
+    "id": 5,
+    "question": "Une roche :",
+    "answer": "Hematite, granite hornblende, horneblende, hydromagnesite. • LETTRE I"
+  },
+  {
+    "id": 1,
+    "question": "Une specialite medicale :",
+    "answer": "Infectiologie, immunologie, imagerie medicale, internisme"
+  },
+  {
+    "id": 2,
+    "question": "Une partie de l’œil :",
+    "answer": "Iris, indentation, integrite corneenne."
+  },
+  {
+    "id": 3,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Italie, Inde, Indonesie, Irlande, Islande"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "impala, iguane, ibis."
+  },
+  {
+    "id": 5,
+    "question": "Un tubercule :",
+    "answer": "igname Page 163 sur 209 ACADEMIE GENIE IMHOTEP • LETTRE J"
+  },
+  {
+    "id": 1,
+    "question": "Un sport :",
+    "answer": "Judo, Jiu-jitsu, Jet-ski"
+  },
+  {
+    "id": 2,
+    "question": "Un pays membre de l’ONU :",
+    "answer": "Jamaîque, Japon, Jordanie"
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "Jacque (ou fruit du jacquier), jujube (fruit du jujubier)"
+  },
+  {
+    "id": 4,
+    "question": "Une maladie :",
+    "answer": "Jaunisse, Jambe de Charcot, Jejuno-ileite"
+  },
+  {
+    "id": 5,
+    "question": "Un animal :",
+    "answer": "Jaguar, jambon (un terme parfois utilise pour designer certains types de porcs), javelina, jararaca (un serpent), jerboa"
+  },
+  {
+    "id": 6,
+    "question": "Une partie du corps humain :",
+    "answer": "Jambe LETTRE K Un fruit : R : Kiwi, Kaki, Kumquat"
+  },
+  {
+    "id": 2,
+    "question": "Un animal :",
+    "answer": "Kangourou, koala, kilin, kiwi"
+  },
+  {
+    "id": 3,
+    "question": "Un sport :",
+    "answer": "Karate, Kitesurfing, Kayak, Kickboxing, Krav Maga, Kapokier Kalanchoe, kiwi, konjac"
+  },
+  {
+    "id": 4,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Kazakhstan, Kenya, Kirghizistan, Koweît • LETTRE L"
+  },
+  {
+    "id": 1,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Lesotho, Lettonie, Lituanie, Luxembourg, Liban, Liberia, Libye"
+  },
+  {
+    "id": 2,
+    "question": "Un fruit :",
+    "answer": "Litchi, Limon, Lime, Lierre terrestre"
+  },
+  {
+    "id": 3,
+    "question": "Un animal :",
+    "answer": "Lama, lamantin, lapin, leopard, loutre, lievre, lagopede, lezard, libellule, labre, lamproie, langur"
+  },
+  {
+    "id": 4,
+    "question": "Une maladie :",
+    "answer": "Leucemie, Laryngite, Lymphome"
+  },
+  {
+    "id": 5,
+    "question": "Un organe du corps humain :",
+    "answer": "Langue, Larynx, Lobe (comme le lobe du cerveau ou le lobe pulmonaire)"
+  },
+  {
+    "id": 6,
+    "question": "Une specialite medicale :",
+    "answer": "Laryngologie, Lombalgie • LETTRE M"
+  },
+  {
+    "id": 1,
+    "question": "Un cri d’animal :",
+    "answer": "Meuglement (vache), Mugissement (bœuf), Miaulement (chat)"
+  },
+  {
+    "id": 2,
+    "question": "Un insecte :",
+    "answer": "Mante religieuse, Moucheron, Mite, Mygale, mouche, mouche tse-tse."
+  },
+  {
+    "id": 3,
+    "question": "Un arbre :",
+    "answer": "Magnolia, Marronnier, Merisier, Manguier"
+  },
+  {
+    "id": 4,
+    "question": "Une roche :",
+    "answer": "Mica, Marbre • LETTRE N"
+  },
+  {
+    "id": 1,
+    "question": "Un fruit :",
+    "answer": "Noisette, Noix, Noix de cajou, Noix de coco. Page 164 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 2,
+    "question": "Un animal :",
+    "answer": "Narval, Nandou"
+  },
+  {
+    "id": 3,
+    "question": "Un sport :",
+    "answer": "Natation, Ninja Warrior (competition de parcours), Nage synchronisee, Nettoyage de plage (comme sport communautaire), Ninjutsu"
+  },
+  {
+    "id": 4,
+    "question": "Une epice :",
+    "answer": "Noix de muscade, Nori (algue utilisee comme epice), Nigelle (ou cumin noir)"
+  },
+  {
+    "id": 5,
+    "question": "Une plante :",
+    "answer": "Noyer, Neflier, Narcisse (souvent cultive comme plante ornementale, bien que principalement une fleur), Nenuphar (qui est une plante aquatique, mais souvent referencee dans des contextes de jardin) • LETTRE O"
+  },
+  {
+    "id": 1,
+    "question": "Un oiseau :",
+    "answer": "Oiseau-mouche, Oie, Oriole, Ouette, Oiseau de nuit"
+  },
+  {
+    "id": 2,
+    "question": "Une plante medicinale :",
+    "answer": "Oignon, oseille, Ortie, orange amere"
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "orange, olive"
+  },
+  {
+    "id": 4,
+    "question": "Un animal terrestre :",
+    "answer": "Ours, Orycterope, Ocelot, Otter(loutre) 5. Une roche : R : Obsidienne, Oolithe, Onyx, Opale LETTRE P"
+  },
+  {
+    "id": 1,
+    "question": "Une specialite medicale :",
+    "answer": "Pediatrie, Psychiatrie, Pneumologie, Pathologie, Pharmacologie, Physiotherapie, Podologie, Psychologie"
+  },
+  {
+    "id": 2,
+    "question": "Un os du corps humain :",
+    "answer": "Perone, Phalange, Phalangette."
+  },
+  {
+    "id": 3,
+    "question": "Une epice :",
+    "answer": "Piment, Paprika, Poivre"
+  },
+  {
+    "id": 4,
+    "question": "Un insecte :",
+    "answer": "Papillon, Pou, Puce, Puceron, Punaise"
+  },
+  {
+    "id": 5,
+    "question": "Un legume :",
+    "answer": "Pois, poireau, patate, petit pois, panais, piment, pasteque, persil, pois chiche, pomme de terre"
+  },
+  {
+    "id": 6,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Pakistan, Palau, Panama, Papouasie-Nouvelle-Guinee, Paraguay, Pologne, Portugal • LETTRE Q"
+  },
+  {
+    "id": 1,
+    "question": "Un muscle :",
+    "answer": "Quadriceps"
+  },
+  {
+    "id": 2,
+    "question": "Un animal :",
+    "answer": "Quetzal, Quoll, Quokka"
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "Quinoa (considere comme cereale), Quetsche (variete de prune), Quandong"
+  },
+  {
+    "id": 4,
+    "question": "Un sport :",
+    "answer": "Quidditch, quadrathlon • LETTRE R"
+  },
+  {
+    "id": 1,
+    "question": "Une forme de la vitamine A :",
+    "answer": "Retinol, Retinal, Acide retinoîque."
+  },
+  {
+    "id": 2,
+    "question": "Un fruit :",
+    "answer": "Raisin,"
+  },
+  {
+    "id": 3,
+    "question": "Une partie de l’appareil digestif :",
+    "answer": "Rectum,"
+  },
+  {
+    "id": 4,
+    "question": "Un sport :",
+    "answer": "rugby, randonnee"
+  },
+  {
+    "id": 5,
+    "question": "Un animal :",
+    "answer": "Rat, Renard, Raton laveur Page 165 sur 209 ACADEMIE GENIE IMHOTEP • LETTRE S"
+  },
+  {
+    "id": 1,
+    "question": "Une specialite medicale :",
+    "answer": "stomatologie, Sexologie, sante publique, semeiologie"
+  },
+  {
+    "id": 2,
+    "question": "Un os du corps humain :",
+    "answer": "Scapula, Sternum, Sacrum, Sphenoîde, Sesamoîde"
+  },
+  {
+    "id": 3,
+    "question": "Un sport :",
+    "answer": "Surf, Sumo, Skateboard"
+  },
+  {
+    "id": 4,
+    "question": "Un insecte :",
+    "answer": "Sauterelle, Scarabee, Syrphe, Sphinx, Silphide"
+  },
+  {
+    "id": 5,
+    "question": "Une roche :",
+    "answer": "Sable, Silex, Schiste • LETTRE T"
+  },
+  {
+    "id": 1,
+    "question": "Un sport :",
+    "answer": "tennis, taekwondo, triathlon, tir a l'arc, trampoline, tennis de table"
+  },
+  {
+    "id": 2,
+    "question": "Une plante :",
+    "answer": "tabac, tilleul, thuya, tamarin, trefle"
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "Tomate, Tamarin, Tangerine"
+  },
+  {
+    "id": 4,
+    "raw": "Un animal : tortue, tigre, tamanoir, toucan, tarentule"
+  },
+  {
+    "id": 5,
+    "question": "Un type de vegetation :",
+    "answer": "toundra, taîga LETTRE U"
+  },
+  {
+    "id": 1,
+    "question": "Un sport :",
+    "answer": "Ultimate frisbee, Unihockey"
+  },
+  {
+    "id": 2,
+    "question": "Une plante :",
+    "answer": "Urtica (ortie), Ulmus (orme)"
+  },
+  {
+    "id": 3,
+    "question": "Un fruit :",
+    "answer": "Ugli (agrumes), Unabi (jujube)"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "Urial (mouton sauvage), Uakari (singe)"
+  },
+  {
+    "id": 5,
+    "question": "Une specialite medicale :",
+    "answer": "Urgences, Urologie • LETTRE V"
+  },
+  {
+    "id": 1,
+    "question": "Une maladie :",
+    "answer": "Variole, Varicelle, Vache-folle"
+  },
+  {
+    "id": 2,
+    "question": "Un os du corps humain :",
+    "answer": "Vertebre, Vober"
+  },
+  {
+    "id": 3,
+    "question": "Un cri d’animal :",
+    "answer": "Vrombissement, Vociferation"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "Varan, Vers de terre, Vautour"
+  },
+  {
+    "id": 5,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Vanuatu, Vatican, Venezuela, Viet Nam. • LETTRE W"
+  },
+  {
+    "id": 1,
+    "question": "Un sport:",
+    "answer": "Water-polo, Wakeboard, Wave board, Wushu"
+  },
+  {
+    "id": 2,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Wallis-et-Futuna"
+  },
+  {
+    "id": 3,
+    "question": "Un aliment de la cuisine togolaise :",
+    "answer": "Wassa, wangash"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "walabi, wallaby, Wolverine, wombat, et wapiti."
+  },
+  {
+    "id": 5,
+    "question": "Un legume :",
+    "answer": "Wakame (une algue comestible souvent utilisee dans la cuisine japonaise), Wasabi (une plante dont la racine est utilisee comme condiment, bien que ce ne soit pas un legume au sens traditionnel). • LETTRE X Page 166 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1,
+    "question": "Une maladie :",
+    "answer": "Xanthome, Xerophtalmie, Xenodermie"
+  },
+  {
+    "id": 2,
+    "question": "Un sport :",
+    "answer": "X-sport et le X-treme"
+  },
+  {
+    "id": 3,
+    "raw": "Un os du corps humain :"
+  },
+  {
+    "id": 4,
+    "question": "Un animal :",
+    "answer": "xerus, xenops."
+  },
+  {
+    "id": 5,
+    "question": "Un type de plante :",
+    "answer": "Xerophyte • LETTRE Y"
+  },
+  {
+    "id": 1,
+    "question": "Un sport :",
+    "answer": "Yoga, Yoseikan, Yukigassen"
+  },
+  {
+    "id": 2,
+    "question": "Un animal :",
+    "answer": "Yack, Yapock, Yorkshire terrier,"
+  },
+  {
+    "id": 3,
+    "question": "Un pays membre de l’OMS :",
+    "answer": "Yemen"
+  },
+  {
+    "id": 4,
+    "question": "Une maladie :",
+    "answer": "Yeux de chat (Syndrome de Bardet-Biedl),"
+  },
+  {
+    "id": 5,
+    "question": "Une plante :",
+    "answer": "Yarrow (Achillee millefeuille), Ylang-ylang. LETTRE Z Un animal : R : zebre, zebu, Zourite (un type de poulpe)"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Zona, Zoonose"
+  },
+  {
+    "id": 3,
+    "question": "Un sport :",
+    "answer": "Zumba"
+  },
+  {
+    "id": 4,
+    "raw": "Un pays membre de l’OMS :"
+  },
+  {
+    "id": 5,
+    "question": "Une plante :",
+    "answer": "Zinnia, Zelkova, Zenobia Lettre A :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Abdomen"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Anemie"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Amnioscope (pour observer le liquide amniotique)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Action contre la Faim"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Aspirine Lettre B :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Bronches"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Bronchite"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Bistouri"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Bill & Melinda Gates Foundation"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Betadine Page 167 sur 209 ACADEMIE GENIE IMHOTEP Lettre C :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Cerveau"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Cholera"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Ciseaux chirurgicaux"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Croix-Rouge"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Codeine Lettre D :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Diaphragme"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Diabete"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Davier (pour extraction dentaire)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Doctors Without Borders (Medecins Sans Frontieres)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Doxycycline Lettre E :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Estomac"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Epilepsie"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Ecarteur"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "End Water Poverty (lutte pour l'acces a l'eau) 5. Un medicament ou traitement : R : Efferalgan Lettre F :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Femur"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Fibrose pulmonaire"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Forceps"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Fondation Rockefeller"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Furosemide Lettre G : Page 168 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Glande thyroîde"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Grippe"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Grattoir chirurgical"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Global Alliance for Vaccines and Immunization (GAVI)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Glucophage (pour le diabete) Lettre H :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Hypophyse"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Hypertension arterielle"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Homeostat"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Human Rights Watch (surveillance des droits humains)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Hydrocortisone Lettre I :"
+  },
+  {
+    "id": 1,
+    "raw": "Intestin grele"
+  },
+  {
+    "id": 2,
+    "raw": "Insuffisance renale"
+  },
+  {
+    "id": 3,
+    "raw": "R : Inciseur (pour les coupes precises)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "International Committee of the Red Cross (CICR) 5. Un medicament ou traitement : R : Ibuprofene Lettre J :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Jugulaire"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Jaunisse"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Jet dentaire"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Joint United Nations Programme on HIV/AIDS (ONUSIDA)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Jext (pour les reactions allergiques graves) Lettre K :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Keratine (presente dans les cheveux et les ongles) Page 169 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Kwashiorkor"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Keratome (pour la chirurgie corneenne)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Kaiser Family Foundation (fondation de la sante publique) 5. Un medicament ou traitement : R : Ketamine (anesthesique) Lettre L :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Lobe frontal"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Leucemie"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Lampe frontale chirurgicale"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Ligue contre le Cancer"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Levothyrox (pour la thyroîde) Lettre M :"
+  },
+  {
+    "id": 1,
+    "raw": "Moelle osseuse"
+  },
+  {
+    "id": 2,
+    "raw": "Malaria (paludisme)"
+  },
+  {
+    "id": 3,
+    "raw": "R : Mandrin (utilise pour guider les sondes)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Medecins du Monde"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Morphine Lettre N :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Nerf optique"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Nevralgie"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Nebuliseur"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "National Institutes of Health (NIH)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Nystatine (pour les infections fongiques) Lettre O :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Œsophage"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Osteoporose Page 170 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Otoscope"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Organisation Mondiale de la Sante (OMS)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Omeprazole (pour les ulceres gastriques) Lettre P :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Pancreas"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Paludisme"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Pince chirurgicale"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Programme Alimentaire Mondial (PAM)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Paracetamol Lettre Q :"
+  },
+  {
+    "id": 1,
+    "raw": "Quadriceps"
+  },
+  {
+    "id": 2,
+    "raw": "Queratose"
+  },
+  {
+    "id": 3,
+    "raw": "R : Quill (suture a absorption rapide)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Qatar Red Crescent Society (Croissant-Rouge du Qatar)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Quinine (utilisee pour traiter le paludisme) Lettre R :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Retine"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Rachitisme"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Retracteur (utilise pour ecarter les tissus)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Red Cross (Croix-Rouge)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Rifampicine (traitement contre la tuberculose) Lettre S :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Systeme nerveux"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Sclerose en plaques"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Scalpel Page 171 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Save the Children (sante et bien-etre des enfants)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Salbutamol (pour l'asthme) Lettre T :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Tractus digestif"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Tuberculose"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Trocart (utilise pour la chirurgie laparoscopique)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "The Global Fund (Fonds mondial de lutte contre le SIDA, la tuberculose et le paludisme)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Tamiflu (antiviral contre la grippe) Lettre U :"
+  },
+  {
+    "id": 1,
+    "raw": "Uterus"
+  },
+  {
+    "id": 2,
+    "raw": "Ulcere gastrique"
+  },
+  {
+    "id": 3,
+    "raw": "Ultrasonographe (appareil a ultrasons)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "UNICEF (pour la sante des enfants)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Urokinase (medicament thrombolytique) Lettre V :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Veines"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Varicelle"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Ventilateur medical"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Vaccination Alliance (GAVI) 5. Un medicament ou traitement : R : Vaccin contre la grippe Lettre W :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Willebrand (facteur de coagulation)"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Whipple (maladie de)"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Watte sterile (pour nettoyer les plaies) Page 172 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "World Health Organization (WHO) – Organisation Mondiale de la Sante (OMS)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Warfarine (anticoagulant) Lettre X :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Xiphoîde (appendice de l'os du sternum)"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Xeroderma pigmentosum"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Xerographe (utilise pour la radiographie)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "XPrize (competition pour l'innovation dans la sante)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Xalatan (pour traiter le glaucome) Lettres Y :"
+  },
+  {
+    "id": 1,
+    "raw": "Organes double, au-dessus du nez Yeux"
+  },
+  {
+    "id": 2,
+    "raw": "Maladie causee par Yersinia. Yersinose"
+  },
+  {
+    "id": 3,
+    "question": "Technique chirurgicale esthetique",
+    "answer": "Y-lift"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Youth Health Organization (organisation pour la sante des jeunes)"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Yasmin (contraceptif) Lettre Z :"
+  },
+  {
+    "id": 1,
+    "question": "Une partie du corps humain :",
+    "answer": "Zone pellucide (autour de l'ovocyte)"
+  },
+  {
+    "id": 2,
+    "question": "Une maladie :",
+    "answer": "Zona"
+  },
+  {
+    "id": 3,
+    "question": "Un instrument chirurgical :",
+    "answer": "Z-Rod (implant pour la chirurgie de la colonne vertebrale)"
+  },
+  {
+    "id": 4,
+    "question": "Une organisation internationale :",
+    "answer": "Zoonoses and One Health Alliance :"
+  },
+  {
+    "id": 5,
+    "question": "Un medicament ou traitement :",
+    "answer": "Zovirax (traitement pour l'herpes) Page 173 sur 209 ACADEMIE GENIE IMHOTEP"
+  }
+]

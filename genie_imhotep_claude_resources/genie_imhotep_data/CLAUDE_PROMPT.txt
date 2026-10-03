@@ -1,0 +1,15 @@
+Tu développes une application Android offline-first appelée « Génie Imhotep ».
+
+SOURCE DE VÉRITÉ : commence par lire manifest.json, puis REGLES.md, rubrics.json et uniquement les fichiers de questions nécessaires. Ne colle pas tout le corpus dans le prompt et n’invente pas de règles. Les fichiers .md servent de référence textuelle si un JSON semble ambigu.
+
+OBJECTIF V1 : mode solo contre un adversaire virtuel local. Le mode en ligne sera ajouté plus tard. L’utilisateur répond par saisie texte; ajoute une saisie vocale Android optionnelle avec retour clavier si indisponible. Les questions peuvent être lues par synthèse vocale.
+
+STACK : Kotlin + Jetpack Compose + MVVM + Room/SQLite ou stockage local JSON adapté + Coroutines/StateFlow + Navigation Compose. Architecture modulaire avec GameEngine, RuleEngine, ScoreEngine, TimerEngine, AnswerValidator, QuestionRepository, GameSession et OpponentEngine.
+
+IMPORTANT : le mode solo est une ADAPTATION de l’expérience officielle à un joueur et un adversaire virtuel. Ne le présente pas comme un match officiel à deux équipes. L’adversaire ne doit pas utiliser un LLM pour chaque question : utilise une logique locale configurable (temps de réaction, probabilité de tentative, probabilité de réussite) afin que l’app reste hors ligne et gratuite.
+
+RÉPONSES : pas de QCM. L’utilisateur tape ou dicte sa réponse. Normalise casse, accents, espaces et ponctuation; accepte plusieurs réponses lorsque le corpus le permet, sans changer arbitrairement la réponse officielle.
+
+COMMENCE par : 1) proposer l’arborescence du projet, 2) implémenter le moteur de jeu et les modèles, 3) intégrer une seule rubrique complètement comme prototype, 4) ajouter des tests unitaires pour points/chronomètres/répliques, 5) seulement ensuite étendre aux autres rubriques.
+
+RESSOURCES : [URL_BASE]/manifest.json

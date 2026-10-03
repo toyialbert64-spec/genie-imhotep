@@ -1,0 +1,4813 @@
+[
+  {
+    "id": 1016,
+    "question": "On le trouve dans l’urine des diabetiques et des sujets soumis a un jeune glucidique. Quel liquide incolore, d’odeur fruitee a pour formule CH3COCH3 a des proprietes anesthesiques ?",
+    "answer": "L’acetone"
+  },
+  {
+    "id": 1017,
+    "question": "Quel nom generique est donne a des substances organiques azotees de caracteres basiques et d’origine vegetale comme la morphine, la cafeine, la strychnine ou encore la colchicine ?",
+    "answer": "Les alcaloîdes"
+  },
+  {
+    "id": 1018,
+    "question": "Quel nom donne-t-on a la presence de l’alcool dans l’urine ?",
+    "answer": "L’alcoolurie"
+  },
+  {
+    "id": 1019,
+    "question": "Quel nom donne-t-on a la presence de l’alcool dans le sang ?",
+    "answer": "L’alcoolemie"
+  },
+  {
+    "id": 1020,
+    "question": "Synonyme de « nombril de venus », quel nom porte la feuille inseree sur le premier nœud de l’embryon vegetal ne de la graine ?",
+    "answer": "Le cotyledon"
+  },
+  {
+    "id": 1021,
+    "question": "En medecine, quel adjectif qualifie ce qui est present des la naissance, en parlant de certaines infirmites, mais pas toujours hereditaire ?",
+    "answer": "Congenital"
+  },
+  {
+    "id": 1022,
+    "question": "Au-dela, il est appele nourrisson. Quel terme designe un enfant de sa naissance jusqu’a 28 jours ?",
+    "answer": "Nouveau-ne"
+  },
+  {
+    "id": 1023,
+    "question": "Quel nom porte la discipline qui s’interesse aux nouveau-nes ?",
+    "answer": "La neonatologie"
+  },
+  {
+    "id": 1024,
+    "question": "Il est antiseptique et desinfectant. Quel nom porte la forme allotropique de l’oxygene avec pour formule chimique 03 ?",
+    "answer": "L’Ozone"
+  },
+  {
+    "id": 1025,
+    "question": "Quelle technique non conventionnelle pretend traiter differentes affections et symptomes par l’insufflation dans l’organisme, d’un melange d’ozone et d’oxygene ?",
+    "answer": "L’ozonotherapie"
+  },
+  {
+    "id": 1026,
+    "question": "Quelle modification generalement spontanee de l’œil, lui permet de voir distinctement des objets a des distances differentes ?",
+    "answer": "L’accommodation"
+  },
+  {
+    "id": 1027,
+    "question": "Elle est principalement realisee par le muscle ciliaire et le cristallin. En quoi se mesure l’amplitude de l’accommodation ?",
+    "answer": "En dioptrie"
+  },
+  {
+    "id": 1028,
+    "question": "Souvent associee au loup, quelle plante vivace de la famille des renonculacees contient divers alcaloîdes, utilisees dans des affections respiratoires ?",
+    "answer": "L’aconit"
+  },
+  {
+    "id": 1029,
+    "question": "Derivant de son nom, quel alcaloîde cristallin blanc, toxique, est extrait de la racine de l’aconit napel ?",
+    "answer": "L’aconitine"
+  },
+  {
+    "id": 1030,
+    "question": "Ancienne vitamine B4, quelle base purique constitutive des acides desoxyribonucleique et ribonucleique, et de certaines coenzymes est un composant essentiel des nucleotides ?",
+    "answer": "L’Adenine (a ne pas confondre avec l’adenosine qui est un nucleoside)"
+  },
+  {
+    "id": 1031,
+    "question": "Quel Nucleotide, abrege ADP et contenant deux acides phosphoriques, forme par hydrolyse de l’ATP avec liberation d’energie ?",
+    "answer": "Adenosine Diphosphate / Adenosine Diphosphorique Page 74 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1032,
+    "question": "Quel nom d’ensemble porte les composes organiques qui resultent de la substitution d’un ou plusieurs atomes d’hydrogene des hydrocarbures aliphatiques, par un ou plusieurs groupements hydroxyles ?",
+    "answer": "Les alcools"
+  },
+  {
+    "id": 1033,
+    "question": "Quel compose organique est obtenu a partir d’un alcool primaire par oxydation ou deshydrogenation ?",
+    "answer": "Un aldehyde"
+  },
+  {
+    "id": 1034,
+    "question": "Quel gaz incolore, a l’odeur piquante a pour formule NH3 ?",
+    "answer": "L’ammoniac"
+  },
+  {
+    "id": 1035,
+    "question": "De quel dieu egyptien derive le terme « ammoniac » car cette substance etait preparee pres de son temple, en Libye ?",
+    "answer": "Amon"
+  },
+  {
+    "id": 1036,
+    "question": "Quel scientifique anglais du 19eme siecle a redige l’ouvrage « L’origine des especes » dans lequel il expose sa celebre theorie de l’evolution ?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 1037,
+    "question": "D’apres Charles Darwin, quel phenomene permet a chaque espece de s’adapter a son environnement par une transmission des genes avantageux ?",
+    "answer": "La selection naturelle"
+  },
+  {
+    "id": 1038,
+    "question": "Par quel terme designe-t-on l’ensemble de statistiques mesurant l'etat de sante d'une population ?",
+    "answer": "L’indicateur de sante"
+  },
+  {
+    "id": 1039,
+    "question": "Quelle expression correspond a la definition suivante : « Difference entre le taux de natalite et le taux de mortalite de la meme annee » ?",
+    "answer": "L’accroissement naturel"
+  },
+  {
+    "id": 1040,
+    "question": "Comment appelle-t-on un etre vivant, organise, doue de sensibilite et de mobilite, et qui se nourrit de substances organiques ?",
+    "answer": "Un animal"
+  },
+  {
+    "id": 1041,
+    "question": "Quel terme designe l’ensemble des caracteres propres a l’animal, par opposition a ceux de l’homme ?",
+    "answer": "L’animalite (a ne pas confondre a l’animosite)"
+  },
+  {
+    "id": 1042,
+    "question": "Quel medicament aromatique, de consistance molle, est employe pour des frictions et des onctions ou pour faire des preparations liquides a base d’alcool ou d’huile ?",
+    "answer": "Un baume"
+  },
+  {
+    "id": 1043,
+    "question": "Quelle substance grasse blanc-jaune, de saveur agreable, fondante, est obtenue a partir des amandes de cacao privees de leur epiderme ?",
+    "answer": "Le beurre de cacao"
+  },
+  {
+    "id": 1044,
+    "question": "Quel nom porte la theorie selon laquelle un etre vivant ne peut provenir que d’un autre etre vivant. ?",
+    "answer": "La biogenese"
+  },
+  {
+    "id": 1045,
+    "question": "Quel nom porte un prelevement sur le corps vivant d’un fragment de tissu ou d’organe en vue d’un examen microscopique ou d’une analyse biochimique ?",
+    "answer": "Une biopsie"
+  },
+  {
+    "id": 1046,
+    "question": "Quel terme designe la masse de matiere vivante, animale ou vegetale, subsistant en equilibre sur une surface donnee du sol ou dans un volume donne d’eau ?",
+    "answer": "La biomasse"
+  },
+  {
+    "id": 1047,
+    "question": "Quel nom porte la Science de la vie ou etude des etres vivants, animaux et vegetaux, et de tous les phenomenes qui regissent leur vie ?",
+    "answer": "La biologie"
+  },
+  {
+    "id": 1048,
+    "question": "Quel nom porte une aire geographique de dimensions variables, qui possede des caracteristiques physiques, chimiques et meteorologiques, relativement stables et qui heberge une population animale et vegetale determinee ?",
+    "answer": "Un biotope"
+  },
+  {
+    "id": 1049,
+    "raw": "Encore appelee biotaxie, quel nom porte la science de la classification des etres vivants ? Page 75 sur 209 ACADEMIE GENIE IMHOTEP R. La taxinomie"
+  },
+  {
+    "id": 1050,
+    "question": "Normalement il est de 100 mg/L. Quel terme designe le taux de calcium dans le sang ?",
+    "answer": "La calcemie"
+  },
+  {
+    "id": 1051,
+    "question": "Quel appareil sert a determiner le taux de calcium contenu dans un liquide ?",
+    "answer": "Le calcimetre"
+  },
+  {
+    "id": 1052,
+    "question": "Quel fruit dont le nom signifie « parfum des parfums » nous fut rapporte du Nouveau Monde par Christophe Colomb ?",
+    "answer": "L’ananas."
+  },
+  {
+    "id": 1053,
+    "question": "Quel fruit exotique doit son nom a un oiseau ?",
+    "answer": "Le kiwi"
+  },
+  {
+    "id": 1054,
+    "question": "Quel appareil permet de mesurer les quantites de chaleur absorbees ou degagees par un corps ?",
+    "answer": "Un calorimetre"
+  },
+  {
+    "id": 1055,
+    "question": "Quel instrument permet de mesurer le contenu en calories des preparations alimentaires destines aux jeunes enfants ?",
+    "answer": "Un caloriscope"
+  },
+  {
+    "id": 1056,
+    "question": "Quelle branche de la medecine est consacree a l’etude et au traitement des cancers ?",
+    "answer": "Cancerologie/oncologie/carcinologie"
+  },
+  {
+    "id": 1057,
+    "question": "Comment appelle-t-on la transformation d’un tissu sain ou non cancereux en tissu cancereux ?",
+    "answer": "La cancerisation"
+  },
+  {
+    "id": 1058,
+    "question": "Comment appelle-t-on la formation et developpement du cœur chez un embryon ?",
+    "answer": "La cardiogenese"
+  },
+  {
+    "id": 1059,
+    "question": "Quel instrument enregistre graphiquement l’intensite et les caracteres des mouvements cardiaques ?",
+    "answer": "Le cardiographe"
+  },
+  {
+    "id": 1060,
+    "question": "Quelle affection proche de la dengue, est due a un arbovirus transmis par des moustiques du genre Aedes ?",
+    "answer": "le chikungunya"
+  },
+  {
+    "id": 1061,
+    "question": "La cause est due a un vibrion, decouvert par en 1883. Quelle Maladie infectieuse et epidemique, est caracterisee par des vomissements, des diarrhees aqueuses, des crampes, et une deshydratation ?",
+    "answer": "Le cholera"
+  },
+  {
+    "id": 1062,
+    "question": "Comment s'appellent les os qui constituent la colonne vertebrale ?",
+    "answer": "Les vertebres"
+  },
+  {
+    "id": 1063,
+    "question": "Quelle est la structure nerveuse protegee par la colonne vertebrale ?",
+    "answer": "La moelle epiniere"
+  },
+  {
+    "id": 1064,
+    "question": "Comment s'appelle la courbure (concave en arriere) au niveau des cervicales et des lombaires ?",
+    "answer": "La lordose"
+  },
+  {
+    "id": 1065,
+    "question": "Comment s'appelle la courbure, concave en avant au niveau des vertebres dorsales et des sacrees ?",
+    "answer": "La cyphose"
+  },
+  {
+    "id": 1066,
+    "question": "Le pancreas est une glande ancree sur la partie proximale de duodenum. Son role est la regulation de la glycemie (taux de sucre dans le sang) par la secretion de deux hormones. Laquelle joue un role hyperglycemiant ?",
+    "answer": "Le glucagon"
+  },
+  {
+    "id": 1067,
+    "question": "Les surrenales sont des petites glandes situees au sommet des reins. Faisant partie du systeme nerveux vegetatif, une fois stimulees par ce dernier, elles se mettent alors a secreter une hormone. Laquelle ?",
+    "answer": "L'adrenaline Page 76 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1068,
+    "question": "Si l'on comparait l'organisme a un pays, l'hypophyse serait son premier ministre : elle gere une grande partie des fonctions du corps. Par exemple, elle regle la quantite d'urine a eliminer par une hormone. Laquelle ?",
+    "answer": "L'hormone antidiuretique (ADH)"
+  },
+  {
+    "id": 1069,
+    "question": "Une fois l'ovule expulse de l'ovaire, les cellules de la theque qui accompagnaient l'ovule en formation deviennent le corps jaune et synthetisent une nouvelle hormone. Quel est son nom ?",
+    "answer": "La progesterone"
+  },
+  {
+    "id": 1070,
+    "question": "Le testicule est compose de deux types de cellules : les cellules de Sertoli pour gerer la production de spermatozoîdes et les cellules de Leydig pour le role endocrine. Quelle hormone est produite par les cellules de Leydig ?",
+    "answer": "La testosterone"
+  },
+  {
+    "id": 1071,
+    "question": "Le rein aussi assure une fonction hormonale. Quelle hormone tres prisee des cyclistes des annees 90 est synthetisee de façon naturelle par le rein ?",
+    "answer": "L'erythropoîetine (EPO)"
+  },
+  {
+    "id": 1072,
+    "question": "Que contient votre urine si vous avez une feculerie ?",
+    "answer": "Des selles"
+  },
+  {
+    "id": 1073,
+    "question": "Quel organe thoracique est utile a l'immunite de l'enfant avant de se transformer en graisse a l'age adulte ?",
+    "answer": "Le thymus"
+  },
+  {
+    "id": 1074,
+    "question": "L'oreille est l'organe charge de l'audition mais elle a une deuxieme fonction. Laquelle ?",
+    "answer": "L'equilibre"
+  },
+  {
+    "id": 1075,
+    "question": "Si on vous diagnostique un gliome, c'est que vous avez une tumeur : Mais ou se trouve t-elle ?",
+    "answer": "Dans le cerveau"
+  },
+  {
+    "id": 1076,
+    "question": "Insulinodependance liee a un deficit auto immune des cellules, de quel type de diabete s’agit-il ?",
+    "answer": "Type 1"
+  },
+  {
+    "id": 1077,
+    "question": "Au cours de quel siecle a ete decouvert l'insuline, une avancee majeure dans le traitement du diabete ?",
+    "answer": "20e"
+  },
+  {
+    "id": 1078,
+    "question": "Le diabete de type 2 est encore appele INSULINO-DEPENDANT, vrai ou faux ?",
+    "answer": "Faux"
+  },
+  {
+    "id": 1079,
+    "question": "Quelle est la date de la journee mondiale du diabete ?",
+    "answer": "14 Novembre"
+  },
+  {
+    "id": 1080,
+    "question": "Parmi les principales mesures que l'on peut prendre pour prevenir le diabete, nous avons le sport vrai ou faux ?",
+    "answer": "Vrai"
+  },
+  {
+    "id": 1081,
+    "question": "Glande plate en forme de poire qui se trouve derriere l'estomac et qui est responsable de la secretion de l'insuline pour la regulation de la glycemie dans l'organisme ?",
+    "answer": "Pancreas"
+  },
+  {
+    "id": 1082,
+    "question": "Comment appelle-t-on une inflammation du pancreas ?",
+    "answer": "Pancreatite"
+  },
+  {
+    "id": 1083,
+    "question": "Mot de quatre lettres commençant par T, c’est une sorte de peur qu’on eprouve avant de paraitre en public. Il est…",
+    "answer": "Le trac"
+  },
+  {
+    "id": 1084,
+    "question": "Nous celebrons chaque annee la Journee mondiale de la sante le 7 avril. Mais il existe aussi une Journee mondiale de la sante mentale. Quelle est la date de cette celebration ?",
+    "answer": "Le 10 octobre"
+  },
+  {
+    "id": 1085,
+    "question": "L’alcool, le tabac et les drogues contribuent-ils a une bonne sante mentale ?",
+    "answer": "Faux, cela detruit grandement la sante mentale."
+  },
+  {
+    "id": 1086,
+    "question": "A part le diabete de type 1 et celui de type 2, quel autre diabete, caracterise par une intolerance au glucose, quelle que soit sa severite, apparait au cours de la grossesse chez une femme sans diabete sucre connu anterieurement ?",
+    "answer": "Diabete gestationnel Page 77 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1087,
+    "question": "Les femmes et les enfants sont-ils immunises contre les maladies mentales vrai ou faux ?",
+    "answer": "Faux, la maladie mentale touche tout le monde."
+  },
+  {
+    "id": 1088,
+    "question": "Pigment noir ou brun-fonce present normalement dans la peau, les cheveux, certaines regions du cerveau ?",
+    "answer": "Melanine"
+  },
+  {
+    "id": 1089,
+    "raw": "Alteration de l'etat de sante se manifestant par un ensemble de signes et de symptomes perceptibles directement ou non, correspondant a des troubles generaux ou localises, fonctionnels ou lesionnels, dus a des causes internes ou externes et comportant une evolution ? R. Maladie"
+  },
+  {
+    "id": 1090,
+    "raw": "Comment s'appelle l'actuel ministre de la sante du Togo ? PR : Tchin DARRE"
+  },
+  {
+    "id": 1091,
+    "question": "Je suis cet eleve qui, a l’approche de l’epreuve, remarque une augmentation des battements de mon cœur et de ma respiration, des mains qui deviennent lourdes, une transpiration subite, et dans les pires des cas, j’oublie tout ce que j’ai appris et ressens une peur soudaine d’echouer ou de rater mon epreuve. De quoi souffre cet eleve ?",
+    "answer": "Du stress."
+  },
+  {
+    "id": 1092,
+    "question": "La depression conduit parfois au suicide ?",
+    "answer": "Vrai, dans les cas ou il n’y a pas de prise en charge rapide, le suicide peut survenir :"
+  },
+  {
+    "id": 1093,
+    "question": "Le Bracelet de Vie est disponible en combien de formats ?",
+    "answer": "3 formats"
+  },
+  {
+    "id": 1094,
+    "question": "Un nouveau-ne peut avoir le diabete Vrai ou faux ?",
+    "answer": "Vrai"
+  },
+  {
+    "id": 1095,
+    "question": "Quel est le taux normal de la glycemie dans l’organisme ?",
+    "answer": "0,70 et 1,10 g par litre de sang a jeun, 1,4 apres un repas"
+  },
+  {
+    "id": 1096,
+    "raw": "Citer au moins deux avancees recentes dans la recherche sur le diabete ou dans le developpement de technologies visant a aider les personnes atteintes de diabete ?"
+  },
+  {
+    "id": 1097,
+    "question": "Comment appelle-t-on l’appareil qui sert a connaitre le taux de sucre dans le sang ?",
+    "answer": "Glucometre"
+  },
+  {
+    "id": 1098,
+    "question": "Quelle grandeur represente ce taux de sucre ?",
+    "answer": "Glycemie"
+  },
+  {
+    "id": 1099,
+    "question": "Organe, siege de la voix, prolongement du pharynx communiquant avec le larynx.",
+    "answer": "Gosier"
+  },
+  {
+    "id": 1100,
+    "question": "Maladie due a une carence en vitamine B1, qui etait autrefois tres repandue chez les peuples d’Asie qui se nourrissaient exclusivement de riz decortique.",
+    "answer": "Beriberi"
+  },
+  {
+    "id": 1101,
+    "raw": "Les exercices de relaxation et la meditation peuvent-ils aider a ameliorer la sante mentale ? R. Vrai"
+  },
+  {
+    "id": 1102,
+    "question": "Citez un produit antidiabetique.",
+    "answer": "Amlopress…"
+  },
+  {
+    "id": 1103,
+    "question": "L’OMS recommande quelle portion de fruits et legumes par jour ?",
+    "answer": "5"
+  },
+  {
+    "id": 1104,
+    "question": "Le traitement du diabete repose sur trois elements essentiels, que sont-ils ?",
+    "answer": "Equilibre alimentaire, activite physique, medicaments"
+  },
+  {
+    "id": 1105,
+    "raw": "Complication aigue du diabete qui consiste en une elevation de l'acidite du sang liee a l'accumulation de substances toxiques pour l'organisme, les corps cetoniques. Acidocetose diabetique Page 78 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1106,
+    "question": "Il est impossible de prevenir le diabete, vrai ou faux ?",
+    "answer": "Vrai"
+  },
+  {
+    "id": 1107,
+    "question": "Du nom de son decouvreur, c'est une maladie neurodegenerative du tissu cerebral, incurable a ce jour, qui entraîne la perte progressive et irreversible des fonctions mentales et notamment de la memoire ?",
+    "answer": "Alzheimer"
+  },
+  {
+    "id": 1108,
+    "question": "Espece d'aloes d'origine incertaine mais cultivee de longue date en region mediterraneenne, en Afrique du Nord, aux îles Canaries et au Cap-Vert. Elle entre dans la composition de certaines boissons ou produits cosmetiques.",
+    "answer": "Aloes Vera"
+  },
+  {
+    "id": 1109,
+    "question": "Quel element chimique, de numero atomique 2, est le plus leger des gaz rares ?",
+    "answer": "L'helium"
+  },
+  {
+    "id": 1110,
+    "question": "Produit considere comme du tabac, contenant plus de goudron que la cigarette fumee, aspire par la bouche et en vogue ces derniers temps aupres des jeunes, et qui entraîne des consequences nefastes sur la sante…",
+    "answer": "Chicha"
+  },
+  {
+    "id": 1111,
+    "question": "Le glucose dans l'organisme est stocke dans le muscle et dans un organe. Quel est cet organe ?",
+    "answer": "Le foie"
+  },
+  {
+    "id": 1112,
+    "question": "En parlant des 3 signes les plus importants du diabete : soif excessive, faim excessive, et ?",
+    "answer": "Miction excessive"
+  },
+  {
+    "id": 1113,
+    "question": "Compose par la reunion de plusieurs autres associations de differents pays, l’organisme de lutte contre le diabete le plus grand est la FID. Est-ce la Federation internationale du diabete ou le Fond international du diabete ?",
+    "answer": "Federation"
+  },
+  {
+    "id": 1114,
+    "question": "L’elevation du taux de sucre dans le sang ?",
+    "answer": "Diabete"
+  },
+  {
+    "id": 1115,
+    "question": "Le diabete fait uriner frequemment. La quantite d'urines emises par jour s’appelle ?",
+    "answer": "Diurese"
+  },
+  {
+    "id": 1116,
+    "question": "Quelle est la plus grande cellule du corps humain ?",
+    "answer": "L'ovule."
+  },
+  {
+    "id": 1117,
+    "question": "Quel est le plus petit os du corps humain ?",
+    "answer": "L'etrier (dans l'oreille)."
+  },
+  {
+    "id": 1118,
+    "question": "Comment appelle-t-on l'inflammation des articulations ?",
+    "answer": "Arthrite."
+  },
+  {
+    "id": 1119,
+    "question": "Quelle est la date de la Journee mondiale contre le cancer ?",
+    "answer": "4 fevrier :"
+  },
+  {
+    "id": 1120,
+    "question": "Quelle est la date de la Journee mondiale de la sante ?",
+    "answer": "7 avril."
+  },
+  {
+    "id": 1121,
+    "question": "Quelle est la date de la Journee mondiale du sida ?",
+    "answer": "1er decembre. 1122. Comment appelle-t-on l'etude des tissus biologiques ? R : L'histologie."
+  },
+  {
+    "id": 1123,
+    "question": "Quelle est la duree de gestation chez l'humain ?",
+    "answer": "9 mois"
+  },
+  {
+    "id": 1124,
+    "question": "Comment appelle-t-on la membrane qui recouvre le cerveau et la moelle epiniere ?",
+    "answer": "Les meninges."
+  },
+  {
+    "id": 1125,
+    "question": "Quelle est la maladie causee par une carence en vitamine B1 ?",
+    "answer": "Le beriberi."
+  },
+  {
+    "id": 1126,
+    "question": "Quelle maladie est causee par une carence en iode ?",
+    "answer": "Le goitre."
+  },
+  {
+    "id": 1127,
+    "question": "Quelle est la maladie causee par le bacille de Koch ?",
+    "answer": "La tuberculose."
+  },
+  {
+    "id": 1128,
+    "question": "Quelle est la maladie causee par une carence en vitamine D ?",
+    "answer": "Le rachitisme."
+  },
+  {
+    "id": 1129,
+    "question": "Comment s'appelle l'hormone qui regule le taux de sucre dans le sang ?",
+    "answer": "L’insuline."
+  },
+  {
+    "id": 1130,
+    "question": "Quelle maladie est causee par une infection du Clostridium tetani ?",
+    "answer": "Le tetanos."
+  },
+  {
+    "id": 1131,
+    "question": "Comment appelle-t-on une infection de la peau causee par des champignons ?",
+    "answer": "La mycose Page 79 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1132,
+    "question": "Quelle est la maladie causee par le virus Varicella-Zoster ?",
+    "answer": "La varicelle."
+  },
+  {
+    "id": 1133,
+    "question": "Quel est l'organe principal du systeme respiratoire ?",
+    "answer": "Les poumons 1134. Quelle est la date de la Journee mondiale de l’eau ? R : 22 mars."
+  },
+  {
+    "id": 1135,
+    "question": "Quelle maladie est causee par une carence en fer ?",
+    "answer": "L'anemie"
+  },
+  {
+    "id": 1136,
+    "question": "Comment s'appelle l'enzyme qui decompose les proteines dans l’estomac ?",
+    "answer": "La pepsine."
+  },
+  {
+    "id": 1137,
+    "question": "Quel est l'objectif principal du Code de la Sante Publique au Togo ?",
+    "answer": "Proteger la sante des populations"
+  },
+  {
+    "id": 1138,
+    "question": "En quelle annee le Code de la Sante Publique a-t-il ete adopte au Togo ?",
+    "answer": "2007"
+  },
+  {
+    "id": 1139,
+    "question": "Quel ministere est charge de l'application du Code de la Sante Publique au Togo ?",
+    "answer": "Le ministere de la Sante et de la Protection Sociale"
+  },
+  {
+    "id": 1140,
+    "question": "Quel est le nombre de niveaux de soins dans le systeme de sante togolais ?",
+    "answer": "Trois niveaux"
+  },
+  {
+    "id": 1141,
+    "question": "Quel est le niveau de soins le plus bas dans le systeme de sante au Togo ?",
+    "answer": "Le niveau de soins de sante primaire"
+  },
+  {
+    "id": 1142,
+    "question": "Quelle est la principale structure responsable de la planification des politiques de sante au Togo ?",
+    "answer": "Le ministere de la Sante et de la Protection Sociale"
+  },
+  {
+    "id": 1143,
+    "question": "Quelle est la fonction des hopitaux de reference au Togo ?",
+    "answer": "Offrir des soins de sante specialises"
+  },
+  {
+    "id": 1144,
+    "question": "Quel est le nom de l'assurance maladie obligatoire au Togo ?",
+    "answer": "La Caisse Nationale de Prevoyance Sociale (CNPS)"
+  },
+  {
+    "id": 1145,
+    "question": "Quelle entreprise technologique a lance une initiative de sante numerique en 2020 ?",
+    "answer": "Apple (Health Records)"
+  },
+  {
+    "id": 1146,
+    "question": "Sous quel nom est mieux connu l’acide acetylsalicylique ?",
+    "answer": "Aspirine"
+  },
+  {
+    "id": 1147,
+    "question": "Quelle est la campagne actuelle contre le paludisme au Togo ?",
+    "answer": "La distribution de moustiquaires impregnees"
+  },
+  {
+    "id": 1148,
+    "question": "Quel est l'objectif de la Declaration de Dakar sur la sante ?",
+    "answer": "Promouvoir la sante pour tous en Afrique"
+  },
+  {
+    "id": 1149,
+    "question": "Quelle est la vision de la Sante pour Tous au Togo ?",
+    "answer": "Garantir l'acces aux soins de qualite pour tous les Togolais"
+  },
+  {
+    "id": 1150,
+    "question": "Quel est la signification du sigle ODD ?",
+    "answer": "Objectifs de Developpement Durable"
+  },
+  {
+    "id": 1151,
+    "raw": "Quel est l'engagement du Togo envers les Objectifs de Developpement Durable (ODD) ? R. Ameliorer la sante et le bien-etre pour tous"
+  },
+  {
+    "id": 1152,
+    "question": "Quel est le programme de sante maternelle et infantile au Togo ?",
+    "answer": "Le Programme de Sante Maternelle et Infantile (PSMI)"
+  },
+  {
+    "id": 1153,
+    "question": "Quel est le principal organisme de recherche en sante au Togo ?",
+    "answer": "L'Institut Togolais de Recherche en Sante Publique"
+  },
+  {
+    "id": 1154,
+    "question": "Quelle initiative vise a sensibiliser les populations sur les maladies transmissibles Les campagnes de sensibilisation ?",
+    "answer": "Apporter un soutien logistique et educatif Page 80 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1155,
+    "question": "Quel est le principal vecteur du paludisme au Togo ?",
+    "answer": "Les moustiques Anopheles femelles."
+  },
+  {
+    "id": 1156,
+    "question": "Quel est le traitement standard du paludisme ?",
+    "answer": "Artemisine"
+  },
+  {
+    "id": 1157,
+    "question": "Quelle est la prevalence du VIH/SIDA au Togo ?",
+    "answer": "Environ 3% de la population"
+  },
+  {
+    "id": 1158,
+    "question": "Quel est le principal mode de transmission du VIH ?",
+    "answer": "Les rapports sexuels non proteges"
+  },
+  {
+    "id": 1159,
+    "question": "Quelle est l'importance des programmes de sante scolaire ?",
+    "answer": "Promouvoir la sante et le bien-etre des eleves"
+  },
+  {
+    "id": 1160,
+    "question": "Quelle est la principale methode utilisee pour sensibiliser la population a la sante ?",
+    "answer": "Les campagnes de sensibilisation par les medias"
+  },
+  {
+    "id": 1161,
+    "question": "Quel est le pourcentage du budget national alloue a la sante au Togo ?",
+    "answer": "Environ 10%"
+  },
+  {
+    "id": 1162,
+    "question": "Quel est le nom de la technique utilisee pour sequencer l'ADN ?",
+    "answer": "Le sequençage genetique"
+  },
+  {
+    "id": 1163,
+    "question": "Quelle methode est utilisee pour cultiver des cellules en laboratoire ?",
+    "answer": "La culture cellulaire"
+  },
+  {
+    "id": 1164,
+    "question": "Quelle technologie permet de surveiller les biomarqueurs dans le corps ?",
+    "answer": "La biologie moleculaire"
+  },
+  {
+    "id": 1165,
+    "question": "Quel est le role des psychologues dans le systeme de sante ?",
+    "answer": "Evaluer et traiter les troubles psychologiques"
+  },
+  {
+    "id": 1166,
+    "question": "Qu'est-ce que la sante mentale positive ?",
+    "answer": "Un etat de bien-etre emotionnel et psychologique"
+  },
+  {
+    "id": 1167,
+    "question": "Quelle technologie permet de detecter des maladies genetiques ?",
+    "answer": "Le test genetique"
+  },
+  {
+    "id": 1168,
+    "question": "Quelle est la methode utilisee pour traiter les maladies auto-immunes ?",
+    "answer": "L'immunosuppression"
+  },
+  {
+    "id": 1169,
+    "question": "Quel est le nom du traitement utilise pour les allergies alimentaires ?",
+    "answer": "L'immunotherapie"
+  },
+  {
+    "id": 1170,
+    "question": "Quelle methode est utilisee pour traiter l'apnee du sommeil ?",
+    "answer": "Le CPAP (appareil de pression positive continue)"
+  },
+  {
+    "id": 1171,
+    "raw": "Quelle est la principale preoccupation ethique liee a l'utilisation des donnees medicales ? R. La confidentialite et la securite des donnees"
+  },
+  {
+    "id": 1172,
+    "question": "Quel est le nom de la technique utilisee pour produire des medicaments a partir de cellules vivantes ?",
+    "answer": "La bio production"
+  },
+  {
+    "id": 1173,
+    "question": "Quelle innovation permet de cultiver des organes pour la transplantation ?",
+    "answer": "L'ingenierie tissulaire"
+  },
+  {
+    "id": 1174,
+    "question": "Quel est le role de la biotechnologie dans la sante animale ?",
+    "answer": "Ameliorer la sante et la productivite des animaux"
+  },
+  {
+    "id": 1175,
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "answer": "H₂O"
+  },
+  {
+    "id": 1176,
+    "question": "Quelle est la couche de la Terre sur laquelle nous vivons ?",
+    "answer": "La croute terrestre Page 81 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1177,
+    "question": "Quel est le processus par lequel les plantes fabriquent leur nourriture ?",
+    "answer": "La photosynthese"
+  },
+  {
+    "id": 1178,
+    "question": "Quels sont les trois etats de la matiere ?",
+    "answer": "Solide, liquide, gaz"
+  },
+  {
+    "id": 1179,
+    "question": "Quel est le role des racines d'une plante ?",
+    "answer": "Absorption d'eau et de nutriments"
+  },
+  {
+    "id": 1180,
+    "question": "Quelle est l'echelle qui mesure l'intensite des tremblements de terre ?",
+    "answer": "Echelle de Richter"
+  },
+  {
+    "id": 1181,
+    "question": "Quel est le principal constituant de l'air ?",
+    "answer": "Azote"
+  },
+  {
+    "id": 1182,
+    "question": "Quelle est la principale fonction des globules rouges ?",
+    "answer": "Transporter l'oxygene"
+  },
+  {
+    "id": 1183,
+    "question": "Quel est le role de l'ADN dans les cellules ?",
+    "answer": "Stockage et transmission de l'information genetique, synthese des proteines."
+  },
+  {
+    "id": 1184,
+    "question": "Quel est le nom du phenomene par lequel l'eau passe de l'etat liquide a l'etat gazeux ?",
+    "answer": "Evaporation"
+  },
+  {
+    "id": 1185,
+    "question": "Quelle est la principale source d'energie renouvelable ?",
+    "answer": "Energie solaire"
+  },
+  {
+    "id": 1186,
+    "question": "Quel type de roche est forme par l'accumulation de sediments ?",
+    "answer": "Roche sedimentaire"
+  },
+  {
+    "id": 1187,
+    "question": "Quel est le nom de la theorie qui explique l'evolution des especes ?",
+    "answer": "Theorie de l'evolution, la selection naturelle ou darwinisme"
+  },
+  {
+    "id": 1188,
+    "question": "Quelle est la principale fonction du systeme immunitaire ?",
+    "answer": "Defense contre les maladies 1189. Quel est le role des enzymes dans les reactions chimiques ? R : Accelerer les reactions 1190. Quel est le nom du processus par lequel les etres vivants liberent de l'eau ? R : Transpiration"
+  },
+  {
+    "id": 1191,
+    "question": "Quel phenomene est responsable des saisons ?",
+    "answer": "Inclinaison de l'axe terrestre"
+  },
+  {
+    "id": 1192,
+    "question": "Quel est le role des glandes endocrines ?",
+    "answer": "Secreter des hormones"
+  },
+  {
+    "id": 1193,
+    "question": "Quelle est la principale cause de l'acidification des oceans ?",
+    "answer": "Absorption de CO₂ par l'eau"
+  },
+  {
+    "id": 1194,
+    "question": "Quel est le nom de l'organe responsable de la digestion des aliments ?",
+    "answer": "Estomac"
+  },
+  {
+    "id": 1195,
+    "question": "Quel est le role des abeilles dans l'agriculture ?",
+    "answer": "Polliniser les cultures"
+  },
+  {
+    "id": 1196,
+    "question": "Quel est le nom du processus par lequel les roches se forment ?",
+    "answer": "Lithogenese"
+  },
+  {
+    "id": 1197,
+    "question": "Quel dispositif, invente dans les annees 1980, permet de traiter les patients souffrant de diabete en liberant de l'insuline de maniere controlee ?",
+    "answer": "La pompe a insuline."
+  },
+  {
+    "id": 1198,
+    "question": ". Quel medicament decouvert par Frederick Banting et Charles Best en 1921 a transforme la vie des patients diabetiques ?",
+    "answer": "L'insuline."
+  },
+  {
+    "id": 1199,
+    "question": "Quelle machine utilise des ondes sonores pour obtenir des images en temps reel des organes internes, souvent utilisee pendant la grossesse ?",
+    "answer": "L’echographie."
+  },
+  {
+    "id": 1200,
+    "question": "Quel procede chirurgical, developpe au debut du XXe siecle, permet de greffer la cornee pour restaurer la vision des personnes ayant subi des dommages oculaires ?",
+    "answer": "La keratoplastie (ou greffe de cornee)."
+  },
+  {
+    "id": 1201,
+    "question": "Quel medicament decouvert par Louis Pasteur a permis de traiter les infections bacteriennes causees par les streptocoques et les staphylocoques ?",
+    "answer": "La penicilline."
+  },
+  {
+    "id": 1202,
+    "question": "Quel type de prothese a permis aux patients amputes de marcher a nouveau en remplaçant les membres manquants ?",
+    "answer": "Les protheses de jambe. Page 82 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1203,
+    "question": "Quelle technique d'imagerie a revolutionne la detection des maladies cardiaques en utilisant les champs magnetiques et les ondes radio ?",
+    "answer": "L'imagerie par resonance magnetique (IRM)."
+  },
+  {
+    "id": 1204,
+    "question": "Quel test, invente par George Papanicolaou, est utilise pour depister les cellules anormales dans le col de l'uterus et prevenir le cancer cervical ?",
+    "answer": "Le test Papanicolaou (ou frottis cervico-vaginal)."
+  },
+  {
+    "id": 1205,
+    "question": "Quel appareil, utilise dans les unites de soins intensifs, permet de maintenir artificiellement la respiration d’un patient en cas d’insuffisance respiratoire ?",
+    "answer": "Le ventilateur mecanique."
+  },
+  {
+    "id": 1206,
+    "question": "Quelle invention des annees 1940 a permis de stocker le sang pour les transfusions, en prolongeant sa duree de conservation ?",
+    "answer": "Le sang en poche (ou la poche de sang pour transfusion)."
+  },
+  {
+    "id": 1207,
+    "question": ". Quel dispositif medical est implante dans le cœur pour reguler les battements cardiaques et prevenir l'arythmie ?",
+    "answer": "Le stimulateur cardiaque (ou pacemaker)."
+  },
+  {
+    "id": 1208,
+    "question": "Quelle innovation chirurgicale permet de remplacer les articulations usees, notamment la hanche et le genou ?",
+    "answer": "La prothese articulaire."
+  },
+  {
+    "id": 1209,
+    "question": "Quelle procedure permet de filtrer le sang pour eliminer les dechets lorsque les reins ne fonctionnent plus correctement ?",
+    "answer": "La dialyse."
+  },
+  {
+    "id": 1210,
+    "question": "Quel medicament a revolutionne le traitement de l'infarctus du myocarde en dissolvant les caillots sanguins dans les arteres coronaires ?",
+    "answer": "Le streptokinase (ou agent thrombolytique)."
+  },
+  {
+    "id": 1211,
+    "question": ". Quel medicament, decouvert par Gregory Pincus, est considere comme une avancee majeure dans la planification familiale ?",
+    "answer": "La pilule contraceptive."
+  },
+  {
+    "id": 1212,
+    "question": "Quel type d'appareil utilise des rayons X pour obtenir des images detaillees des os et des tissus mous du corps ?",
+    "answer": "Le scanner (ou tomodensitometrie)."
+  },
+  {
+    "id": 1213,
+    "question": "Quel type de masque, developpe pour proteger contre les maladies infectieuses, est devenu essentiel pendant les pandemies comme celle de la COVID-19 ?",
+    "answer": "Le masque N95."
+  },
+  {
+    "id": 1214,
+    "question": "Quel appareil permet de mesurer la pression arterielle et est souvent utilise dans les cabinets medicaux pour depister l’hypertension ?",
+    "answer": "Le tensiometre."
+  },
+  {
+    "id": 1215,
+    "question": "Quel medicament, utilise dans le traitement du VIH/SIDA, a ete l'un des premiers a ralentir la progression de la maladie ?",
+    "answer": "R : L'AZT (Zidovudine)."
+  },
+  {
+    "id": 1216,
+    "question": "Quelle methode de diagnostic utilise des rayons X pour detecter des anomalies dans les poumons, comme la pneumonie ou le cancer ?",
+    "answer": "La radiographie pulmonaire."
+  },
+  {
+    "id": 1217,
+    "question": "Quelle technique d’imagerie permet de visualiser le systeme vasculaire en injectant un produit de contraste dans les arteres ?",
+    "answer": "L’angiographie."
+  },
+  {
+    "id": 1218,
+    "question": "Quel type de greffe, realisee pour la premiere fois avec succes en 1954, a permis de sauver des vies en remplaçant des organes defectueux ?",
+    "answer": "La greffe renale (transplantation de rein). Page 83 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1219,
+    "question": "Quel type de chirurgie mini-invasive, developpee dans les annees 1980, permet d’effectuer des operations sans ouvrir de grandes incisions ?",
+    "answer": "La chirurgie laparoscopique (ou cœlioscopie)."
+  },
+  {
+    "id": 1220,
+    "question": "Quel medicament anti-inflammatoire, utilise pour traiter la douleur et la fievre, est aussi connu pour ses effets protecteurs contre les maladies cardiovasculaires ?",
+    "answer": "L'aspirine."
+  },
+  {
+    "id": 1221,
+    "question": "Quel dispositif portable utilise par les personnes souffrant d'insuffisance respiratoire fournit de l'oxygene a domicile ?",
+    "answer": "Le concentrateur d'oxygene"
+  },
+  {
+    "id": 1222,
+    "question": "Quel scientifique est a l'origine du premier vaccin contre la rage ?",
+    "answer": "Louis Pasteur :"
+  },
+  {
+    "id": 1223,
+    "question": "Quelle invention permet de visualiser les os casses ou d'autres structures internes du corps ?",
+    "answer": "La radiographie."
+  },
+  {
+    "id": 1224,
+    "question": "Quel est le nom de la technique qui consiste a steriliser des instruments chirurgicaux pour eviter les infections ?",
+    "answer": "L'asepsie."
+  },
+  {
+    "id": 1225,
+    "question": "Qui a decouvert la penicilline, un antibiotique qui a revolutionne le traitement des infections bacteriennes ?",
+    "answer": "Alexander Fleming."
+  },
+  {
+    "id": 1226,
+    "question": "Quel dispositif medical a ete invente pour aider les personnes qui ont des problemes cardiaques a maintenir un rythme cardiaque regulier ?",
+    "answer": "Le pacemaker :"
+  },
+  {
+    "id": 1227,
+    "question": "Quel vaccin est utilise pour prevenir la poliomyelite, une maladie qui peut paralyser ?",
+    "answer": "Le vaccin contre la polio."
+  },
+  {
+    "id": 1228,
+    "question": "Quel est le nom du test utilise pour detecter des anomalies dans le corps comme des tumeurs ?",
+    "answer": "L'IRM (Imagerie par Resonance Magnetique)."
+  },
+  {
+    "id": 1229,
+    "question": "Quel procede medical est utilise pour remplacer des articulations endommagees, comme les hanches ou les genoux ?",
+    "answer": "La prothese articulaire."
+  },
+  {
+    "id": 1230,
+    "question": "Quelle decouverte medicale permet de reduire le risque de maladies infectieuses en eliminant les micro-organismes des surfaces et des mains ?",
+    "answer": "Le lavage des mains (decouvert par Ignace Semmelweis)."
+  },
+  {
+    "id": 1231,
+    "question": ". Quel appareil est utilise pour surveiller la pression arterielle ?",
+    "answer": "Le tensiometre."
+  },
+  {
+    "id": 1232,
+    "question": "Quelle invention medicale est utilisee pour aider a respirer lorsque les poumons sont defaillants ?",
+    "answer": "Le ventilateur medical."
+  },
+  {
+    "id": 1233,
+    "question": "Quelle est l’invention qui permet de surveiller le rythme cardiaque a travers un appareil portable colle sur le corps ?",
+    "answer": "Le moniteur Holter :"
+  },
+  {
+    "id": 1234,
+    "question": "Quel medicament, decouvert dans les annees 1920, est utilise pour traiter le diabete de type 1 ?",
+    "answer": "L’insuline."
+  },
+  {
+    "id": 1235,
+    "question": "Comment s'appelle le processus consistant a proteger les individus contre une maladie en leur injectant une version attenuee ou inactivee du virus ou de la bacterie ?",
+    "answer": "La vaccination."
+  },
+  {
+    "id": 1236,
+    "question": "Quel scientifique a developpe la technique de la pasteurisation pour rendre les aliments plus surs a consommer ?",
+    "answer": "Louis Pasteur :"
+  },
+  {
+    "id": 1237,
+    "question": ". Quelle invention medicale a revolutionne la chirurgie en permettant de stopper les saignements importants en cauterisant les tissus ?",
+    "answer": "Le laser medical. Page 84 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1238,
+    "question": ". Quel instrument medical est utilise pour ecouter les battements du cœur et les sons des poumons ?",
+    "answer": "Le stethoscope."
+  },
+  {
+    "id": 1239,
+    "question": "Quel est le nom de la technique medicale qui permet de voir les organes internes avec des rayons X et une solution de contraste ?",
+    "answer": "La fluoroscopie."
+  },
+  {
+    "id": 1240,
+    "question": "Quelle invention permet de mesurer le taux d'oxygene dans le sang de maniere non invasive ?",
+    "answer": "L'oxymetre de pouls."
+  },
+  {
+    "id": 1241,
+    "question": ". Quel medicament decouvert dans les annees 1940 est utilise pour traiter les infections bacteriennes ?",
+    "answer": "La penicilline."
+  },
+  {
+    "id": 1242,
+    "question": "Quel outil est utilise pour injecter des medicaments dans le corps ou prelever des echantillons de sang ?",
+    "answer": "La seringue."
+  },
+  {
+    "id": 1243,
+    "question": "Quelle technique de diagnostic non invasive utilise des ultrasons pour visualiser les organes internes en temps reel ?",
+    "answer": "L'echographie."
+  },
+  {
+    "id": 1244,
+    "question": "Quel appareil est utilise pour enregistrer l'activite electrique du cerveau ?",
+    "answer": "L'electroencephalogramme (EEG)."
+  },
+  {
+    "id": 1245,
+    "question": "Quel dispositif medical permet de surveiller en continu les battements du cœur lors d'une activite physique ?",
+    "answer": "Le moniteur de frequence cardiaque."
+  },
+  {
+    "id": 1246,
+    "question": "Quel test est utilise pour verifier la presence de cellules cancereuses dans le col de l'uterus ?",
+    "answer": "Le frottis cervical (test de Pap)."
+  },
+  {
+    "id": 1247,
+    "question": "Quel est le nom du traitement qui consiste a introduire un tube dans une veine pour injecter des medicaments directement dans le sang ?",
+    "answer": "La perfusion intraveineuse."
+  },
+  {
+    "id": 1248,
+    "question": "Quelle technique medicale utilise des radiations pour traiter certaines formes de cancer ?",
+    "answer": "La radiotherapie."
+  },
+  {
+    "id": 1249,
+    "question": "Quel est le nom du dispositif medical implante sous la peau pour administrer des medicaments a long terme ?",
+    "answer": "Le catheter implantable (ou port-a-cath)."
+  },
+  {
+    "id": 1250,
+    "question": "Quel outil permet de mesurer la temperature du corps pour detecter la fievre ?",
+    "answer": "Le thermometre."
+  },
+  {
+    "id": 1251,
+    "question": "Quelle technique d'imagerie permet de voir les vaisseaux sanguins en injectant un colorant special dans les arteres ?",
+    "answer": "L'angiographie."
+  },
+  {
+    "id": 1252,
+    "question": "Quel type de vaccination protege contre la tuberculose ?",
+    "answer": "Le vaccin BCG."
+  },
+  {
+    "id": 1253,
+    "question": "Quelle invention permet de remplacer les fonctions des reins lorsque ceux-ci ne peuvent plus eliminer les toxines du sang ?",
+    "answer": "La dialyse."
+  },
+  {
+    "id": 1254,
+    "question": "Quel appareil est utilise pour retablir le rythme cardiaque lors d'un arret cardiaque ?",
+    "answer": "Le defibrillateur :"
+  },
+  {
+    "id": 1255,
+    "question": "Quelle technique chirurgicale a permis de rendre les transplantations d'organes plus sures en reduisant les rejets ?",
+    "answer": "L'immunosuppression."
+  },
+  {
+    "id": 1256,
+    "question": "Quelle decouverte a permis de mieux comprendre la propagation des maladies infectieuses en mettant en avant l'importance de l'hygiene ?",
+    "answer": "La theorie des germes."
+  },
+  {
+    "id": 1257,
+    "question": "Quel test sanguin permet de determiner le groupe sanguin d'une personne avant une transfusion ?",
+    "answer": "Le test de compatibilite sanguine. Page 85 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1258,
+    "question": "Quel est le nom du dispositif utilise pour administrer des medicaments en aerosol aux personnes souffrant d'asthme ?",
+    "answer": "L’inhalateur :"
+  },
+  {
+    "id": 1259,
+    "question": "Quel type de chirurgie consiste a prelever un organe ou un tissu chez un donneur pour le greffer a un receveur ?",
+    "answer": "La transplantation."
+  },
+  {
+    "id": 1260,
+    "question": "Quelle technologie permet de surveiller le taux de glucose en continu chez les personnes atteintes de diabete ?",
+    "answer": "Le capteur de glucose."
+  },
+  {
+    "id": 1261,
+    "question": "Quel est le nom de la procedure qui consiste a introduire un petit ballonnet dans une artere obstruee pour l'elargir ?",
+    "answer": "L'angioplastie."
+  },
+  {
+    "id": 1262,
+    "question": "Quel examen est realise pour detecter des anomalies dans les seins, souvent utilise dans la detection du cancer du sein ?",
+    "answer": "La mammographie."
+  },
+  {
+    "id": 1263,
+    "question": "Quel vaccin est administre aux jeunes filles pour les proteger contre le cancer du col de l'uterus ?",
+    "answer": "Le vaccin contre le papillomavirus humain (HPV)."
+  },
+  {
+    "id": 1264,
+    "question": "Quel procede medical est utilise pour eliminer les caillots sanguins dans les vaisseaux sanguins du cerveau, reduisant ainsi les effets d'un AVC ?",
+    "answer": "La thrombectomie."
+  },
+  {
+    "id": 1265,
+    "question": "Quel est le nom de l'appareil qui aide a stabiliser les os fractures jusqu'a leur guerison complete ?",
+    "answer": "Le platre"
+  },
+  {
+    "id": 1266,
+    "question": "Quel medicament couramment utilise est employe pour reduire la douleur et la fievre ?",
+    "answer": "Le paracetamol (ou acetaminophene)."
+  },
+  {
+    "id": 1267,
+    "question": "Quel traitement medical est utilise pour reduire l'inflammation dans des conditions telles que l'asthme ou l'arthrite ?",
+    "answer": "Les corticosteroîdes."
+  },
+  {
+    "id": 1268,
+    "question": "Quel dispositif medical est utilise pour immobiliser une partie du corps en cas de blessure ou de fracture ?",
+    "answer": "L'attelle."
+  },
+  {
+    "id": 1269,
+    "question": "Quel medicament est utilise pour arreter rapidement une crise allergique grave, appelee choc anaphylactique ?",
+    "answer": "L'epinephrine (ou adrenaline)."
+  },
+  {
+    "id": 1270,
+    "question": "Quelle invention permet de filtrer l'air que l'on respire pour eviter l'inhalation de particules dangereuses ?",
+    "answer": "Le masque respiratoire."
+  },
+  {
+    "id": 1271,
+    "question": "Quel type de diagnostic utilise un faisceau de rayons X pour creer des images en coupes transversales du corps ?",
+    "answer": "Le scanner (ou tomodensitometrie)."
+  },
+  {
+    "id": 1272,
+    "question": "Quel vaccin est recommande pour les voyageurs se rendant dans des zones ou le risque de fievre jaune est eleve ?",
+    "answer": "Le vaccin contre la fievre jaune."
+  },
+  {
+    "id": 1273,
+    "question": "Quel medicament est utilise pour prevenir les crises cardiaques en empechant la formation de caillots dans le sang ?",
+    "answer": "L'aspirine."
+  },
+  {
+    "id": 1274,
+    "question": "Quelle procedure medicale permet de verifier la presence de tumeurs dans le gros intestin et le rectum ?",
+    "answer": "La coloscopie."
+  },
+  {
+    "id": 1275,
+    "question": "Quelle methode contraceptive consiste a inserer un petit dispositif en forme de T dans l'uterus ?",
+    "answer": "Le sterilet (dispositif intra-uterin)."
+  },
+  {
+    "id": 1276,
+    "question": "Quel vaccin est administre aux nourrissons pour les proteger contre des maladies graves comme le tetanos, la diphterie et la coqueluche ?",
+    "answer": "Le vaccin DTCa (Diphterie-Tetanos Coqueluche acellulaire). Page 86 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1277,
+    "question": "Quel dispositif implante sous la peau est utilise pour surveiller et corriger le rythme cardiaque en cas d'arythmie severe ?",
+    "answer": "Le pacemaker :"
+  },
+  {
+    "id": 1278,
+    "question": "Quelle methode d'imagerie medicale utilise des ondes sonores pour visualiser les organes internes ?",
+    "answer": "L'echographie."
+  },
+  {
+    "id": 1279,
+    "question": "Quel est le nom du vaccin qui protege contre l'hepatite B ?",
+    "answer": "Le vaccin contre l'hepatite B"
+  },
+  {
+    "id": 1280,
+    "question": "Quel est le nom du medicament utilise pour traiter le VIH/SIDA en bloquant la replication du virus ?",
+    "answer": "Les antiretroviraux (ARV)."
+  },
+  {
+    "id": 1281,
+    "question": "Quel est le medicament utilise pour traiter les patients atteints de diabete de type 1, en imitant l'effet de l'insuline naturelle ?",
+    "answer": "L'insuline."
+  },
+  {
+    "id": 1282,
+    "question": "Quel appareil a revolutionne la reeducation des patients paralyses en stimulant electriquement les muscles ?",
+    "answer": "L'electro stimulateur :"
+  },
+  {
+    "id": 1283,
+    "question": "Quel est le nom de la methode d'oxygenation utilisee pour les patients rencontrant des difficultes respiratoires severes, souvent due a une pneumonie ou a une crise d'asthme ?",
+    "answer": "L'oxygenotherapie."
+  },
+  {
+    "id": 1284,
+    "question": "Quelle methode a permis de reduire les risques de transmission de maladies lors des transfusions sanguines ?",
+    "answer": "Le depistage systematique des maladies infectieuses dans les dons de sang."
+  },
+  {
+    "id": 1285,
+    "question": "Quel traitement a ete developpe pour neutraliser les toxines liberees par les bacteries responsables du tetanos ?",
+    "answer": "Le serum antitetanique."
+  },
+  {
+    "id": 1286,
+    "question": "Quelle technique d'imagerie permet de visualiser les os, les muscles et les tissus mous a l'aide de champs magnetiques puissants ?",
+    "answer": "L'IRM (Imagerie par Resonance Magnetique)."
+  },
+  {
+    "id": 1287,
+    "question": "Quel traitement est utilise pour proteger les femmes enceintes dont le groupe sanguin est Rhesus negatif contre les incompatibilites sanguines avec leur bebe ?",
+    "answer": "L'injection d'immunoglobuline anti-D."
+  },
+  {
+    "id": 1288,
+    "question": "Quel dispositif est utilise pour prevenir les embolies pulmonaires en capturant les caillots sanguins avant qu'ils ne puissent atteindre les poumons ?",
+    "answer": "Le filtre cave."
+  },
+  {
+    "id": 1289,
+    "question": "Quel medicament est souvent utilise pour traiter les infections bacteriennes graves et les infections des voies respiratoires ?",
+    "answer": "L'amoxicilline (un type d'antibiotique)."
+  },
+  {
+    "id": 1290,
+    "question": "Quel vaccin protege contre la poliomyelite, une maladie qui peut causer des paralysies ?",
+    "answer": "Le vaccin antipoliomyelitique."
+  },
+  {
+    "id": 1291,
+    "question": "Quelle invention permet de mesurer la glycemie d'un patient diabetique a domicile ?",
+    "answer": "Le glucometre."
+  },
+  {
+    "id": 1292,
+    "question": "Quel dispositif medical, cree par Rene Laennec, est utilise pour ecouter les sons du cœur et des poumons ?",
+    "answer": "Le stethoscope."
+  },
+  {
+    "id": 1293,
+    "question": "Quel appareil a permis d’ameliorer la precision des chirurgies en eliminant les tremblements des mains du chirurgien ?",
+    "answer": "Le robot chirurgical Da Vinci"
+  },
+  {
+    "id": 1294,
+    "question": "Quelle technique utilise des radiations pour traiter des tumeurs cancereuses en detruisant les cellules malades ?",
+    "answer": "La radiotherapie. Page 87 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1295,
+    "question": "Quel dispositif a permis de faciliter la dialyse chez les patients en insuffisance renale ?",
+    "answer": "Le rein artificiel (ou machine de dialyse)."
+  },
+  {
+    "id": 1296,
+    "question": "Quel traitement a ete utilise pour combattre la rage apres la morsure d'un animal infecte ?",
+    "answer": "Le vaccin antirabique."
+  },
+  {
+    "id": 1297,
+    "question": "Quel examen utilise des ondes electromagnetiques pour produire des images detaillees du cerveau et des organes internes ?",
+    "answer": "La tomodensitometrie (ou scanner)."
+  },
+  {
+    "id": 1298,
+    "question": "Quelle methode d'imagerie est utilisee pour detecter des anomalies dans les vaisseaux sanguins et le cœur en utilisant un colorant ?",
+    "answer": "L'angiographie."
+  },
+  {
+    "id": 1299,
+    "question": "Quelle technologie permet de surveiller a distance les signes vitaux d’un patient et d’envoyer les informations a un professionnel de sante ?",
+    "answer": "La telemedecine."
+  },
+  {
+    "id": 1300,
+    "question": "Quel est le role des mitochondries dans une cellule ?",
+    "answer": "Produire de l'energie sous forme d'ATP."
+  },
+  {
+    "id": 1301,
+    "question": "Quelle est la molecule qui transporte l'oxygene dans le sang ?",
+    "answer": "L'hemoglobine."
+  },
+  {
+    "id": 1302,
+    "question": "Quel est le principal gaz responsable de l'effet de serre ?",
+    "answer": "Le dioxyde de carbone (CO2)."
+  },
+  {
+    "id": 1303,
+    "question": "Quel est le processus par lequel les plantes fabriquent leur propre nourriture en utilisant la lumiere du soleil ?",
+    "answer": "La photosynthese."
+  },
+  {
+    "id": 1304,
+    "question": "Quel est le nom des organes reproducteurs males chez les plantes a fleurs ?",
+    "answer": "Les etamines."
+  },
+  {
+    "id": 1305,
+    "question": "Quelle structure des poumons est responsable des echanges gazeux ?",
+    "answer": "Les alveoles pulmonaires."
+  },
+  {
+    "id": 1306,
+    "question": "Quel est le terme designant l’ensemble des reactions chimiques qui se produisent dans une cellule pour maintenir la vie ?",
+    "answer": "Le metabolisme."
+  },
+  {
+    "id": 1307,
+    "question": "Quel est l’acide nucleique qui contient le code genetique des etres vivants ?",
+    "answer": "ADN (acide desoxyribonucleique)."
+  },
+  {
+    "id": 1308,
+    "question": "Comment appelle-t-on la division cellulaire qui produit des gametes ?",
+    "answer": "La meiose."
+  },
+  {
+    "id": 1309,
+    "question": "Quel type d’organisme est capable de produire sa propre nourriture par photosynthese ou chimiosynthese ?",
+    "answer": "Les autotrophes."
+  },
+  {
+    "id": 1310,
+    "question": "Quelle hormone est responsable de la regulation de la glycemie ?",
+    "answer": "L’insuline."
+  },
+  {
+    "id": 1311,
+    "question": "Quelle est la principale fonction du systeme nerveux central ?",
+    "answer": "Controler et coordonner les activites corporelles."
+  },
+  {
+    "id": 1312,
+    "question": "Quel est le terme utilise pour decrire la transmission des caracteres hereditaires d'une generation a l'autre ?",
+    "answer": "L'heredite."
+  },
+  {
+    "id": 1313,
+    "question": "Quelle est la phase de la mitose ou les chromosomes s'alignent au centre de la cellule ?",
+    "answer": "La metaphase."
+  },
+  {
+    "id": 1314,
+    "question": "Quel est l’organe qui filtre le sang et produit l'urine ?",
+    "answer": "Le rein."
+  },
+  {
+    "id": 1315,
+    "question": "Quel est le nom du phenomene par lequel une population d'organismes change au fil du temps pour s'adapter a son environnement ?",
+    "answer": "L'evolution."
+  },
+  {
+    "id": 1316,
+    "question": "Quel est le pigment qui donne sa couleur verte aux plantes et qui absorbe la lumiere pour la photosynthese ?",
+    "answer": "La chlorophylle. Page 88 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1317,
+    "question": "Quel est l’element principal constituant les os du corps humain ?",
+    "answer": "Le calcium."
+  },
+  {
+    "id": 1318,
+    "question": "Comment appelle-t-on la sequence complete d’ADN d’un organisme ?",
+    "answer": "Le genome."
+  },
+  {
+    "id": 1319,
+    "question": "Quel est le principal gaz libere lors de la respiration cellulaire ?",
+    "answer": "Le dioxyde de carbone (CO2)."
+  },
+  {
+    "id": 1320,
+    "question": "Quelle partie du cerveau est responsable de la regulation des emotions et de la memoire ?",
+    "answer": "L'hippocampe."
+  },
+  {
+    "id": 1321,
+    "question": "Quel type de reproduction implique la fusion de deux gametes ?",
+    "answer": "La reproduction sexuee."
+  },
+  {
+    "id": 1322,
+    "question": "Quelle est la fonction principale des globules rouges dans le sang ?",
+    "answer": "Transporter l'oxygene vers les cellules du corps."
+  },
+  {
+    "id": 1323,
+    "question": "Quel est le processus par lequel les cellules produisent de l'energie en l'absence d'oxygene ?",
+    "answer": "La fermentation."
+  },
+  {
+    "id": 1324,
+    "question": "Quel est le nom de la couche externe de la peau chez l'homme ?",
+    "answer": "L'epiderme."
+  },
+  {
+    "id": 1325,
+    "question": "Quel est le mecanisme par lequel les plantes absorbent l'eau du sol a travers leurs racines ?",
+    "answer": "L'osmose."
+  },
+  {
+    "id": 1326,
+    "question": "Quelle partie du cœur reçoit le sang riche en oxygene des poumons ?",
+    "answer": "L'oreillette gauche."
+  },
+  {
+    "id": 1327,
+    "question": "Quel est le principal organe du systeme digestif ou se deroule l'absorption des nutriments ?",
+    "answer": "L'intestin grele."
+  },
+  {
+    "id": 1328,
+    "question": "Quel est le role des enzymes dans le corps humain ?",
+    "answer": "Accelerer les reactions chimiques (catalyse)."
+  },
+  {
+    "id": 1329,
+    "question": "Comment appelle-t-on les micro-organismes responsables de la decomposition des matieres organiques mortes ?",
+    "answer": "Les decomposeurs."
+  },
+  {
+    "id": 1330,
+    "question": "Quelle est la fonction des stomates sur les feuilles des plantes ?",
+    "answer": "Reguler les echanges gazeux et la transpiration."
+  },
+  {
+    "id": 1331,
+    "question": "Quelle est la structure qui protege l’embryon dans l'œuf chez les oiseaux et les reptiles ?",
+    "answer": "La coquille."
+  },
+  {
+    "id": 1332,
+    "question": "Quel est l'organe principal du systeme respiratoire chez l'homme ?",
+    "answer": "Les poumons."
+  },
+  {
+    "id": 1333,
+    "question": "Quel est le principal constituant des proteines ?",
+    "answer": "Les acides amines."
+  },
+  {
+    "id": 1334,
+    "question": "Quel est le terme designant l'ensemble des relations alimentaires dans un ecosysteme ?",
+    "answer": "La chaîne alimentaire."
+  },
+  {
+    "id": 1335,
+    "question": "Quel est le liquide qui circule dans le systeme lymphatique ?",
+    "answer": "La lymphe."
+  },
+  {
+    "id": 1336,
+    "question": "Comment appelle-t-on le mouvement des chromosomes vers les poles opposes de la cellule pendant la mitose ?",
+    "answer": "L'anaphase."
+  },
+  {
+    "id": 1337,
+    "question": "Quel est le terme designant l'ensemble des interactions entre les etres vivants et leur environnement ?",
+    "answer": "L'ecosysteme."
+  },
+  {
+    "id": 1338,
+    "question": "Quel est le tissu qui relie les muscles aux os ?",
+    "answer": "Les tendons."
+  },
+  {
+    "id": 1339,
+    "question": "Quelle est la principale source d'energie pour les etres vivants ?",
+    "answer": "Le glucose."
+  },
+  {
+    "id": 1340,
+    "question": "Quel est le processus de transformation d’une cellule souche en cellule specialisee ?",
+    "answer": "La differenciation cellulaire. Page 89 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1341,
+    "question": "Quelle est la partie de l'œil humain qui regule la quantite de lumiere qui entre ?",
+    "answer": "L'iris."
+  },
+  {
+    "id": 1342,
+    "question": "Quel est le processus par lequel les etres vivants eliminent les dechets azotes ?",
+    "answer": "L'excretion."
+  },
+  {
+    "id": 1343,
+    "question": "Quelle structure des cellules vegetales est responsable de leur rigidite ?",
+    "answer": "La paroi cellulaire."
+  },
+  {
+    "id": 1344,
+    "question": "Quel est l’organe reproducteur femelle chez les fleurs ?",
+    "answer": "Le pistil."
+  },
+  {
+    "id": 1345,
+    "question": "Quel est le nom de l’enzyme presente dans la salive qui commence la digestion de l’amidon ?",
+    "answer": "L'amylase."
+  },
+  {
+    "id": 1346,
+    "question": "Comment appelle-t-on la molecule d'energie utilisee par les cellules pour accomplir leurs fonctions ?",
+    "answer": "L'ATP (adenosine triphosphate)."
+  },
+  {
+    "id": 1347,
+    "question": "Quel est le tissu responsable de la circulation de la seve dans les plantes ?",
+    "answer": "Le xyleme (seve brute) et le phloeme (seve elaboree)."
+  },
+  {
+    "id": 1348,
+    "question": "Quel type de reproduction est realise par des organismes qui se divisent par mitose ?",
+    "answer": "La reproduction asexuee."
+  },
+  {
+    "id": 1349,
+    "question": "Quel est le terme scientifique pour la perte de l'eau par les feuilles des plantes?",
+    "answer": "La transpiration."
+  },
+  {
+    "id": 1350,
+    "question": "Quel est le processus par lequel les plantes convertissent l'energie lumineuse en energie chimique stockee sous forme de glucose ?",
+    "answer": "La photosynthese."
+  },
+  {
+    "id": 1351,
+    "question": "Quel est le nom du pigment present dans les cellules sanguines qui transporte l'oxygene ?",
+    "answer": "L'hemoglobine."
+  },
+  {
+    "id": 1352,
+    "question": "Quel est le terme designant l'ensemble des relations alimentaires entre les organismes d'un ecosysteme ?",
+    "answer": "Le reseau trophique."
+  },
+  {
+    "id": 1353,
+    "question": "Quelle est la fonction principale des reins dans le corps humain ?",
+    "answer": "Filtrer le sang et eliminer les dechets sous forme d'urine."
+  },
+  {
+    "id": 1354,
+    "question": "Comment appelle-t-on le processus par lequel une graine germe pour donner une nouvelle plante ?",
+    "answer": "La germination."
+  },
+  {
+    "id": 1355,
+    "question": "Quel est le nom des structures presentes sur les racines des plantes qui leur permettent d'absorber l'eau et les nutriments du sol ?",
+    "answer": "Les poils absorbants."
+  },
+  {
+    "id": 1356,
+    "question": "Quel est le tissu qui permet de transporter l'eau et les sels mineraux des racines vers les autres parties des plantes ?",
+    "answer": "Le xyleme."
+  },
+  {
+    "id": 1357,
+    "raw": "Quelle partie du systeme digestif est responsable de l'absorption des nutriments ? L'intestin grele."
+  },
+  {
+    "id": 1358,
+    "question": "Quel est le mecanisme par lequel les spermatozoîdes et les ovules se rencontrent pour former un zygote ?",
+    "answer": "La fecondation."
+  },
+  {
+    "id": 1359,
+    "question": "Quel est le nom des structures dans l'ADN qui portent les informations hereditaires ?",
+    "answer": "Les genes."
+  },
+  {
+    "id": 1360,
+    "question": "Quel est le role des globules blancs dans le sang ?",
+    "answer": "Defendre l'organisme contre les infections et les maladies. Page 90 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1361,
+    "question": "Quelle hormone est produite par le pancreas et permet de reguler le taux de sucre dans le sang ?",
+    "answer": "L'insuline."
+  },
+  {
+    "id": 1362,
+    "question": "Quelle est la phase de la meiose ou les chromosomes homologues se separent ?",
+    "answer": "L'anaphase 1"
+  },
+  {
+    "id": 1363,
+    "question": "Quel est le terme designant la capacite des organismes a maintenir une stabilite interne malgre les changements externes ?",
+    "answer": "L'homeostasie."
+  },
+  {
+    "id": 1364,
+    "question": "Quelle est la fonction principale des enzymes dans le corps humain ?",
+    "answer": "Accelerer les reactions chimiques (catalyse)."
+  },
+  {
+    "id": 1365,
+    "question": "Quel est le role du placenta chez les mammiferes pendant la grossesse ?",
+    "answer": "Fournir des nutriments et de l'oxygene au fœtus."
+  },
+  {
+    "id": 1366,
+    "question": "Quelle est la molecule qui stocke l'information genetique dans les cellules ?",
+    "answer": "L'ADN (acide desoxyribonucleique)."
+  },
+  {
+    "id": 1367,
+    "question": "Quelle est la partie de la fleur qui produit le pollen ?",
+    "answer": "Les etamines."
+  },
+  {
+    "id": 1368,
+    "question": "Quel est le terme designant l'etude des relations entre les organismes et leur environnement ?",
+    "answer": "L'ecologie."
+  },
+  {
+    "id": 1369,
+    "question": "Quelle est la principale fonction des cellules nerveuses (neurones) ?",
+    "answer": "Transmettre des signaux electriques dans le corps."
+  },
+  {
+    "id": 1370,
+    "question": "Quel est le type de symbiose ou les deux organismes beneficient de la relation ?",
+    "answer": "Le mutualisme."
+  },
+  {
+    "id": 1371,
+    "question": "Quel est le terme designant les differentes formes d'un gene qui existent dans une population ?",
+    "answer": "Les alleles."
+  },
+  {
+    "id": 1372,
+    "question": "Quel est le gaz necessaire pour la respiration cellulaire dans les organismes vivants ?",
+    "answer": "L'oxygene."
+  },
+  {
+    "id": 1373,
+    "question": "Quelle est la partie de l'œil qui contient les cellules sensibles a la lumiere ?",
+    "answer": "La retine."
+  },
+  {
+    "id": 1374,
+    "question": "Quelle hormone produite par les glandes surrenales est liberee en reponse au stress ?",
+    "answer": "L'adrenaline."
+  },
+  {
+    "id": 1375,
+    "question": "Quel est le terme designant l'unite fonctionnelle de base du rein ?",
+    "answer": "Le nephron."
+  },
+  {
+    "id": 1376,
+    "question": "Quel est le processus par lequel l'eau circule des racines vers les feuilles des plantes, en passant par les tiges ?",
+    "answer": "La transpiration."
+  },
+  {
+    "id": 1377,
+    "question": "Quel est le terme designant les cellules sexuelles chez les animaux ?",
+    "answer": "Les gametes."
+  },
+  {
+    "id": 1378,
+    "question": "Quel est le role des chloroplastes dans les cellules vegetales ?",
+    "answer": "Realiser la photosynthese."
+  },
+  {
+    "id": 1379,
+    "question": "Quel est le processus par lequel un organisme unicellulaire se divise pour former deux nouvelles cellules ?",
+    "answer": "La mitose."
+  },
+  {
+    "id": 1380,
+    "question": "Quelle est la partie du cerveau responsable de la coordination des mouvements volontaires ?",
+    "answer": "Le cervelet."
+  },
+  {
+    "id": 1381,
+    "question": "Quel est le nom des structures qui permettent aux poissons de respirer sous l’eau ?",
+    "answer": "Les branchies."
+  },
+  {
+    "id": 1382,
+    "question": "Quel est le role de l'hypothalamus dans le corps humain ?",
+    "answer": "Reguler les fonctions automatiques comme la temperature et la soif. Page 91 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1383,
+    "question": "Quel est le nom des glandes qui produisent des hormones regulant la croissance et le metabolisme ?",
+    "answer": "Les glandes endocrines."
+  },
+  {
+    "id": 1384,
+    "question": "Quel est le processus par lequel une cellule produit de l'energie a partir de glucose et d’oxygene ?",
+    "answer": "La respiration cellulaire."
+  },
+  {
+    "id": 1385,
+    "raw": "Quelle est la partie de la fleur qui contient les ovules ?"
+  },
+  {
+    "id": 1386,
+    "question": "Quel est le terme designant les caracteristiques observables d'un organisme resultant de l'expression de ses genes ?",
+    "answer": "Le phenotype."
+  },
+  {
+    "id": 1387,
+    "question": "Quel est le mecanisme de selection naturelle propose par Charles Darwin pour expliquer l'evolution des especes ?",
+    "answer": "La selection naturelle."
+  },
+  {
+    "id": 1388,
+    "question": "Quel est le nom de l'organe chez les mammiferes qui permet de respirer et d’echanger des gaz avec le sang ?",
+    "answer": "Les poumons."
+  },
+  {
+    "id": 1389,
+    "question": "Quelle est la molecule qui stocke et transporte de l'energie dans les cellules ?",
+    "answer": "L'ATP (adenosine triphosphate)."
+  },
+  {
+    "id": 1390,
+    "question": "Quel est le type de sang transporte par les veines pulmonaires ?",
+    "answer": "Le sang oxygene."
+  },
+  {
+    "id": 1391,
+    "question": "Quelle est la methode de reproduction ou une nouvelle plante peut se former a partir d'un fragment de la plante mere ?",
+    "answer": "La reproduction vegetative."
+  },
+  {
+    "id": 1392,
+    "question": "Quel est le nom du phenomene par lequel l'eau est absorbee par les racines des plantes grace a la difference de pression osmotique ?",
+    "answer": "L’osmose."
+  },
+  {
+    "id": 1393,
+    "question": "Quelle est la principale hormone responsable du developpement des caracteres sexuels secondaires chez l'homme ?",
+    "answer": "La testosterone."
+  },
+  {
+    "id": 1394,
+    "question": "Comment appelle-t-on les organismes qui produisent leur propre nourriture a partir de sources inorganiques ?",
+    "answer": "Les autotrophes."
+  },
+  {
+    "id": 1395,
+    "question": "Quel est le nom du processus par lequel les bacteries decomposent les matieres organiques en nutriments simples ?",
+    "answer": "La decomposition."
+  },
+  {
+    "id": 1396,
+    "question": "Quelle est la difference entre un allele dominant et un allele recessif ?",
+    "answer": "Un allele dominant masque l'expression d'un allele recessif."
+  },
+  {
+    "id": 1397,
+    "question": "Quel est le principal organe implique dans l'excretion de dioxyde de carbone chez l’homme ?",
+    "answer": "Les poumons."
+  },
+  {
+    "id": 1398,
+    "question": "Quel est le principal role des plaquettes dans le sang ?",
+    "answer": "La coagulation sanguine."
+  },
+  {
+    "id": 1399,
+    "question": "Quelle est la fonction des mitochondries dans la cellule ?",
+    "answer": "Produire de l'energie sous forme d'ATP"
+  },
+  {
+    "id": 1400,
+    "question": "Quelle est la principale fonction de la moelle osseuse dans le corps humain ?",
+    "answer": "Produire des cellules sanguines."
+  },
+  {
+    "id": 1401,
+    "question": "Quel est le role de la testosterone dans le corps humain ?",
+    "answer": "Elle controle le developpement des caracteres sexuels masculins."
+  },
+  {
+    "id": 1402,
+    "question": "Quel est le nom des molecules qui accelerent les reactions chimiques dans les cellules ?",
+    "answer": "Les enzymes"
+  },
+  {
+    "id": 1403,
+    "question": "Quel est le principal nutriment utilise par les cellules comme source d'energie ?",
+    "answer": "Le glucose. Page 92 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1404,
+    "question": "Comment appelle-t-on les cellules qui transportent les impulsions nerveuses ?",
+    "answer": "Les neurones."
+  },
+  {
+    "id": 1405,
+    "question": "Quelle est la principale fonction du foie ?",
+    "answer": "Metaboliser les substances et detoxifier le corps."
+  },
+  {
+    "id": 1406,
+    "question": "Quel est le role de l'hemoglobine dans les globules rouges ?",
+    "answer": "Transporter l'oxygene."
+  },
+  {
+    "id": 1407,
+    "question": "Comment appelle-t-on les echanges gazeux entre l'atmosphere et les cellules vegetales pendant la respiration ?",
+    "answer": "La respiration cellulaire."
+  },
+  {
+    "id": 1408,
+    "question": "Quel est le type de reproduction chez les champignons ou une nouvelle cellule est formee a partir d'une autre par bourgeons ?",
+    "answer": "Le bourgeonnement."
+  },
+  {
+    "id": 1409,
+    "question": "Quel est le principal gaz libere par les plantes lors de la photosynthese ?",
+    "answer": "L'oxygene."
+  },
+  {
+    "id": 1410,
+    "question": "Quelle est la fonction de la couche de cire presente sur les feuilles des plantes ?",
+    "answer": "Reduire la perte d'eau."
+  },
+  {
+    "id": 1411,
+    "question": "Quelle hormone est secretee par l'hypophyse pour stimuler la production de spermatozoîdes chez les hommes ?",
+    "answer": "La FSH (hormone folliculostimulante)."
+  },
+  {
+    "id": 1412,
+    "question": "Quel est le principal mecanisme de transport de l'eau dans les plantes depuis les racines ?",
+    "answer": "Le transport par capillarite."
+  },
+  {
+    "id": 1413,
+    "question": "Comment appelle-t-on les cellules qui contiennent la moitie des chromosomes d'une cellule normale ?",
+    "answer": "Les gametes."
+  },
+  {
+    "id": 1414,
+    "question": "Quel est le role des bronchioles dans le systeme respiratoire humain ?",
+    "answer": "Distribuer l'air dans les poumons."
+  },
+  {
+    "id": 1415,
+    "question": "Quelle est la difference entre les arteres et les veines ?",
+    "answer": "Les arteres transportent le sang du cœur vers le corps, les veines ramenent le sang vers le cœur :"
+  },
+  {
+    "id": 1416,
+    "question": "Comment appelle-t-on la science qui etudie les etres vivants et leurs interactions avec leur environnement ?",
+    "answer": "L’ecologie."
+  },
+  {
+    "id": 1417,
+    "question": "Quel est le principal role de l'appareil de Golgi dans les cellules ?",
+    "answer": "Modifier, trier et emballer les proteines."
+  },
+  {
+    "id": 1418,
+    "question": "Comment appelle-t-on les organes impliques dans la perception de la lumiere chez les insectes ?",
+    "answer": "Les ocelles."
+  },
+  {
+    "id": 1419,
+    "question": "Quelle est la fonction des alveoles dans les poumons ?",
+    "answer": "Permettre les echanges gazeux entre l'air et le sang."
+  },
+  {
+    "id": 1420,
+    "question": "Quel est le role du cerveau dans le systeme nerveux ?",
+    "answer": "Coordonner et controler les fonctions corporelles."
+  },
+  {
+    "id": 1421,
+    "question": "Quel est le terme scientifique pour designer les plantes qui utilisent des insectes pour la pollinisation ?",
+    "answer": "Les plantes entomophiles."
+  },
+  {
+    "id": 1422,
+    "question": "Quelle est la fonction de la vessie chez les humains ?",
+    "answer": "Stocker l'urine avant son expulsion."
+  },
+  {
+    "id": 1423,
+    "question": "Quel est le type de liaison chimique qui maintient ensemble les molecules d’eau ?",
+    "answer": "La liaison hydrogene."
+  },
+  {
+    "id": 1424,
+    "question": "Quel est le terme designant la conversion du glucose en energie en presence d'oxygene dans les cellules ?",
+    "answer": "La respiration aerobie. Page 93 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1425,
+    "question": "Quel est le type de vaisseau sanguin qui ramene le sang au cœur ?",
+    "answer": "Les veines."
+  },
+  {
+    "id": 1426,
+    "question": "Quel est le principal type de tissu qui permet le mouvement dans le corps humain ?",
+    "answer": "Le tissu musculaire."
+  },
+  {
+    "id": 1427,
+    "question": "Quelle est la principale hormone feminine produite par les ovaires ?",
+    "answer": "L'œstrogene."
+  },
+  {
+    "id": 1428,
+    "question": "Quel est le role des ribosomes dans la cellule ?",
+    "answer": "Synthetiser les proteines."
+  },
+  {
+    "id": 1429,
+    "question": "Quelle est la principale fonction de la peau chez les mammiferes ?",
+    "answer": "Proteger le corps contre les agents pathogenes et la perte d'eau."
+  },
+  {
+    "id": 1430,
+    "question": "Comment appelle-t-on les micro-organismes qui aident a la digestion dans le systeme intestinal ?",
+    "answer": "La flore intestinale"
+  },
+  {
+    "id": 1431,
+    "question": "Quel est le terme designant l'etude des tissus dans le corps humain ?",
+    "answer": "L'histologie."
+  },
+  {
+    "id": 1432,
+    "question": "Quel est le processus par lequel les nutriments sont transportes depuis l'intestin vers le reste du corps ?",
+    "answer": "L'absorption."
+  },
+  {
+    "id": 1433,
+    "question": "Quelle est la partie de la cellule qui regule les echanges entre l'interieur et l'exterieur de la cellule ?",
+    "answer": "La membrane plasmique."
+  },
+  {
+    "id": 1434,
+    "question": "Quel est le terme designant les os longs situes dans les bras et les jambes des humains ?",
+    "answer": "Les os longs (comme le femur et l'humerus)."
+  },
+  {
+    "id": 1435,
+    "question": "Quel medicament est couramment utilise pour traiter l'hypertension arterielle ?",
+    "answer": "Les inhibiteurs de l'enzyme de conversion (IEC)."
+  },
+  {
+    "id": 1436,
+    "question": "Comment traite-t-on la depression clinique ?",
+    "answer": "Les antidepresseurs (comme les ISRS)."
+  },
+  {
+    "id": 1437,
+    "question": "Quel medicament est couramment prescrit pour l’asthme ?",
+    "answer": "Les bronchodilatateurs."
+  },
+  {
+    "id": 1438,
+    "question": "Qui a decouvert la structure en double helice de l'ADN ?",
+    "answer": "James Watson et Francis Crick."
+  },
+  {
+    "id": 1439,
+    "question": "Quelle decouverte de Charles Darwin a revolutionne la biologie ?",
+    "answer": "La theorie de l'evolution par selection naturelle."
+  },
+  {
+    "id": 1440,
+    "question": "Quelle a ete la contribution majeure de Louis Pasteur a la biologie ?",
+    "answer": "La decouverte de la pasteurisation et des vaccins."
+  },
+  {
+    "id": 1441,
+    "question": "Qui est a l'origine de la decouverte des cellules vegetales et animales ?",
+    "answer": "Robert Hooke."
+  },
+  {
+    "id": 1442,
+    "question": "Quelle est l'importance de la decouverte des cellules souches ?",
+    "answer": "Leur capacite a se differencier en divers types de cellules."
+  },
+  {
+    "id": 1443,
+    "question": "Quelle technique a permis la cartographie du genome humain ?",
+    "answer": "Le sequençage de l'ADN."
+  },
+  {
+    "id": 1444,
+    "question": "Qui a decouvert le premier vaccin, et pour quelle maladie ?",
+    "answer": "Edward Jenner pour la variole."
+  },
+  {
+    "id": 1445,
+    "question": "Quelle decouverte a permis le developpement des antibiotiques ?",
+    "answer": "La decouverte de la penicilline par Alexander Fleming."
+  },
+  {
+    "id": 1446,
+    "question": "Quelle est la contribution d'Anton van Leeuwenhoek a la biologie ?",
+    "answer": "La decouverte des micro-organismes. Page 94 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1447,
+    "question": "Qui a mis au point la classification binomiale des especes vivantes ?",
+    "answer": "Carl von Linne."
+  },
+  {
+    "id": 1448,
+    "question": "Quel element chimique a revolutionne l'anesthesie en medecine ?",
+    "answer": "L’ether :"
+  },
+  {
+    "id": 1449,
+    "question": "Qui a decouvert l'element radioactif radium, utilise dans certains traitements contre le cancer ?",
+    "answer": "Marie Curie."
+  },
+  {
+    "id": 1450,
+    "question": "Quel gaz est utilise pour anesthesier les patients avant une intervention chirurgicale ?",
+    "answer": "Le protoxyde d'azote (gaz hilarant)."
+  },
+  {
+    "id": 1451,
+    "question": "Quelle decouverte a permis de developper des traitements contre les infections bacteriennes ?",
+    "answer": "La penicilline."
+  },
+  {
+    "id": 1452,
+    "question": "Quelle est l'importance du chloroforme en medecine ?",
+    "answer": "Utilise comme anesthesique lors des operations chirurgicales."
+  },
+  {
+    "id": 1453,
+    "question": "Quel est le role des corticoîdes dans le traitement des maladies inflammatoires ?",
+    "answer": "Reduire l'inflammation et les reactions allergiques."
+  },
+  {
+    "id": 1454,
+    "question": "Quel compose chimique est utilise dans les perfusions pour rehydrater les patients ?",
+    "answer": "Le chlorure de sodium (solution saline)."
+  },
+  {
+    "id": 1455,
+    "question": "Quel medicament anti-douleur a ete developpe a partir du pavot ?",
+    "answer": "La morphine."
+  },
+  {
+    "id": 1456,
+    "question": "Quelle decouverte chimique a conduit au developpement de la radiotherapie pour traiter le cancer ?",
+    "answer": "Les isotopes radioactifs."
+  },
+  {
+    "id": 1457,
+    "question": "Quel element chimique est essentiel pour les anesthesies locales ?",
+    "answer": "La lidocaîne."
+  },
+  {
+    "id": 1458,
+    "question": "Quel organe est responsable de la filtration du sang dans le corps humain ?",
+    "answer": "Les reins."
+  },
+  {
+    "id": 1459,
+    "question": "Quel est le principal organe du systeme digestif ?",
+    "answer": "L'intestin grele."
+  },
+  {
+    "id": 1460,
+    "question": "Quelle partie du cerveau controle les fonctions de base comme la respiration et le rythme cardiaque ?",
+    "answer": "Le tronc cerebral."
+  },
+  {
+    "id": 1461,
+    "question": "Quel systeme corporel est responsable de la protection contre les infections ?",
+    "answer": "Le systeme immunitaire."
+  },
+  {
+    "id": 1462,
+    "question": "Quel est le role du foie dans la digestion ?",
+    "answer": "Produire de la bile pour digerer les graisses."
+  },
+  {
+    "id": 1463,
+    "question": "Quelle glande est responsable de la regulation du metabolisme ?",
+    "answer": "La glande thyroîde."
+  },
+  {
+    "id": 1464,
+    "question": "Quel organe pompe le sang a travers le corps ?",
+    "answer": "Le cœur :"
+  },
+  {
+    "id": 1465,
+    "question": "Quel systeme permet le mouvement des muscles et des os ?",
+    "answer": "Le systeme musculosquelettique."
+  },
+  {
+    "id": 1466,
+    "question": "Quelle partie du systeme nerveux controle les reflexes ?",
+    "answer": "La moelle epiniere."
+  },
+  {
+    "id": 1467,
+    "question": "Quel est le role du pancreas dans le corps humain ?",
+    "answer": "Produire de l'insuline pour reguler le taux de sucre dans le sang."
+  },
+  {
+    "id": 1468,
+    "question": "Quel virus est responsable du SIDA ?",
+    "answer": "Le VIH."
+  },
+  {
+    "id": 1469,
+    "question": "Quel est le principal moyen de transmission du virus de la grippe ?",
+    "answer": "Par voie aerienne, via les gouttelettes."
+  },
+  {
+    "id": 1470,
+    "question": "Quel virus est responsable de la variole ?",
+    "answer": "Le virus variolique."
+  },
+  {
+    "id": 1471,
+    "question": "Quel virus a cause la pandemie mondiale de COVID-19 ?",
+    "answer": "Le SARS-CoV-2. Page 95 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1472,
+    "raw": "Quel est l'insecte principal vecteur de transmission du virus Zika ?"
+  },
+  {
+    "id": 1473,
+    "question": "Quelle est la principale mesure de prevention contre la rougeole ?",
+    "answer": "La vaccination."
+  },
+  {
+    "id": 1474,
+    "question": "Quel virus cause la rage ?",
+    "answer": "Le virus rabique."
+  },
+  {
+    "id": 1475,
+    "question": "Quel traitement est utilise contre les infections virales graves comme l'hepatite C ?",
+    "answer": "Les antiviraux."
+  },
+  {
+    "id": 1476,
+    "question": "Quel est le virus responsable de la mononucleose infectieuse ?",
+    "answer": "Le virus Epstein- Barr :"
+  },
+  {
+    "id": 1477,
+    "question": "Quelle pandemie a cause la mort de millions de personnes en 1918 ?",
+    "answer": "La grippe espagnole."
+  },
+  {
+    "id": 1478,
+    "question": "Quel virus a ete responsable de la pandemie mondiale de 2009 ?",
+    "answer": "Le virus H1N1 (grippe porcine)."
+  },
+  {
+    "id": 1479,
+    "question": "Quel est le nom de la maladie qui a devaste l'Europe au 14e siecle, tuant environ un tiers de la population ?",
+    "answer": "La peste noire."
+  },
+  {
+    "id": 1480,
+    "question": "Quelle epidemie a eu un impact mondial au debut du 21e siecle, touchant principalement l'Afrique de l'Ouest ?",
+    "answer": "L'epidemie d'Ebola."
+  },
+  {
+    "id": 1481,
+    "question": "Quel pays a ete l'epicentre de l'epidemie de COVID-19 en decembre 2019 ?",
+    "answer": "La Chine."
+  },
+  {
+    "id": 1482,
+    "question": "Quel virus a provoque une epidemie mondiale de poliomyelite avant l'introduction du vaccin dans les annees 1950 ?",
+    "answer": "Le virus de la poliomyelite."
+  },
+  {
+    "id": 1483,
+    "question": "Quelle maladie a touche environ 200 millions de personnes au 20e siecle avant d'etre eradiquee par la vaccination ?",
+    "answer": "La variole."
+  },
+  {
+    "id": 1484,
+    "question": "Quelle pandemie a frappe l'Asie en 1957, causee par une nouvelle souche du virus de la grippe ?",
+    "answer": "La grippe asiatique."
+  },
+  {
+    "id": 1485,
+    "question": "Quelle maladie a ete responsable de nombreuses epidemies a travers l'histoire, transmise par les rats et les puces ?",
+    "answer": "La peste bubonique."
+  },
+  {
+    "id": 1486,
+    "question": "Quelle pandemie mondiale s'est repandue au 19e siecle, causee par l'eau contaminee ?",
+    "answer": "Le cholera."
+  },
+  {
+    "id": 1487,
+    "question": "Quel type de chirurgie utilise un robot pour effectuer des interventions minimales invasives ?",
+    "answer": "La chirurgie robotique."
+  },
+  {
+    "id": 1488,
+    "question": "Quel dispositif medical est utilise pour maintenir le rythme cardiaque chez les patients souffrant d'arythmie ?",
+    "answer": "Le stimulateur cardiaque (pacemaker)."
+  },
+  {
+    "id": 1489,
+    "question": "Quelle technologie permet de visualiser les tissus mous et le cerveau sans rayonnement ionisant ?",
+    "answer": "L'imagerie par resonance magnetique (IRM)."
+  },
+  {
+    "id": 1490,
+    "question": "Quel type de transplantation permet de remplacer un cœur defaillant par un cœur sain provenant d'un donneur ?",
+    "answer": "La transplantation cardiaque."
+  },
+  {
+    "id": 1491,
+    "question": "Quelle technologie permet d'obtenir des images en temps reel des vaisseaux sanguins et des organes internes a l'aide d'ultrasons ?",
+    "answer": "L'echographie."
+  },
+  {
+    "id": 1492,
+    "question": "Quel est le nom de la procedure qui consiste a enlever un organe ou un tissu cancereux ?",
+    "answer": "La chirurgie oncologique. Page 96 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1493,
+    "question": "Quel dispositif medical a revolutionne le traitement du diabete en surveillant les niveaux de glucose en continu ?",
+    "answer": "Le capteur de glucose en continu."
+  },
+  {
+    "id": 1494,
+    "question": "Quelle avancee en chirurgie oculaire permet de corriger la myopie, l'hypermetropie et l'astigmatisme sans lunettes ?",
+    "answer": "La chirurgie au laser (LASIK)."
+  },
+  {
+    "id": 1495,
+    "question": "Quelle technique est utilisee pour corriger les anomalies cardiaques sans ouvrir le thorax ?",
+    "answer": "La catheterisassions cardiaque."
+  },
+  {
+    "id": 1496,
+    "question": "Quel dispositif medical permet de remplacer une articulation endommagee, comme une hanche ou un genou ?",
+    "answer": "La prothese articulaire."
+  },
+  {
+    "id": 1497,
+    "question": "Quelle technique chirurgicale permet de retirer des calculs renaux sans inciser le corps ?",
+    "answer": "La lithotritie par ondes de choc."
+  },
+  {
+    "id": 1498,
+    "question": "Quelle avancee medicale permet de diagnostiquer certaines maladies genetiques avant la naissance ?",
+    "answer": "Le diagnostic prenatal (DPN)."
+  },
+  {
+    "id": 1499,
+    "question": "Quelle technologie medicale est utilisee pour traiter les patients atteints de cancers en ciblant specifiquement les cellules tumorales ?",
+    "answer": "La radiotherapie."
+  },
+  {
+    "id": 1500,
+    "question": "Quel traitement revolutionnaire est utilise pour corriger certains troubles du rythme cardiaque en brulant des tissus du cœur ?",
+    "answer": "L'ablation par radiofrequence."
+  },
+  {
+    "id": 1501,
+    "question": "Quelle innovation medicale permet de mesurer le taux d'oxygene dans le sang sans prelevement sanguin ?",
+    "answer": "Le saturometre."
+  },
+  {
+    "id": 1502,
+    "question": "Quel type de chirurgie utilise des lasers pour effectuer des incisions extremement precises ?",
+    "answer": "La chirurgie laser :"
+  },
+  {
+    "id": 1503,
+    "question": "Quel traitement consiste a utiliser des faisceaux de protons pour traiter des tumeurs ?",
+    "answer": "La protontherapie."
+  },
+  {
+    "id": 1504,
+    "question": "Quelle technologie est utilisee pour regenerer la peau brulee grace a l'impression 3D de cellules de la peau ?",
+    "answer": "L'impression 3D biologique."
+  },
+  {
+    "id": 1505,
+    "question": "Quel outil medical a revolutionne la chirurgie en offrant une vue agrandie des organes internes grace a une camera inseree dans le corps ?",
+    "answer": "Le laparoscope."
+  },
+  {
+    "id": 1506,
+    "question": "Quel dispositif est implante dans l'oreille pour restaurer l'audition chez les personnes atteintes de surdite profonde ?",
+    "answer": "L'implant cochleaire."
+  },
+  {
+    "id": 1507,
+    "question": "Quel type de chirurgie utilise des ondes ultrasonores pour traiter certaines tumeurs cerebrales sans incision ?",
+    "answer": "Les ultrasons focalises de haute intensite (HIFU)."
+  },
+  {
+    "id": 1508,
+    "question": "Quel traitement utilise des cellules souches pour reparer des tissus endommages dans le corps ?",
+    "answer": "La therapie par cellules souches."
+  },
+  {
+    "id": 1509,
+    "question": "Quelle technologie medicale permet de reduire les tremblements dans la maladie de Parkinson grace a une stimulation cerebrale ?",
+    "answer": "La stimulation cerebrale profonde (DBS)."
+  },
+  {
+    "id": 1510,
+    "question": "Quelle est la technologie qui permet de diagnostiquer des maladies genetiques en sequençant tout le genome d'une personne ?",
+    "answer": "Le sequençage genomique."
+  },
+  {
+    "id": 1511,
+    "question": "Quel appareil medical aide les patients atteints d'insuffisance renale en filtrant leur sang ?",
+    "answer": "La machine de dialyse. Page 97 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1512,
+    "question": "Quels sont les principaux acteurs du systeme de sante togolais ?",
+    "answer": "le gouvernement (via le ministere de la Sante), les hopitaux publics et prives, les centres de sante, les ONG, et les partenaires internationaux comme l'OMS et l'UNICEF."
+  },
+  {
+    "id": 1513,
+    "question": "Citer les trois niveaux du systeme de sante au Togo ?",
+    "answer": "Niveau primaire (dispensaires et centres de sante), Niveau secondaire (hopitaux prefectoraux), et Niveau tertiaire (hopitaux regionaux et nationaux)."
+  },
+  {
+    "id": 1514,
+    "question": "Citer trois emissions qui passent sur SOS Docteur TV ?",
+    "answer": "- Allo Docteur - Sinam Honam Docteur - Les specialistes vous parlent - Ma nourriture, ma sante - Les grands enjeux - Le plateau du bien-etre - Tradi Sante - Sport Matinal - La minute sante - Dites-nous Docteur"
+  },
+  {
+    "id": 1515,
+    "question": "Citer trois emissions qui passent sur SOS Docteur TV hormis celles deja citees ?",
+    "answer": "- Allo Docteur - Sinam Honam Docteur - Les specialistes vous parlent - Ma nourriture, ma sante - Les grands enjeux - Le plateau du bien-etre - Tradi Sante. - Sport Matinal - La minute sante - Dites-nous Docteur"
+  },
+  {
+    "id": 1516,
+    "question": "Citer les 4 cavites du cœur ?",
+    "answer": "Oreillette ou atrium gauche, Oreillette ou atrium droite ; ventricule gauche et ventricule droite."
+  },
+  {
+    "id": 1517,
+    "question": "Assimilees a 2 couleurs, quelle sont les 2 constituants du systeme nerveux ?",
+    "answer": "Substance blanche ; substance grise."
+  },
+  {
+    "id": 1518,
+    "question": "Qui est le pere de la medecine ?",
+    "answer": "Hippocrate"
+  },
+  {
+    "id": 1519,
+    "question": "Qui est le pere de la pharmacie ?",
+    "answer": "Gallien"
+  },
+  {
+    "id": 1520,
+    "question": "Quel est l’os le plus long du corps humain ?",
+    "answer": "Le femur"
+  },
+  {
+    "id": 1521,
+    "question": "Quel est le plus petit os du corps humain ?",
+    "answer": "L’etrier"
+  },
+  {
+    "id": 1522,
+    "question": "Definir les determinants de la sante ?",
+    "answer": "Selon la definition de l’OMS, les determinants de la sante sont les « facteurs personnels, sociaux, economiques et environnementaux qui determinent l’etat de sante des individus ou des populations ». Page 98 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1523,
+    "question": "Citer 4 facteurs qui influent sur la sante ?",
+    "answer": "L'age, le sexe, le patrimoine genetique, le niveau d'education, le niveau de vie, le style de vie, le travail, le stress, l'alimentation, revenu, education, relations sociales, environnement, etc…"
+  },
+  {
+    "id": 1524,
+    "question": "Citer 2 valeurs essentielles d'un systeme de soins.",
+    "answer": "L'OMS propose 4 valeurs essentielles, susceptibles de guider l'elaboration et l'evaluation des systemes de sante. Ces valeurs sont : - La qualite : aptitude du systeme a fournir des reponses satisfaisantes aux besoins de sante d'une personne. La qualite des soins peut etre examinee sous l'angle des utilisateurs du systeme et sous l'angle des professionnels de sante. Page 99 sur 209 ACADEMIE GENIE IMHOTEP - L'equite : capacite du systeme a permettre que toute personne de la population ait un acces garanti a un ensemble minimal de services appropries, repondant a ses besoins, sans discrimination de race, sexe, age, groupe ethnique ou religieux, niveau socio-economique... - La pertinence : aptitude du systeme a agir prioritairement sur les besoins ou problemes de sante reconnus comme etant les plus importants (problemes prioritaires), et a cibler les services sur les personnes ou les groupes qui en ont le plus besoin. - L'efficience : capacite du systeme a faire le meilleur usage possible des ressources disponibles. Elle implique de connaître le cout des differentes prestations et leur efficacite respective et de prendre en compte ces donnees."
+  },
+  {
+    "id": 1525,
+    "question": "Citer 4 qualites d'un systeme de soins.",
+    "answer": "le systeme de soins doit rechercher les qualites suivantes : - La globalite : soins complets, continus, personnels de promotion, prevention et restauration de la sante, - L'accessibilite : financiere, geographique, - L'acceptabilite : pour les usagers mais aussi pour les professionnels de sante et pour les financeurs, - L'efficacite technique et economique (efficience), - La souplesse, c'est a dire la capacite a s'adapter rapidement en cas d'emergence de nouveaux besoins, et a se redeployer lorsque les services ne sont plus pertinents. Rappelons qu'un service de soins efficace peut se condamner lui-meme, s'il parvient a eradiquer le probleme de sante pour lequel il a ete mis en place, - La possibilite d'etre planifiable et evaluable."
+  },
+  {
+    "id": 1526,
+    "question": "Pourquoi dit-on que la sante est un fait social ?",
+    "answer": "La maladie est un “ fait social total ” car elle mobilise differentes dimensions de la societe : familial, economique, politique, educative, professionnelle, religieuse, symbolique… Il existe aussi une evolution des rapports usagers soignants, plus negocies."
+  },
+  {
+    "id": 1527,
+    "question": "Quels sont les facteurs sociaux qui influencent la sante ?",
+    "answer": "Revenu et repartition du revenu, Instruction, Chomage et securite d'emploi, Emploi et conditions de travail."
+  },
+  {
+    "id": 1528,
+    "question": "Donnez la definition de la Sante Sexuelle et Reproductive",
+    "answer": "La sante sexuelle et reproductive est un etat de bien-etre physique, affectif, mental et social, concernant tous les aspects de la sexualite et de la reproduction, et pas seulement l'absence de maladie, de dysfonctionnement ou d'infirmite."
+  },
+  {
+    "id": 1529,
+    "question": "Citer 3 composantes de la sante de reproduction.",
+    "answer": "Les 8 composantes de la sante de reproduction sont : la sante maternelle et infantile, l'infecondite, la planification familiale, les cancers genitaux et mammaires, les pratiques nefastes, la prise en charge de la SR des personnes agees, la SRA (sante des jeunes et adolescents) et les MST/VIH/SIDA. Page 100 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1530,
+    "question": "Citer 2 poisons du systeme nerveux.",
+    "answer": "C'est notamment le cas de la cocaîne, de l'alcool, de la MDMA (Drogue de synthese derivee de la methamphetamine, aussi connue sous le nom d'ecstasy) et de l'amphetamine."
+  },
+  {
+    "id": 1531,
+    "question": "Quels sont les signes des neurotoxiques ?",
+    "answer": "La neurotoxicite induite par les opioîdes se manifeste par une vaste gamme de symptomes, dont l'hypersomnolence, le delire, les hallucinations, l'allodynie (douleur causee par un stimulus qui normalement ne cause pas de douleur), l'hyperalgesie (sensibilite anormalement accrue a la douleur), la myoclonie,"
+  },
+  {
+    "id": 1532,
+    "question": "C'est quoi la neurotoxicite ?",
+    "answer": "La neurotoxicite peut se definir par la capacite que possede une substance a induire des effets nefastes dans le systeme nerveux."
+  },
+  {
+    "id": 1533,
+    "question": "Quel est l'organe qui nettoie le sang ?",
+    "answer": "C’est le rein."
+  },
+  {
+    "id": 1534,
+    "question": "Quel est le poisson le plus dangereux pour l'homme ?",
+    "answer": "le poisson-pierre."
+  },
+  {
+    "id": 1535,
+    "question": "Quel fruit utilise comme legume et designant un corps de metier est bon pour le foie ?",
+    "answer": "L’Avocat"
+  },
+  {
+    "id": 1536,
+    "question": "Citer 2 ennemis du foie ?",
+    "answer": "Sucre, graisses, alcool, stress…"
+  },
+  {
+    "id": 1537,
+    "question": "Citer 2 poissons les plus sains ?",
+    "answer": "le saumon rose sauvage, le saumon rouge, les sardines, les anchois et le hareng."
+  },
+  {
+    "id": 1538,
+    "question": "C’est quoi les Droits Sexuels ?",
+    "answer": "C’est de ne pas subir de violence, de coercition ou d’intimidation dans leur vie sexuelle ; c’est d’acceder a de l’information, a l’education et a des services en matiere de sante sexuelle et genesique ; et d’etre proteges contre toute discrimination au motif de l’exercice de leur sexualite."
+  },
+  {
+    "id": 1539,
+    "question": "Citer 6 enjeux des Droits Sexuels.",
+    "answer": "Les droits sexuels (droits de la personne lies a la sexualite) englobent un vaste eventail d’enjeux lies a la sexualite et au genre et recoupent plusieurs autres droits. Voici quelques exemples des nombreux enjeux pertinents aux droits sexuels : l’education complete a la sexualite, la criminalisation et d’autres restrictions touchant l’avortement securitaire, la discrimination fondee sur le genre, le mariage precoce et force, la mutilation genitale feminine, la violence fondee sur le genre, l’egalite des genres, l’identite et l’expression de genre, le VIH/sida, la morbidite et la mortalite maternelles, les droits genesiques, les droits des personnes intersexuees, les droits des travailleuses du sexe, l’orientation sexuelle, les droits sexuels des jeunes."
+  },
+  {
+    "id": 1540,
+    "question": "Comment definit-on une grossesse ?",
+    "answer": "Etat de la femme entre la fecondation et l'accouchement ou Ensemble des phenomenes se deroulant entre la fecondation et l'accouchement, durant lesquels l'embryon, puis le fœtus, se developpe dans l'uterus maternel."
+  },
+  {
+    "id": 1541,
+    "question": "Definition d’un cycle menstruel.",
+    "answer": "Le cycle menstruel correspond a l'ensemble des phenomenes physiologiques qui preparent le corps de la femme pour une potentielle grossesse. Il est un indicateur de l'etat de sante general du systeme reproducteur feminin et de sa fertilite. Par definition, le premier jour de saignement est considere comme le debut de chaque cycle menstruel (jour 1). Il se termine immediatement avant la periode menstruelle suivante. Page 101 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1542,
+    "question": "Quelle est la duree d’un cycle menstruel ?",
+    "answer": "Les cycles menstruels durent en general entre 24 et 32 jours. Seuls 10 a 15 % des femmes ont un cycle qui dure exactement 28 jours."
+  },
+  {
+    "id": 1543,
+    "question": "Qu’est-ce qu’une ovulation ?",
+    "answer": "L'ovulation est la liberation d'un ovocyte par l'ovaire. Cet evenement est important pour la reproduction, en effet, l'ovocyte et le spermatozoîde formeront, lors de la fecondation, la premiere cellule de l'embryon."
+  },
+  {
+    "id": 1544,
+    "question": "L’ovulation a lieu a quel moment ?",
+    "answer": "La duree moyenne du cycle est de 28 jours a partir du premier jour des regles. L'ovulation interviendrait a peu pres 14 jours apres la date des dernieres regles et 14 jours avant les prochaines."
+  },
+  {
+    "id": 1545,
+    "question": "Qu’est-ce qu’une menstruation ?",
+    "answer": "Perte mensuelle normale de sang et de tissus de la muqueuse de l'uterus lorsqu'il n'y a pas de grossesse. Pendant les menstruations, le sang et les tissus menstruels s'ecoulent de l'uterus a travers le col de l'uterus et sortent du corps par le vagin."
+  },
+  {
+    "id": 1546,
+    "question": "Comment s'appelle la « premiere » regle d'une fille ?",
+    "answer": "Les “premieres regles”, aussi appelees “menarche” ou “premieres menstruations”, peuvent etre un moment angoissant pour les jeunes filles qui les vivent, car elles peuvent se sentir seules et ne pas savoir a qui parler de cette experience."
+  },
+  {
+    "id": 1547,
+    "question": "Duree de la menstruation ?",
+    "answer": "Vos regles peuvent durer entre 3 et 8 jours ; la duree moyenne est de 5 jours."
+  },
+  {
+    "id": 1548,
+    "question": "Definition de la contraception",
+    "answer": "La contraception regroupe l'ensemble des moyens qui permettent d'eviter une grossesse lors des rapports sexuels."
+  },
+  {
+    "id": 1549,
+    "question": "Citer 4 methodes contraceptives ?",
+    "answer": "Les differentes methodes de contraception sont notamment : les pilules contraceptives orales, les implants, les contraceptifs injectables, les patchs contraceptifs, les anneaux vaginaux, les dispositifs intra-uterins, les preservatifs, la sterilisation masculine ou feminine, les methodes d'amenorrhee lactationnelle."
+  },
+  {
+    "id": 1550,
+    "question": "Qu’est-ce qu’on appelle pilule du lendemain ?",
+    "answer": "La contraception d'urgence hormonale consiste en l'administration unique d'un comprime de levonorgestrel (Levonorgestrel Biogaran, Norlevo) ou d'ulipristal (EllaOne). Le levonorgestrel est un progestatif de synthese. Il retarde l'ovulation et perturbe la nidation de l'œuf eventuel."
+  },
+  {
+    "id": 1551,
+    "question": "Citer 2 methodes contraceptives utilisables par les hommes.",
+    "answer": "Preservatifs masculins et vasectomie"
+  },
+  {
+    "id": 1552,
+    "question": "Citer 2 moyens de surveillance pour detecter le cancer du sein chez les femmes / filles ?",
+    "answer": "Observation du sein, Palpation du sein, Imagerie mammaire (examen par IRM et mammographie ± echographie en cas de seins denses)."
+  },
+  {
+    "id": 1553,
+    "question": "Citer 2 moyens de surveillance du cancer du l’uterus chez les femmes / filles",
+    "answer": "Observation des ecoulements vaginaux, Frottis du col cervical de l’uterus qui va detecter des cellules pre-cancereuses du col ou la presence du virus HPV"
+  },
+  {
+    "id": 1554,
+    "question": "Quels sont les moyens de preventions du cancer de l’uterus chez les femmes ?",
+    "answer": "L’abstinence sexuelle, La vaccination contre les papillomavirus humains (HPV). Page 102 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1555,
+    "question": "Quels sont les vaccins qui existent au Togo pour les enfants de moins de 2 ans offerts par l’Etat gratuitement ?",
+    "answer": "BCG, VPO, PENTA = DTC-HepB-Hib (Prevention du tetanos, de la diphterie, de la coqueluche, de l'hepatite B et Haemophilus influenzae de type B), PCV 13 (PNEUMO 13), ROTA, VPI, RR, VAA, VITAMINE A, MENAFRIVAC."
+  },
+  {
+    "id": 1556,
+    "question": "Quel est le vaccin qui existe pour la jeune fille de 9 a 12 ans dans la routine ?",
+    "answer": "Vaccin contre le HPV."
+  },
+  {
+    "id": 1557,
+    "question": "Quel est le vaccin qui existe pour les femmes enceintes ?",
+    "answer": "Vaccin TD"
+  },
+  {
+    "id": 1558,
+    "question": "Quelles sont les infections sexuellement transmissibles (IST) ?",
+    "answer": "la syphilis, la gonorrhee, la chlamydiose et la trichomonase, l'hepatite B, le virus herpes simplex (HSV), le VIH et le papillomavirus humain (HPV)."
+  },
+  {
+    "id": 1559,
+    "question": "Quelle est l'IST la plus grave ?",
+    "answer": "C’est la syphilis"
+  },
+  {
+    "id": 1560,
+    "question": "Comment se manifestent les IST ?",
+    "answer": "L'infection a mycoplasmes se manifeste, chez la femme, par des pertes vaginales (vaginite), des inflammations du col de l'uterus, des saignements apres les relations sexuelles ou en dehors des regles, des brulures urinaires. Une atteinte de l'endometre de l'uterus ou une salpingite peuvent compliquer l'infection."
+  },
+  {
+    "id": 1561,
+    "question": "Comment se proteger contre les IST ?",
+    "answer": "Abstinence sexuelle, Utilisation des preservatifs, Abstinence des rapports sexuels oraux."
+  },
+  {
+    "id": 1562,
+    "question": "Citer 4 signes de la manifestation du SIDA ?",
+    "answer": "une fievre de plus de 38 °C et une fatigue, amaigrissement important, diarrhee, fatigue importante, des ganglions lymphatiques augmentes de volume, une pharyngite ou une angine, une eruption de plaques rouges sur le corps et le visage, des ulcerations dans la bouche ou au niveau des organes genitaux."
+  },
+  {
+    "id": 1563,
+    "question": "Comment se transmet le SIDA ?",
+    "answer": "Le VIH se transmet par les liquides corporels d'une personne infectee, y compris le sang, le lait maternel, le sperme et les secretions vaginales. On ne peut pas etre infecte par les contacts tels qu'un baiser, une etreinte ou le partage de nourriture. Il peut aussi se transmettre de la mere a l'enfant"
+  },
+  {
+    "id": 1564,
+    "question": "Comment eviter le SIDA ?",
+    "answer": "La prevention, primordiale, passe par des mesures empechant la transmission du VIH : usage du preservatif, de materiel injectable a usage unique... La prophylaxie pre-exposition est reservee a certaines personnes a risque de contamination."
+  },
+  {
+    "id": 1565,
+    "question": "Definition de la COVID ?",
+    "answer": "La maladie a coronavirus (COVID19) est une maladie infectieuse due au virus SARS-CoV-2. La plupart des personnes infectees par le virus presentent une maladie respiratoire d'intensite legere a moderee et se retablissent sans avoir besoin d'un traitement particulier :"
+  },
+  {
+    "id": 1566,
+    "question": "Citer 5 signes de la COVID ?",
+    "answer": "Fievre : a partir de 6 ans : 38,1 °C (100,6 °F) et plus (temperature buccale), Perte soudaine de l'odorat sans congestion nasale, avec ou sans perte de gout, Toux (nouvelle ou aggravee), Essoufflement, Difficulte a respirer, Mal de gorge, asthenie/fatigue, cephalees (mal de tete), ecoulement nasal."
+  },
+  {
+    "id": 1567,
+    "question": "Comment eviter la COVID ?",
+    "answer": "Les mesures d’eviction : Port de bavettes, Lavage des mains avec du savon ou solution hydro alcoolique, Distanciation (au moins 1,5 metre), Pas de regroupement. Page 103 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1568,
+    "question": "En quelle annee a commence la COVID ?",
+    "answer": "Elle apparaît le 16 novembre 2019 a Wuhan, dans la province du Hubei (en Chine centrale), avant de se propager dans le monde."
+  },
+  {
+    "id": 1569,
+    "question": "Quelle est la difference entre paludisme simple et paludisme grave ?",
+    "answer": "Signes de paludisme simple : Maux de tete, Fievre, Vomissement, Manque d’appetit."
+  },
+  {
+    "id": 1570,
+    "question": "Citer 4 signes du paludisme grave ?",
+    "answer": "Alteration de la conscience : Score de Glasgow <11 chez l’adulte ou score de Blantyre <3 chez l’enfant, Hypoglycemie : Taux de glucose dans le sang ou dans le plasma <2,2 mM (<40 mg/dl), Hyperparasitemie, Anemie severe liee au paludisme, Insuffisance renale aigue, Jaunisse, Œdeme pulmonaire, Saignements significatifs, Etat de choc, Vomissement incoercible."
+  },
+  {
+    "id": 1571,
+    "question": "Quel est le role de l’appareil cardio vasculaire dans le corps humain ?",
+    "answer": "l'appareil cardiovasculaire assure le transport du sang riche en dioxygene (O2) et en nutriments, pour alimenter les organes et les debarrasser du dioxyde de carbone et des autres dechets. Il est compose d'arteres, de veines et de capillaires, qui forment un systeme clos."
+  },
+  {
+    "id": 1572,
+    "question": "Quels sont les 3 elements de l'appareil cardiovasculaire ?",
+    "answer": "Les arteres, qui partent du cœur, les veines, qui arrivent au cœur et les capillaires, qui relient les systemes arteriel et veineux, et qui permettent les echanges entre le sang et les tissus."
+  },
+  {
+    "id": 1573,
+    "question": "Quels sont les 5 types de vaisseaux sanguins ?",
+    "answer": "Les arteres (qui transportent le sang du cœur vers les organes), les arterioles, les capillaires (qui permettent la diffusion des gaz et des nutriments entre le sang et les tissus), les veinules et les veines (qui transportent le sang des organes vers le cœur)."
+  },
+  {
+    "id": 1574,
+    "question": "Comment s'appelle la veine qui va au cœur ?",
+    "answer": "Les arteres coronaires sont les vaisseaux qui transportent le sang oxygene au cœur : Ils partent de l'aorte."
+  },
+  {
+    "id": 1575,
+    "question": "Quels sont les deux types de systeme circulatoire ?",
+    "answer": "Il existe deux types de circulation : la circulation pulmonaire et la circulation systemique. caves."
+  },
+  {
+    "id": 1576,
+    "question": "Quelle sont les 3 types de vaisseau sanguin ?",
+    "answer": "les arteres, les veines et les capillaires."
+  },
+  {
+    "id": 1577,
+    "question": "Quelles sont les etapes de la circulation du sang ?",
+    "answer": "Le sang quitte le cœur par l'artere aorte, il est conduit dans les capillaires de tous les organes du corps, puis retourne au cœur droit par les veines"
+  },
+  {
+    "id": 1578,
+    "question": "Quel est le role de la veine ?",
+    "answer": "Les veines ramenent vers le cœur le sang venant de tous les organes du corps. Les arteres transportent le sang avec l'oxygene et les nutriments du cœur vers le reste de l'organisme. Les grosses veines sont paralleles aux grosses arteres et partagent souvent le meme nom."
+  },
+  {
+    "id": 1579,
+    "question": "Quels sont les trois organes principaux du systeme nerveux ?",
+    "answer": "Ce sont le cerveau, la moelle epiniere et les nerfs."
+  },
+  {
+    "id": 1580,
+    "question": "Quels sont les 3 fonctions du systeme nerveux ?",
+    "answer": "Le systeme nerveux : gere les informations sensorielles, coordonne les mouvements musculaires et regule le fonctionnement des autres organes."
+  },
+  {
+    "id": 1581,
+    "question": "Quel role joue le systeme nerveux dans l'organisme humain ?",
+    "answer": "Le systeme nerveux est charge de coordonner les actions de notre corps avec l'environnement exterieur et d'assurer la communication entre les differentes parties du corps. Page 104 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1582,
+    "question": "Ou se trouve le systeme nerveux dans notre corps ?",
+    "answer": "Le systeme nerveux central est contenu dans la cavite dorsale, avec le cerveau loge dans sa partie cranienne et la moelle spinale dans sa partie spinale. Le cerveau est protege par le crane tandis que la moelle spinale est protegee par les vertebres, les deux enfermes dans les meninges."
+  },
+  {
+    "id": 1583,
+    "question": "C'est quoi un neurone ?",
+    "answer": "Les neurones sont des cellules qui ont pour fonction de recevoir, conduire, transmettre et traiter l'ensemble des informations qui entrent et sortent du cerveau."
+  },
+  {
+    "id": 1584,
+    "question": "Quel est le nom de la cellule du systeme nerveux ?",
+    "answer": "Neurone"
+  },
+  {
+    "id": 1585,
+    "question": "Quels sont les 3 types de neurones ?",
+    "answer": "le neurone multipolaire, bipolaire ou unipolaire."
+  },
+  {
+    "id": 1586,
+    "question": "Quelles sont les 4 parties de l'encephale ?",
+    "answer": "Chaque hemisphere est divise en 4 sections appelees lobes qui comprennent les lobes frontal, parietal, temporal et occipital."
+  },
+  {
+    "id": 1587,
+    "question": "Quelle est la difference entre un neurone et un nerf ?",
+    "answer": "les nerfs se trouvent dans le systeme nerveux peripherique et sont composes de faisceaux de fibres nerveuses (axones). Les neurones, en revanche, ne sont que les cellules du systeme nerveux."
+  },
+  {
+    "id": 1588,
+    "question": "Quel est l'organe qui commande le corps humain ?",
+    "answer": "le cerveau via des neurones de la moelle epiniere."
+  },
+  {
+    "id": 1589,
+    "question": "Comment s'appelle l'enveloppe du systeme nerveux central ?",
+    "answer": "Les meninges."
+  },
+  {
+    "id": 1590,
+    "question": "Quel est le role du cerveau dans le systeme nerveux ?",
+    "answer": "Le cerveau envoie des messages vers les nerfs peripheriques via la moelle epiniere a travers le corps afin de controler les muscles et les organes internes."
+  },
+  {
+    "id": 1591,
+    "question": "Citer 3 moyens pour proteger le systeme nerveux ?",
+    "answer": "Faire travailler le cerveau, Manger sainement pour proteger son cerveau, Fuir le stress, Eviter la solitude, Pratiquer du sport, Bannir les somniferes pour proteger son cerveau, Vivre heureux, Prendre des complements alimentaires."
+  },
+  {
+    "id": 1592,
+    "question": "Elle est plus marquee chez l’homme que chez la femme. Quel terme designe la proeminence au niveau de la partie anterieure du cou ?",
+    "answer": "La pomme d’Adam"
+  },
+  {
+    "id": 1593,
+    "question": "Quel anglicisme est employe pour designer la dependance psychique et parfois physique a une drogue mais egalement a un comportement, une situation ou une relation affective ?",
+    "answer": "Une addiction"
+  },
+  {
+    "id": 1594,
+    "question": "Chez la femme enceinte, que Membrane mince tapisse tout l’interieur de la cavite ou se trouve le fœtus ?",
+    "answer": "L’amnios"
+  },
+  {
+    "id": 1595,
+    "question": "On les appelle « woubi » quand ce sont des hommes. Quel terme medical est utilise pour qualifier les individus qui possedent certains caracteres sexuels du sexe oppose ?",
+    "answer": "Les androgynes"
+  },
+  {
+    "id": 1596,
+    "question": "Quel est l’os le plus long du corps humain ?",
+    "answer": "Le femur"
+  },
+  {
+    "id": 1597,
+    "question": "Ou se situe l’etrier, le plus petit os du corps humain ?",
+    "answer": "Dans l’oreille"
+  },
+  {
+    "id": 1598,
+    "question": "Combien l’humain possede-t-il de phalanges dans chacune de ses mains ?",
+    "answer": "14"
+  },
+  {
+    "id": 1599,
+    "question": "Chez l’homme, au bout de combien de semaines, un bebe arrive-t-il a terme ?",
+    "answer": "Entre 37 et 42 semaines (accepter toute reponse entre la 37eme et la 42 -eme semaine) Page 105 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1600,
+    "question": "Lorsque le travail commence chez la femme avant l’accouchement, quel liquide est evacue lors de la perte des eaux ?",
+    "answer": "Le liquide amniotique"
+  },
+  {
+    "id": 1601,
+    "question": "Quel sens se developpe en premier chez le bebe ?",
+    "answer": "Le toucher (ensuite le gout, l’odorat, l’ouîe et enfin la vue)"
+  },
+  {
+    "id": 1602,
+    "question": "Quelles dents poussent en premier chez un bebe ?",
+    "answer": "Les incisive (centrales)"
+  },
+  {
+    "id": 1603,
+    "question": "A la naissance, quels couleurs voient les bebes ?",
+    "answer": "Le noir et le blanc (les bebes, a la naissance est faible et floue, la perception des couleurs commence a un mois environ)"
+  },
+  {
+    "id": 1604,
+    "question": "Comment s’appellent les parties molles entre les os du crane d’un nouveau-ne ?",
+    "answer": "Les fontanelles"
+  },
+  {
+    "id": 1605,
+    "question": "De quels « acides » les proteines de notre corps sont-elles constituees ?",
+    "answer": "Acides amines"
+  },
+  {
+    "id": 1606,
+    "question": "Quel terme designe la matiere grasse des etres vivants ?",
+    "answer": "Les lipides"
+  },
+  {
+    "id": 1607,
+    "raw": "Quel processus bioenergetique rejetant de l’oxygene est principalement realise par les vegetaux ?"
+  },
+  {
+    "id": 1608,
+    "question": "Quelle technique permet de determiner l’epoque d’une espece ou d’un organisme ?",
+    "answer": "La datation au carbone 14"
+  },
+  {
+    "id": 1609,
+    "question": "Combien de chromosomes l’Homme possede-t-il ?",
+    "answer": "46"
+  },
+  {
+    "id": 1610,
+    "question": "Quel est le nom du facteur qui determine si votre groupe sanguin est positif ou negatif ?",
+    "answer": "Le facteur rhesus"
+  },
+  {
+    "id": 1611,
+    "question": "Comment nomme-t-on une preparation de plante pateuse faite pour etre appliquee sur la peau dans un but therapeutique ?",
+    "answer": "Un cataplasme"
+  },
+  {
+    "id": 1612,
+    "question": "Quelle epice est reputee pour ses bienfaits antiseptiques et entre souvent dans la composition des dentifrices ?",
+    "answer": "Le clou de girofle"
+  },
+  {
+    "id": 1613,
+    "question": "Souvent provoquant des sensations de vertige, de quoi a peur les personnes touchees d’acrophobie ?",
+    "answer": "Des hauteurs"
+  },
+  {
+    "id": 1614,
+    "question": "D’apres une etude de l’OMS, quelle phobie serait la plus repandue dans le monde ?",
+    "answer": "La peur des serpents"
+  },
+  {
+    "id": 1615,
+    "question": "En musique, en entend souvent parler de cordes vocales, les organes musculaires de la phonation chez l’Homme. Mais au juste, combien sont-elles ?",
+    "answer": "2"
+  },
+  {
+    "id": 1616,
+    "question": "Quel nom porte le liquide qui assure la lubrification des articulations ?",
+    "answer": "La synovie"
+  },
+  {
+    "id": 1617,
+    "question": "Quel age avait la plus jeune mere de l’humanite lorsqu’elle accouche ?",
+    "answer": "5 ans (Le 14 mai 1939, une jeune fille peruvienne de 5ans, 7 mois et 21 jours met au monde un enfant de 2,7 ans par cesarienne. La jeune Linda Medina a connu une puberte tres precoce etant donne qu’elle a eu ses premieres regles a l’age de 3 ans. Le pere de Lina a ete incarcere pour etre suspecte d’avoir abuse de sa fille. Il a ete ensuite libere faute de preuve. L’identite du pere ne sera jamais connue.)"
+  },
+  {
+    "id": 1618,
+    "question": "Jouant un role important dans l’excitation sexuelle chez la femme, comment s’appelle la partie du sexe feminin situee au sommet des petites levres ?",
+    "answer": "Le clitoris"
+  },
+  {
+    "id": 1619,
+    "question": "Ayant plusieurs stades de maturation, quel nom porte chez la femme, l’ensemble de cellules regroupant l’ovule et ses cellules nourricieres ?",
+    "answer": "Le follicule Page 106 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1620,
+    "question": "Quelle partie du corps secrete des substances anti bacteriennes qui detruisent les spores ?",
+    "answer": "La peau"
+  },
+  {
+    "id": 1621,
+    "question": "Quel organe est responsable de la production d’insuline dans le corps humain ?",
+    "answer": "Le pancreas"
+  },
+  {
+    "id": 1622,
+    "question": "Quel nom porte le premier rempart du corps contre les infections ?",
+    "answer": "Le systeme immunitaire"
+  },
+  {
+    "id": 1623,
+    "question": "Quel nutriment est essentiel au developpement osseux sain ?",
+    "answer": "Le calcium"
+  },
+  {
+    "id": 1624,
+    "question": "Quel est le nom scientifique des « regles » qui surviennent regulierement tous les mois chez la femme ?",
+    "answer": "Les menstruations"
+  },
+  {
+    "id": 1625,
+    "question": "Sous quel autre terme connait-on les tumeurs begnines appeles myomes ?",
+    "answer": "Les fibromes"
+  },
+  {
+    "id": 1626,
+    "question": "Quel nom medical designe l’ablation de l’uterus ?",
+    "answer": "L’hysterectomie"
+  },
+  {
+    "id": 1627,
+    "question": "Sous quel nom connait-on le mieux le cancer de sang ?",
+    "answer": "Une leucemie"
+  },
+  {
+    "id": 1628,
+    "question": "Comment s’appelle la partie exterieure du sexe feminin ?",
+    "answer": "La vulve"
+  },
+  {
+    "id": 1629,
+    "question": "Sous quel nom connait-on mieux l’acide acetylsalicylique ?",
+    "answer": "L’aspirine"
+  },
+  {
+    "id": 1630,
+    "question": "Quelle partie de l’œil devient opaque lors d’une cataracte ?",
+    "answer": "Le cristallin"
+  },
+  {
+    "id": 1631,
+    "question": "Comment appelle-t-on l'ensemble des mesures medicales et sociales tendant a preserver la sante individuelle et collective, a faire regresser les maladies et les accidents, dans le cadre de la sante publique ?",
+    "answer": "La prevention."
+  },
+  {
+    "id": 1632,
+    "question": "Partant du pouce, comment s’appelle le quatrieme doigt de la main ?",
+    "answer": "L’annulaire"
+  },
+  {
+    "id": 1633,
+    "question": "Dans le langage medical, quel terme designe chacune des cellules formees par segmentation de l’œuf feconde ?",
+    "answer": "un blastomere"
+  },
+  {
+    "id": 1634,
+    "question": "Elle apparaît surtout chez les femmes lors de la menopause. Quel terme designe la sensation soudaine et passagere de chaleur au visage, generalement accompagnee de rougeur ?",
+    "answer": "Une bouffee de chaleur"
+  },
+  {
+    "id": 1635,
+    "question": "Quel terme general designe une petite papule, pustule ou vesicule sur la peau ?",
+    "answer": "Un bouton"
+  },
+  {
+    "id": 1636,
+    "question": "Quel arbre appartenant a la famille des sterculiacees sert a fabriquer le chocolat ?",
+    "answer": "Le cacao"
+  },
+  {
+    "id": 1637,
+    "question": "Quel est le nom courant de la maladie appele influenza ?",
+    "answer": "La grippe"
+  },
+  {
+    "id": 1638,
+    "question": "A qui doit-on la decouverte de la tuberculose ?",
+    "answer": "Louis Pasteur"
+  },
+  {
+    "id": 1639,
+    "question": "Chez l’etre humain, quelle glande situee sous l’encephale produit notamment l’hormone de croissance ?",
+    "answer": "L’hypophyse"
+  },
+  {
+    "id": 1640,
+    "question": "Le colon est mieux connu sous quel autre nom ?",
+    "answer": "Le gros intestin"
+  },
+  {
+    "id": 1641,
+    "question": "Quel groupe sanguin est donneur universel ?",
+    "answer": "O"
+  },
+  {
+    "id": 1642,
+    "question": "Dans le sang, qu’est-ce qui vehicule l’oxygene ?",
+    "answer": "Les globules rouges"
+  },
+  {
+    "id": 1643,
+    "question": "La tachycardie est une pathologie de quel organe ?",
+    "answer": "Le cœur"
+  },
+  {
+    "id": 1644,
+    "question": "Quel est l’organe du corps humain qui secrete la bile ?",
+    "answer": "Le foie Page 107 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1645,
+    "question": "La peste est vehiculee par quel animal ?",
+    "answer": "Le rat"
+  },
+  {
+    "id": 1646,
+    "question": "En 1974, a quelle femme, ministre de la Sante en France, doit-on d’avoir defendu avec acharnement la loi sur l’IVG, l’interruption volontaire de grossesse ?",
+    "answer": "Simone Veil"
+  },
+  {
+    "id": 1647,
+    "question": "Qui est connu pour avoir decouvert le virus du sida ?",
+    "answer": "Luc Montagnier"
+  },
+  {
+    "id": 1648,
+    "question": "Que signifie CMU ?",
+    "answer": "Couverture maladie universelle"
+  },
+  {
+    "id": 1649,
+    "question": "Quel organisme onusien est charge de venir a bout de la faim dans le monde ?",
+    "answer": "La FAO"
+  },
+  {
+    "id": 1650,
+    "question": "Quel savant, prix Nobel en 1905, a identifie le germe de la tuberculose en 1882 ?",
+    "answer": "Robert Koch"
+  },
+  {
+    "id": 1651,
+    "question": "Quel fruit lutte efficacement contre le cholesterol a condition d’en manger au moins cinq par jour ?",
+    "answer": "La pomme"
+  },
+  {
+    "id": 1652,
+    "question": "Platon, Bouddha, Churchill et Napoleon etaient des adeptes de la sieste qui remet en forme. Quelle est la duree en minutes de la sieste ideale ?",
+    "answer": "Vingt minutes"
+  },
+  {
+    "id": 1653,
+    "question": "Quelle vitamine fut la premiere a etre decouverte ?",
+    "answer": "A"
+  },
+  {
+    "id": 1654,
+    "question": "Quel nom porte de nos jours la vitamine F ?",
+    "answer": "Omega 3."
+  },
+  {
+    "id": 1655,
+    "question": "Quelles sont les deux vitamines indispensables pour avoir une belle peau ?",
+    "answer": "Les vitamines A et E"
+  },
+  {
+    "id": 1656,
+    "question": "Quel produit courant de notre alimentation contient presque toutes les vitamines ?",
+    "answer": "Le lait"
+  },
+  {
+    "id": 1657,
+    "question": "Ou une maladie nosocomiale se contracte-elle ?",
+    "answer": "Lors d’un sejour a l’hopital"
+  },
+  {
+    "id": 1658,
+    "question": "En quelle annee les premiers cas de sida ont ete reperes ?",
+    "answer": "1981"
+  },
+  {
+    "id": 1659,
+    "question": "Quel terme designe l’intoxication par le plomb ?",
+    "answer": "Le saturnisme"
+  },
+  {
+    "id": 1660,
+    "question": "Combien de paires de chromosomes, l’homme dispose-t-il ?",
+    "answer": "23"
+  },
+  {
+    "id": 1661,
+    "question": "En moyenne dans notre corps combien de litres de sang ?",
+    "answer": "5"
+  },
+  {
+    "id": 1662,
+    "question": "A qui doit la premiere greffe du cœur, realisee en 1967 ?",
+    "answer": "Christian Barnard"
+  },
+  {
+    "id": 1663,
+    "question": "L’insuline a ete inventee par des chercheurs canadiens. C’etait en quelle annee ?",
+    "answer": "1921"
+  },
+  {
+    "id": 1664,
+    "question": "L’insuline est secretee par quel organe ?",
+    "answer": "Le pancreas"
+  },
+  {
+    "id": 1665,
+    "question": "Sous quel terme est mieux connu un sedatif ?",
+    "answer": "Un calmant"
+  },
+  {
+    "id": 1666,
+    "question": "Il est utilise en pharmacie comme agent colorant et aromatique. Quelle Substance de couleur brunatre, d’odeur et de saveur caracteristique, est obtenue en chauffant du sucre ?",
+    "answer": "Le caramel"
+  },
+  {
+    "id": 1667,
+    "question": "Elle atteint d’abord l’email puis la dentine. Quel nom donne-t-on a la destruction localisee et progressive des dents ?",
+    "answer": "La carie dentaire"
+  },
+  {
+    "id": 1668,
+    "question": "Pigment orange present dans le jaune d’œuf, les pommes de terre, les tomates, les graisses et les carottes, peut etre transforme en vitamine A par l’organisme ?",
+    "answer": "Le carotene"
+  },
+  {
+    "id": 1669,
+    "question": "Quel adjectif se dit d’un produit utilise pour entretenir l’hygiene ou la beaute du corps comme les savons, shampooings, desodorisants, cremes et fards ?",
+    "answer": "Cosmetique"
+  },
+  {
+    "id": 1670,
+    "question": "Comment s'appelle la reapparition des regles quelques semaines apres l'accouchement ?",
+    "answer": "le retour de couches Page 108 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1671,
+    "question": "Comment s'appelle l'absence de la survenue des regles chez la femme ?",
+    "answer": "L’amenorrhee"
+  },
+  {
+    "id": 1672,
+    "question": "Elle n'existe que depuis 40 ans. Elle est aujourd'hui la methode de contraception la plus repandue et la plus fiable. Quel produit miracle a libere la femme et permis la revolution sexuelle des annees 70 ?",
+    "answer": "La pilule contraceptive"
+  },
+  {
+    "id": 1673,
+    "question": "La dopamine est elaboree par le cerveau. A quoi sert-elle ?",
+    "answer": "Elle permet de se sentir bien"
+  },
+  {
+    "id": 1674,
+    "question": "Dans quelle partie du corps peut-on trouver une macula ?",
+    "answer": "L'œil"
+  },
+  {
+    "id": 1675,
+    "question": "Ce sont les globules rouges qui transportent et distribuent l'oxygene a l'organisme. Par l'intermediaire de quelle molecule font-ils cela ?",
+    "answer": "L'hemoglobine"
+  },
+  {
+    "id": 1676,
+    "question": "De quel instrument votre medecin se servira-il pour examiner vos oreilles ?",
+    "answer": "L'otoscope 1677. Quelle categorie de personnes est tres souvent touchee par les meningites virales ? R : Les enfants"
+  },
+  {
+    "id": 1678,
+    "question": "Quel est le principal facteur de risque de developper un cancer du poumon ?",
+    "answer": "Le tabac"
+  },
+  {
+    "id": 1679,
+    "question": "Quelle est la partie de la cellule, autre que le noyau, qui contient les organites cytoplasmiques ?",
+    "answer": "Le cytoplasme"
+  },
+  {
+    "id": 1680,
+    "question": "Quel nom porte le conduit aerien cartilagineux contenant les cordes vocales ?",
+    "answer": "Le larynx"
+  },
+  {
+    "id": 1681,
+    "question": "Comment appelle-t-on l'assemblage de cellules, groupees par cellules semblables, organisees entre elles et souvent associees a d’autres cellules de fonction differente ?",
+    "answer": "Les tissus"
+  },
+  {
+    "id": 1682,
+    "question": "Comment appelle-t-on toute glande dont le produit de secretion se deverse directement dans le sang ?",
+    "answer": "Endocrine"
+  },
+  {
+    "id": 1683,
+    "question": "Nos poumons sont divises en lobes. Un en compte 3 et l'autre 2. Lequel possede 2 lobes ?",
+    "answer": "Le poumon gauche (le poumon gauche est plus petit, divise en deux lobes seulement, il laisse de la place au cœur :)"
+  },
+  {
+    "id": 1684,
+    "question": "Le vaccin BCG, est un vaccin contre ?",
+    "answer": "La tuberculose"
+  },
+  {
+    "id": 1685,
+    "question": "Les aliments gras (lipides) apportent plus d'energie que les sucres (glucides). Vrai ou Faux ?",
+    "answer": "vrai (1 g de glucide fournit 17 KJ et 1 g de lipide fournit 38 KJ.)"
+  },
+  {
+    "id": 1686,
+    "question": "L'avocat est un fruit aux vertus aphrodisiaques. Vrai ou Faux ?",
+    "answer": "Vrai"
+  },
+  {
+    "id": 1687,
+    "question": "Un goitre est une augmentation de quelle glande ?",
+    "answer": "La thyroîde"
+  },
+  {
+    "id": 1688,
+    "question": "Qu'est cet objet que l'on utilise pendant une crise d'asthme ou difficulte a respirer ?",
+    "answer": "Une Ventoline"
+  },
+  {
+    "id": 1689,
+    "question": "Quel est le mot masculin pour \"sage-femme\" ?",
+    "answer": "Maîeuticien"
+  },
+  {
+    "id": 1690,
+    "question": "Quelle est la structure nerveuse protegee par la colonne vertebrale ?",
+    "answer": "La moelle epiniere"
+  },
+  {
+    "id": 1691,
+    "question": "Quel organe est remplace en cas de gastroplastie ?",
+    "answer": "L’estomac"
+  },
+  {
+    "id": 1692,
+    "question": "Quel oiseau charognard, principalement present dans les regions arides et montagneuses, se nourrit des carcasses d’animaux morts, jouant un role essentiel dans l'ecosysteme ?",
+    "answer": "Le vautour Page 109 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1693,
+    "question": "Comment s’appelle cette discipline sportive de combat consistant a projeter son adversaire au sol, en utilisant des techniques d’immobilisation et de soumission, pratiquee sous differentes formes comme celle dite greco-romaine ?",
+    "answer": "La lutte"
+  },
+  {
+    "id": 1694,
+    "question": "Quelle espece de cetace, connu pour sa nage rapide et ses bonds hors de l’eau, est souvent observe en groupe et repute pour son intelligence et ses interactions sociales ?",
+    "answer": "Le dauphin"
+  },
+  {
+    "id": 1695,
+    "question": "Quel est phenomene naturel, souvent observe a l'aube et au crepuscule, resulte de la diffusion de la lumiere du soleil par l'atmosphere, donnant au ciel des couleurs rouges, roses et violettes ?",
+    "answer": "Le crepuscule"
+  },
+  {
+    "id": 1696,
+    "question": "Comment appelle-t-on ce groupe de vertebres aquatiques, caracterises par un squelette osseux ou cartilagineux, qui respirent par des branchies et se deplacent grace a des nageoires ?",
+    "answer": "Les poissons"
+  },
+  {
+    "id": 1697,
+    "question": "Quel est le nom du processus biologique par lequel une cellule se divise pour donner naissance a deux cellules filles identiques, permettant la croissance, la reparation et la reproduction asexuee chez certains organismes ?",
+    "answer": "La mitose"
+  },
+  {
+    "id": 1698,
+    "question": "Quel est le nom de cet organe digestif chez les mammiferes, responsable de la production de bile, une substance necessaire a la digestion des graisses, et qui joue aussi un role de detoxification du sang ?",
+    "answer": "Le foie"
+  },
+  {
+    "id": 1699,
+    "question": "Comment s’appelle la classification scientifique des organismes vivants, basee sur leur structure, leur fonction et leur evolution, et qui regroupe les especes dans des categories telles que les genres et les familles ?",
+    "answer": "La taxonomie"
+  },
+  {
+    "id": 1700,
+    "question": "Quelle discipline sportive consiste a realiser une serie de mouvements fluides et choregraphies au sol ou sur des agres, mettant en avant souplesse, force et agilite ?",
+    "answer": "La gymnastique artistique"
+  },
+  {
+    "id": 1701,
+    "question": "Quel est le nom de cet arbre, present dans les regions mediterraneennes, qui produit des fruits oleagineux utilises pour l’extraction d’une huile precieuse dans l’alimentation et la cosmetique ?",
+    "answer": "L’olivier"
+  },
+  {
+    "id": 1702,
+    "question": "Quel grand papillon emblematique de l’Amerique du Nord, repute pour sa longue migration annuelle entre le Canada et le Mexique, est reconnaissable a ses motifs noirs et orange ?",
+    "answer": "Le papillon monarque"
+  },
+  {
+    "id": 1703,
+    "question": "Quel est le nom de cette discipline sportive pratiquee en exterieur, consistant a escalader des parois naturelles ou artificielles, avec ou sans cordes, selon le niveau de difficulte ?",
+    "answer": "L’escalade"
+  },
+  {
+    "id": 1704,
+    "question": "Quel grand felin d'Afrique, reconnu pour sa vitesse exceptionnelle lorsqu’il chasse des proies, est menace par la reduction de son habitat naturel ?",
+    "answer": "Le guepard"
+  },
+  {
+    "id": 1705,
+    "question": "Quel nom porte l’organe du systeme nerveux central, loge dans la colonne vertebrale, qui assure la transmission des informations entre le cerveau et le reste du corps ?",
+    "answer": "La moelle epiniere"
+  },
+  {
+    "id": 1706,
+    "question": "Comment appelle-t-on ce groupe de plantes vasculaires, non fleuries, qui se reproduisent par des spores et sont souvent presentes dans les sous-bois humides ou les zones ombragees ?",
+    "answer": "Les fougeres Page 110 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1707,
+    "question": "Comment appelle-t-on la discipline sportive de haute intensite, consistant a soulever des poids tres lourds dans des mouvements tels que le squat, le developpe couche et le souleve de terre ?",
+    "answer": "L’halterophilie"
+  },
+  {
+    "id": 1708,
+    "question": "Quel nom porte ce groupe musculaire situe a l’avant de la cuisse, utilise pour l’extension du genou et implique dans de nombreux mouvements sportifs comme le saut ou la course ?",
+    "answer": "Le quadriceps"
+  },
+  {
+    "id": 1709,
+    "question": "Quel nom porte cet insecte volant, bien connu pour son aptitude a recolter du nectar et a produire du miel, jouant un role essentiel dans la pollinisation des fleurs ?",
+    "answer": "L’abeille"
+  },
+  {
+    "id": 1710,
+    "question": "Quel est le terme designant le mouvement des animaux, souvent les oiseaux ou les poissons, qui se deplacent en masse d’un habitat a un autre, generalement en reponse aux changements climatiques ou aux saisons ?",
+    "answer": "La migration"
+  },
+  {
+    "id": 1711,
+    "question": "Quel nom donne-t-on a cette espece animale, classee parmi les primates, caracterisee par son intelligence, sa communication complexe et sa capacite a utiliser des outils dans son habitat naturel ?",
+    "answer": "Le chimpanze"
+  },
+  {
+    "id": 1712,
+    "question": "Quel est le terme utilise pour designer une perte excessive de masse osseuse, augmentant ainsi le risque de fractures, et touchant principalement les femmes menopausees en raison d'une diminution des hormones sexuelles ?",
+    "answer": "L'osteoporose"
+  },
+  {
+    "id": 1713,
+    "question": "Quel est le nom de l’hormone produite principalement par le pancreas, essentielle a la regulation de la glycemie, qui permet aux cellules de capter le glucose pour produire de l’energie ou le stocker sous forme de glycogene ?",
+    "answer": "L’insuline"
+  },
+  {
+    "id": 1714,
+    "question": "Comment appelle-t-on la glande situee dans la partie superieure du thorax, derriere le sternum, qui joue un role crucial dans le developpement du systeme immunitaire chez les enfants ?",
+    "answer": "Le thymus"
+  },
+  {
+    "id": 1715,
+    "question": "Comment appelle-t-on cette carence nutritionnelle causee par une absence prolongee de vitamine C, provoquant des symptomes comme la fatigue, les saignements des gencives et un retard de cicatrisation ?",
+    "answer": "Le scorbut"
+  },
+  {
+    "id": 1716,
+    "question": "Quel est le nom du mineral essentiel, present dans des aliments comme les epinards et les noix, qui aide a la formation des os, a la fonction musculaire et a la regulation du rythme cardiaque ?",
+    "answer": "Le magnesium"
+  },
+  {
+    "id": 1717,
+    "question": "Quel est le nom du cycle hormonal qui se produit chez la femme chaque mois, comprenant la maturation d'un ovule, son eventuelle fecondation, et la preparation de l'uterus a accueillir un embryon ?",
+    "answer": "Le cycle menstruel"
+  },
+  {
+    "id": 1718,
+    "question": "Quelle maladie infectieuse transmise par les piqures de moustiques Anopheles, provoque des symptomes tels que la fievre, les frissons, les maux de tete et peut entraîner des complications graves si elle n'est pas traitee ?",
+    "answer": "Le paludisme (ou malaria)"
+  },
+  {
+    "id": 1719,
+    "question": "Quel pigment present dans les cellules vegetales, est responsable de la capture de la lumiere solaire pour la photosynthese, et qui donne egalement aux feuilles leur couleur verte caracteristique ?",
+    "answer": "La chlorophylle Page 111 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1720,
+    "question": "Comment appelle-t-on ce systeme biologique qui permet la circulation du sang a travers le corps, apportant de l’oxygene et des nutriments aux cellules tout en eliminant les dechets metaboliques ?",
+    "answer": "Le systeme circulatoire"
+  },
+  {
+    "id": 1721,
+    "question": "Quel grand felin nocturne, souvent appele « roi de la jungle », qui vit en Afrique et en Asie, et dont les males se distinguent par une criniere majestueuse ?",
+    "answer": "Le lion"
+  },
+  {
+    "id": 1722,
+    "question": "Quel terme designe l’ensemble des phenomenes observes dans l’atmosphere terrestre, tels que la pluie, le vent et la neige, souvent etudies par les meteorologues pour predire le climat a court terme ?",
+    "answer": "La meteorologie"
+  },
+  {
+    "id": 1723,
+    "question": "Quel organe creux du corps humain, situe dans la cavite thoracique, pompe le sang a travers le systeme circulatoire, fournissant oxygene et nutriments aux cellules tout en eliminant le dioxyde de carbone ?",
+    "answer": "Le cœur"
+  },
+  {
+    "id": 1724,
+    "question": "Comment s’appelle ce processus par lequel l’organisme d’un etre vivant se decompose apres la mort, impliquant des bacteries, des champignons et d’autres micro- organismes, qui recyclent la matiere organique dans l’ecosysteme ?",
+    "answer": "La decomposition"
+  },
+  {
+    "id": 1725,
+    "question": "Quel organe reproducteur masculin, situe a l’exterieur du corps, produit les spermatozoîdes et les hormones necessaires a la reproduction chez les mammiferes ?",
+    "answer": "Les testicules"
+  },
+  {
+    "id": 1726,
+    "question": "Comment s'appelle cette activite physique, souvent pratiquee en montagne, consistant a marcher pendant plusieurs heures ou jours sur des sentiers balises, avec un equipement adapte et un sac a dos ?",
+    "answer": "La randonnee"
+  },
+  {
+    "id": 1727,
+    "question": "Quel terme designe l’ensemble des conditions atmospheriques sur une periode donnee dans une region precise, incluant la temperature, les precipitations, et le vent, souvent observees par des meteorologues ?",
+    "answer": "Le climat"
+  },
+  {
+    "id": 1728,
+    "question": "Quel mammifere marin, grand plongeur, souvent observe dans les oceans, se nourrit principalement de krill et de petits poissons, et est repute pour son chant complexe et melodieux ?",
+    "answer": "La baleine"
+  },
+  {
+    "id": 1729,
+    "question": "Comment appelle-t-on cette discipline medicale qui se consacre au traitement des affections du systeme nerveux, telles que la maladie d'Alzheimer, la sclerose en plaques et les lesions du cerveau ou de la moelle epiniere ?",
+    "answer": "La neurologie"
+  },
+  {
+    "id": 1730,
+    "question": "Comment appelle-t-on cet etat physiologique chez l’etre humain qui se manifeste par un sentiment de fatigue extreme et de faiblesse musculaire, souvent cause par une mauvaise alimentation ou un manque de repos ?",
+    "answer": "L’epuisement"
+  },
+  {
+    "id": 1731,
+    "question": "Quel est le nom de cet arbre fruitier, commun dans les regions mediterraneennes, qui produit des fruits noirs ou verts, souvent utilises dans la cuisine et dans la fabrication d’huile alimentaire ?",
+    "answer": "L’olivier"
+  },
+  {
+    "id": 1732,
+    "question": "Quelle technique de relaxation, issue de traditions asiatiques, se base sur la respiration profonde, la meditation et les postures, et qui vise a apaiser l’esprit et a reduire le stress ?",
+    "answer": "Le yoga Page 112 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1733,
+    "question": "Comment appelle-t-on cet organe du systeme digestif humain, long tube qui relie la bouche a l’estomac, et qui permet le passage des aliments grace a des mouvements de contraction appeles peristaltisme ?",
+    "answer": "L’œsophage"
+  },
+  {
+    "id": 1734,
+    "question": "Comment appelle-t-on cette periode de la vie des insectes marquee par des transformations morphologiques majeures, passant de la larve a l’adulte, comme chez les papillons ou les coccinelles ?",
+    "answer": "La metamorphose"
+  },
+  {
+    "id": 1735,
+    "question": "Quel terme medical designe l’ensemble des reactions chimiques qui se produisent dans les cellules du corps humain, permettant la production d’energie et la croissance des tissus ?",
+    "answer": "Le metabolisme"
+  },
+  {
+    "id": 1736,
+    "question": "Comment appelle-t-on cette maladie inflammatoire chronique des voies respiratoires, souvent declenchee par des allergenes ou des irritants, et qui se manifeste par des crises de dyspnee, des sifflements et une sensation d’oppression thoracique ?",
+    "answer": "L’asthme"
+  },
+  {
+    "id": 1737,
+    "question": "Quel est le nom de ce mammifere volant, principalement nocturne, qui utilise l’echolocation pour chasser ses proies, et qui joue un role ecologique crucial en reduisant les populations d’insectes ?",
+    "answer": "La chauve-souris"
+  },
+  {
+    "id": 1738,
+    "question": "Quelle discipline medicale traite les affections du cœur et des vaisseaux sanguins, comme l’insuffisance cardiaque, les infarctus ou l’hypertension arterielle ?",
+    "answer": "La cardiologie"
+  },
+  {
+    "id": 1739,
+    "question": "Comment appelle-t-on cette substance organique essentielle a la vie, constituee d’acides amines, qui intervient dans la construction et la reparation des tissus, ainsi que dans les reactions enzymatiques ?",
+    "answer": "Une proteine"
+  },
+  {
+    "id": 1740,
+    "question": "Quel terme medical designe cette branche de la medecine qui se concentre sur la prevention, le diagnostic et le traitement des maladies mentales, telles que la depression, la schizophrenie ou les troubles anxieux ?",
+    "answer": "La psychiatrie"
+  },
+  {
+    "id": 1741,
+    "question": "Quel element chimique, symbole O, indispensable a la respiration des organismes vivants, constitue environ 21 % de l’atmosphere terrestre et est libere par les plantes lors de la photosynthese ?",
+    "answer": "L’oxygene"
+  },
+  {
+    "id": 1742,
+    "question": "Quel insecte pollinisateur, essentiel a la reproduction des plantes a fleurs, produit egalement du miel, de la cire et de la propolis, et joue un role crucial dans les ecosystemes agricoles ?",
+    "answer": "L’abeille"
+  },
+  {
+    "id": 1743,
+    "question": "Quel est le nom de cette branche de la biologie qui etudie la transmission des caracteres hereditaires d’une generation a l’autre, basee sur les travaux de Gregor Mendel et la decouverte de l’ADN ?",
+    "answer": "La genetique"
+  },
+  {
+    "id": 1744,
+    "question": "Quel est le nom de cette plante herbacee, couramment utilisee dans la cuisine mediterraneenne, qui possede de petites feuilles vertes parfumees et qui entre souvent dans la preparation des sauces et des salades ?",
+    "answer": "Le basilic"
+  },
+  {
+    "id": 1745,
+    "question": "Comment s'appelle cette science qui etudie les phenomenes geologiques, l’origine et la structure des roches, ainsi que les processus internes de la Terre comme le volcanisme ou les seismes ?",
+    "answer": "La geologie Page 113 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1746,
+    "question": "Quel est le nom de ce grand felin, au pelage tachete, qui est connu pour sa vitesse exceptionnelle et qui chasse principalement de petits mammiferes dans les savanes africaines et asiatiques ?",
+    "answer": "Le guepard"
+  },
+  {
+    "id": 1747,
+    "question": "Comment appelle-t-on cette technique utilisee en chirurgie pour reparer une blessure ou refermer une plaie, ou des fils sont places sur les bords de la peau pour favoriser la cicatrisation ?",
+    "answer": "La suture"
+  },
+  {
+    "id": 1748,
+    "question": "Quel organe de l’appareil respiratoire humain, situe dans la cage thoracique, assure les echanges gazeux entre l’air inspire et le sang, en absorbant l’oxygene et en rejetant le dioxyde de carbone ?",
+    "answer": "Le poumon"
+  },
+  {
+    "id": 1749,
+    "question": "Comment appelle-t-on cette substance minerale presente dans la croute terrestre, essentielle a la construction des os et des dents, et qui joue un role dans la contraction musculaire et la transmission nerveuse ?",
+    "answer": "Le calcium"
+  },
+  {
+    "id": 1750,
+    "question": "Comment appelle-t-on cette substance organique jaune-vert, produite par le foie et stockee dans la vesicule biliaire, qui aide a la digestion des graisses dans l’intestin grele ?",
+    "answer": "La bile"
+  },
+  {
+    "id": 1751,
+    "question": "Quel grand felin d’Afrique, repute pour sa force et sa criniere majestueuse chez les males, vit en groupes sociaux appeles des troupes ou des clans ?",
+    "answer": "Le lion"
+  },
+  {
+    "id": 1752,
+    "question": "Comment s’appelle cette methode scientifique qui consiste a classer et a nommer les organismes vivants, en fonction de leurs caracteristiques communes et de leur evolution, formant ainsi l’arbre de la vie ?",
+    "answer": "La taxonomie"
+  },
+  {
+    "id": 1753,
+    "question": "Dans quelle discipline sportive, les participants doivent courir, sauter et lancer divers objets, comme des javelots et des disques, pour marquer le plus de points dans des epreuves individuelles ou collectives ?",
+    "answer": "L’athletisme"
+  },
+  {
+    "id": 1754,
+    "question": "Comment appelle-t-on cette molecule presente dans le sang humain, formee par l’association de fer et d’une proteine, et qui joue un role essentiel dans le transport de l’oxygene des poumons vers les tissus ?",
+    "answer": "L’hemoglobine"
+  },
+  {
+    "id": 1755,
+    "question": "Quel terme designe la reproduction sexuee chez les plantes a fleurs, dans laquelle les grains de pollen sont transferes des etamines au pistil, permettant ainsi la fecondation des ovules ?",
+    "answer": "La pollinisation"
+  },
+  {
+    "id": 1756,
+    "question": "Quel est le nom de ce grand oiseau charognard, qui se nourrit principalement de carcasses d’animaux morts, et qui est dote d’un bec puissant et d’ailes larges adaptees au vol plane ?",
+    "answer": "Le vautour"
+  },
+  {
+    "id": 1757,
+    "question": "Comment appelle-t-on cette technique de diagnostic medical non invasif qui utilise des ondes sonores pour visualiser les organes internes, souvent employee pour surveiller la grossesse et l’etat du fœtus ?",
+    "answer": "L’echographie"
+  },
+  {
+    "id": 1758,
+    "question": "Quel est le terme designant cette phase de la vie d’un animal, comme le serpent ou le crabe, durant laquelle il abandonne son ancienne peau ou carapace pour en former une nouvelle, plus grande ?",
+    "answer": "La mue"
+  },
+  {
+    "id": 1759,
+    "question": "Comment s’appelle cette partie de la fleur qui contient les ovules, et qui, apres la fecondation, se developpe pour former le fruit, renfermant les graines ?",
+    "answer": "L’ovaire Page 114 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1760,
+    "question": "Quel est le nom du muscle le plus puissant du corps humain, situe dans la cuisse, qui permet d’etendre la jambe et de supporter le poids du corps lors de la marche et du saut ?",
+    "answer": "Le quadriceps"
+  },
+  {
+    "id": 1761,
+    "question": "Quel est le nom de cette hormone produite par les glandes surrenales, souvent appelee « hormone du stress », qui permet au corps de reagir rapidement en cas de danger ou de situation d’urgence ?",
+    "answer": "L’adrenaline"
+  },
+  {
+    "id": 1762,
+    "question": "Quelle plante herbacee utilisee en cuisine comme aromate, est connue pour ses feuilles allongees et son gout frais, et tres populaire dans les plats mediterraneens et asiatiques ?",
+    "answer": "La coriandre"
+  },
+  {
+    "id": 1763,
+    "question": "Comment s’appelle cette technique medicale qui permet d’observer l’interieur du corps humain en utilisant des rayons X, pour diagnostiquer des fractures, des infections ou des anomalies osseuses ?",
+    "answer": "La radiographie"
+  },
+  {
+    "id": 1764,
+    "question": "Quelle hormone produite par les ovaires et le placenta, est essentielle a la regulation du cycle menstruel et au maintien de la grossesse chez la femme ?",
+    "answer": "La progesterone"
+  },
+  {
+    "id": 1765,
+    "question": "Comment appelle-t-on cette plante grimpante, originaire d’Amerique du Sud, connue pour ses proprietes medicinales calmantes, et souvent utilisee en phytotherapie pour traiter l’insomnie et l’anxiete ?",
+    "answer": "La passiflore"
+  },
+  {
+    "id": 1766,
+    "question": "Comment s’appelle cette discipline sportive pratiquee en piscine, ou les athletes effectuent des series de mouvements synchronises avec la musique, alliant grace, force et coordination ?",
+    "answer": "La natation synchronisee"
+  },
+  {
+    "id": 1767,
+    "question": "Quel terme designe les structures presentes dans la membrane des cellules vegetales, responsables de la photosynthese, processus permettant de capter la lumiere pour produire de l’energie sous forme de glucose ?",
+    "answer": "Les chloroplastes"
+  },
+  {
+    "id": 1768,
+    "question": "Quel est le nom de cette maladie virale tres contagieuse, qui affecte les voies respiratoires et se manifeste par une forte fievre, des courbatures, une toux seche, et des maux de gorge ?",
+    "answer": "La grippe"
+  },
+  {
+    "id": 1769,
+    "question": "Quel est le terme designant ce processus de transformation par lequel une chenille devient papillon, passant par l’etat de chrysalide avant d’emerger sous sa forme adulte ?",
+    "answer": "La metamorphose"
+  },
+  {
+    "id": 1770,
+    "question": "Comment appelle-t-on cette technique agricole ou l’on cultive des plantes sans terre, en utilisant une solution riche en nutriments pour nourrir les racines, permettant une croissance rapide dans un espace reduit ?",
+    "answer": "L’hydroponie"
+  },
+  {
+    "id": 1771,
+    "question": "Quel terme designe un groupe d’organismes capables de se reproduire entre eux, donnant naissance a une progeniture fertile, formant ainsi l’unite de base de la classification biologique des etres vivants ?",
+    "answer": "L’espece"
+  },
+  {
+    "id": 1772,
+    "question": "Quel appareil medical utilise pour mesurer la pression lors des examens de sante pour surveiller l'etat cardiovasculaire des patients ?",
+    "answer": "Le tensiometre"
+  },
+  {
+    "id": 1773,
+    "question": "Quelle partie de l'œil, situee devant la pupille, permet de focaliser la lumiere sur la retine, contribuant ainsi a la formation d'une image nette ?",
+    "answer": "Le cristallin Page 115 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1774,
+    "question": "Comment appelle-t-on cette phase du cycle menstruel, caracterisee par la liberation d'un ovule par les ovaires, generalement autour du 14eme jour du cycle chez une femme en age de procreer ?",
+    "answer": "L'ovulation"
+  },
+  {
+    "id": 1775,
+    "question": "Comment appelle-t-on cette periode de la vie d’un etre humain, generalement comprise entre l'age de 10 et 19 ans, caracterisee par des changements physiques, emotionnels et sociaux importants, souvent associes a la decouverte de soi et a l'affirmation de l'identite ?",
+    "answer": "L’adolescence"
+  },
+  {
+    "id": 1776,
+    "question": "Comment s’appelle cette condition physique resultant d'un manque d'exercice, d'une alimentation desequilibree et d'un exces de poids, souvent associee a des maladies chroniques comme le diabete de type 2 ?",
+    "answer": "L'obesite"
+  },
+  {
+    "id": 1777,
+    "question": "Quel mammifere, souvent eleve pour sa laine, sa viande et son lait, symbolise l'agriculture dans de nombreuses cultures ?",
+    "answer": "Le mouton"
+  },
+  {
+    "id": 1778,
+    "question": "Quelle substance chimique, souvent presente dans les produits cosmetiques et de nettoyage, reconnue pour ses proprietes antibacteriennes et antifongiques, utilisee pour prevenir les infections ?",
+    "answer": "L'alcool"
+  },
+  {
+    "id": 1779,
+    "question": "Quel oiseau, migrateur, souvent reconnue pour son plumage colore et son chant melodieux, representant un symbole de liberte et de beaute dans la nature ?",
+    "answer": "Le rossignol"
+  },
+  {
+    "id": 1780,
+    "question": "Comment appelle-t-on ce processus psychologique, par lequel un individu apprend a gerer et a surmonter des situations stressantes ou difficiles, souvent en developpant des strategies d'adaptation efficaces ?",
+    "answer": "La resilience"
+  },
+  {
+    "id": 1781,
+    "question": "Comment s'appelle ce phenomene biologique, ou les organismes vivants changent de couleur ou de motif en fonction de leur environnement, offrant ainsi une protection contre les predateurs ?",
+    "answer": "Le mimetisme"
+  },
+  {
+    "id": 1782,
+    "question": "Quel appareil medical est utilise pour mesurer la glycemie chez les patients diabetiques, permettant un suivi regulier de leur taux de sucre dans le sang ?",
+    "answer": "Le glucometre."
+  },
+  {
+    "id": 1783,
+    "question": "Quel huile, riche en acides gras insatures, est souvent recommande pour ses effets benefiques sur la sante cardiovasculaire et pour reduire le cholesterol ?",
+    "answer": "L'huile d'olive."
+  },
+  {
+    "id": 1784,
+    "question": "Comment s'appelle l'organe vital responsable de la filtration du sang, de la production d'urine et de la regulation de la pression sanguine, essentiel pour l'elimination des dechets ?",
+    "answer": "Le rein."
+  },
+  {
+    "id": 1785,
+    "question": "Quel appareil, utilise dans les examens medicaux, permet de visualiser l'interieur du corps humain, en utilisant une technologie de sonorisation pour obtenir des images des organes internes ?",
+    "answer": "L'echographe."
+  },
+  {
+    "id": 1786,
+    "question": "Quel appareil, couramment utilise dans les soins d'urgence, permet d'oxygener un patient en cas de detresse respiratoire, en fournissant un apport constant d'oxygene ?",
+    "answer": "Le masque a oxygene. Page 116 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1787,
+    "question": "Quelle maladie infectieuse, causee par le virus de l’immunodeficience humaine (VIH), qui affaiblit le systeme immunitaire et expose les personnes a d'autres infections et maladies graves ?",
+    "answer": "Le sida (syndrome d'immunodeficience acquise)."
+  },
+  {
+    "id": 1788,
+    "question": "Quel aliment, souvent consomme en tant que source de probiotiques, est benefique pour la sante intestinale et le systeme immunitaire, en favorisant une flore intestinale equilibree ?",
+    "answer": "Le yaourt."
+  },
+  {
+    "id": 1789,
+    "question": "Quel aliment, elabore avec une farine complete, c'est a dire avec tout ou presque l'integralite du grain de ble, source de glucides complexes et de fibres, est recommande pour son effet satietant et sa capacite a stabiliser la glycemie ?",
+    "answer": "Le pain complet."
+  },
+  {
+    "id": 1790,
+    "question": "Quel trouble de la vision, caracterisee par une pression intraoculaire elevee, peut entraîner des lesions du nerf optique et une perte de vision si non traitee ?",
+    "answer": "Le glaucome."
+  },
+  {
+    "id": 1791,
+    "question": "Quel appareil, utilise pour mesurer le taux de glucose dans le sang, est essentiel pour les personnes diabetiques pour surveiller leur etat de sante quotidien ?",
+    "answer": "Le glucometre."
+  },
+  {
+    "id": 1792,
+    "question": "Comment s'appelle ce processus de transformation des aliments en substances assimilables par l'organisme, impliquant des etapes chimiques et mecaniques dans le systeme digestif ?",
+    "answer": "La digestion."
+  },
+  {
+    "id": 1793,
+    "question": "Comment appelle-t-on la science qui etudie la structure des corps ?",
+    "answer": "L’anatomie"
+  },
+  {
+    "id": 1794,
+    "question": "Qu'est-ce qu'une infection virale ?",
+    "answer": "Infection causee par un virus."
+  },
+  {
+    "id": 1795,
+    "question": "La fievre, la toux et les douleurs musculaires sont les symptomes quelle maladie ?",
+    "answer": "La grippe"
+  },
+  {
+    "id": 1796,
+    "question": "Qu’est-ce qu’un antibiotique ?",
+    "answer": "Medicament contre les infections bacteriennes."
+  },
+  {
+    "id": 1797,
+    "question": "Si la pathologie est la science qui etudie la maladie, quelle est la science qui etudie la classification des maladies ?",
+    "answer": "Nosologie"
+  },
+  {
+    "id": 1798,
+    "question": "Les globules rouges, transporteurs de l’oxygene, sont encore appeles hematies. Mais dites-moi, du grec Erythros et Kutos, comment sont-ils encore appeles ?",
+    "answer": "Erythrocyte"
+  },
+  {
+    "id": 1799,
+    "question": "Dans le systeme immunitaire, quels types d’organes sont la moelle osseuse, les ganglions, la rate, les amygdales et le thymus ?",
+    "answer": "Les organes lymphoîdes"
+  },
+  {
+    "id": 1800,
+    "question": "Qu’est-ce que l’angiologie ?",
+    "answer": "Etude des pathologies des vaisseaux"
+  },
+  {
+    "id": 1801,
+    "question": "De combien d’elements est constitue l’echographe ?",
+    "answer": "6"
+  },
+  {
+    "id": 1802,
+    "question": "Quel est le plus gros organe abdominal ?",
+    "answer": "Le foie"
+  },
+  {
+    "id": 1803,
+    "question": "Quelle maladie a pour symptomes la polyurie, polydipsie et la polyphagie ?",
+    "answer": "Le diabete"
+  },
+  {
+    "id": 1804,
+    "question": "Comment etait appele le diabete de type 2 ?",
+    "answer": ": Diabete non insulinodependant / diabete de l’age mur"
+  },
+  {
+    "id": 1805,
+    "question": "A partir de combien de pression dans les vaisseaux sanguins qualifie-t-on une personne comme souffrant d'hypertension ?",
+    "answer": "140/90mmHg 1806. Qu’est-ce qu’un anticorps ? R : reponse immunitaire"
+  },
+  {
+    "id": 1807,
+    "question": "Qu’est-ce qu’un antigene ?",
+    "answer": "substance etrangere. Page 117 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1808,
+    "question": "Par quel medecin le terme de neurologie a ete introduite dans le vocabulaire medical ?",
+    "answer": "Thomas Willis"
+  },
+  {
+    "id": 1809,
+    "question": "Film de Thomas Carter qui raconte l’autobiographie de Ben Carson, un neurochirurgien ayant ete eleve par sa mere.",
+    "answer": "Gifted hands / Des mains en or"
+  },
+  {
+    "id": 1810,
+    "question": "Quels sont les types de diabete ?",
+    "answer": "Type 1, Type 2, gestationnel"
+  },
+  {
+    "id": 1811,
+    "question": "Les plaquettes sanguines sont des cellules avec noyau, vrai ou faux ?",
+    "answer": "Faux"
+  },
+  {
+    "id": 1812,
+    "question": "A quelle etude est rattachee la dermatologie ?",
+    "answer": "La venerologie / venereologie / maladies veneriennes"
+  },
+  {
+    "id": 1813,
+    "question": "Qu'est-ce que la radiologie ?",
+    "answer": "Imagerie medicale par rayons X."
+  },
+  {
+    "id": 1814,
+    "question": "Qu'est-ce que l'osteoporose ?",
+    "answer": "Maladie des os fragiles."
+  },
+  {
+    "id": 1815,
+    "question": "La psychiatrie est une discipline scientifique qui s'interesse a l'etude du corpus des connaissances sur les faits psychiques, les comportements et les processus mentaux, vrai ou faux ?",
+    "answer": ": Faux"
+  },
+  {
+    "id": 1816,
+    "question": "Qu'est-ce qu'une echographie ?",
+    "answer": "Imagerie par ultrasons."
+  },
+  {
+    "id": 1817,
+    "question": "Que signifie IRM ?",
+    "answer": "Imagerie par resonance magnetique."
+  },
+  {
+    "id": 1818,
+    "question": "Que signifie ECG ?",
+    "answer": ": Electrocardiogramme"
+  },
+  {
+    "id": 1819,
+    "question": "Le salbutamol appartient quel groupe de medicaments ?",
+    "answer": "Betamimetiques (ou beta- 2 agonistes)."
+  },
+  {
+    "id": 1820,
+    "question": "L’arthrite designe la pathologie repertoriee sous le nom d’arthrose ? Vrai / faux ?",
+    "answer": "Faux 1821. La carotide est non pulsatile vrai ou faux ? R : faux."
+  },
+  {
+    "id": 1822,
+    "question": "Comment appelle-t-on le taux eleve de lipides dans le sang. ?",
+    "answer": "l'hyperlipidemie"
+  },
+  {
+    "id": 1823,
+    "question": "L’inflammation de l'estomac et des intestins est encore appelee ?",
+    "answer": "la gastro-enterite"
+  },
+  {
+    "id": 1824,
+    "question": "Quel virus ne donne pas la gastro enterite : rotavirus, norovirus, Mimivirus, adenovirus, calvicivirus, astrovirus ?",
+    "answer": "Mimivirus"
+  },
+  {
+    "id": 1825,
+    "question": "Qu'est-ce qu'une biopsie ?",
+    "answer": "Prelevement de tissu pour analyse."
+  },
+  {
+    "id": 1826,
+    "question": "Partie de la pediatrie qui s’occupe des nouveaux nes ?",
+    "answer": "neonatalogie"
+  },
+  {
+    "id": 1827,
+    "question": "Une maladie ou le systeme immunitaire attaque le corps est ?",
+    "answer": "Une maladie auto- immune"
+  },
+  {
+    "id": 1828,
+    "question": "Trouble neurologique provoque par une inflammation de la moelle epiniere ?",
+    "answer": "myelite transverse"
+  },
+  {
+    "id": 1829,
+    "question": "Si je dis : Apixaban, Fondaparinux, etexilate de Dabigatran, clopidogrel, eptifibatide, rivaroxaban et Coumaphene, a quelle maladie pensez-vous ?",
+    "answer": ": Thrombose"
+  },
+  {
+    "id": 1830,
+    "question": "Quelle est la cause de l'endometriose ?",
+    "answer": "l’endometre/tissu endometrial"
+  },
+  {
+    "id": 1831,
+    "question": "Technique d'anesthesie locoregionale peri medullaire consistant a injecter une solution anesthesique dans le liquide cephalo-rachidien au travers d'un espace intervertebral de la colonne lombaire, au contact des dernieres racines nerveuses medullaires.",
+    "answer": "rachianesthesie 1832. Maladie affectant le systeme nerveux central. R : sclerose en plaques ?"
+  },
+  {
+    "id": 1833,
+    "question": "Quel terme medical designe toute reponse inflammatoire generalisee associee a une infection grave ?",
+    "answer": "septicemie. Page 118 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1834,
+    "question": "La maladie de Parkinson porte le nom de quel medecin ?",
+    "answer": "James Parkinson 1835. Comment appelle-t-on l'infection des poumons ? R : Pneumonie."
+  },
+  {
+    "id": 1836,
+    "question": "Quelle fonction jouent les reins dans le corps humain ?",
+    "answer": "Filtrage"
+  },
+  {
+    "id": 1837,
+    "question": "Comment appelle-t-on la production excessive d'hormones thyroîdiennes ?",
+    "answer": "Hyperthyroîdie."
+  },
+  {
+    "id": 1838,
+    "question": "Quel nom est donne aux substances chimiques qui transmettent des signaux nerveux ?",
+    "answer": "Neurotransmetteurs."
+  },
+  {
+    "id": 1839,
+    "question": "Comment appelle-t-on la reaction du corps a certains aliments ?",
+    "answer": "Allergie alimentaire."
+  },
+  {
+    "id": 1840,
+    "question": "Quel est le specialiste qui traite les troubles hormonaux ?",
+    "answer": "Endocrinologue."
+  },
+  {
+    "id": 1841,
+    "question": "Comment appelle-t-on le trouble mental caracterise par des symptomes persistants de tristesse et de perte d'interet ?",
+    "answer": ": Depression majeure."
+  },
+  {
+    "id": 1842,
+    "question": "Quel nom est donne aux douleurs musculosquelettiques generalisees ?",
+    "answer": "Fibromyalgie."
+  },
+  {
+    "id": 1843,
+    "question": "Comment appelle-t-on l'interruption de l'apport sanguin au cerveau ?",
+    "answer": "AVC (Accident vasculaire cerebral)."
+  },
+  {
+    "id": 1844,
+    "question": "Quel est le nom de l'anticorps conçu pour cibler une seule substance specifique ?",
+    "answer": "Anticorps monoclonal."
+  },
+  {
+    "id": 1845,
+    "question": "Quel specialiste medical traite le cancer ?",
+    "answer": "Oncologue."
+  },
+  {
+    "id": 1846,
+    "question": "Comment appelle-t-on l'etude des questions morales en medecine ?",
+    "answer": ": Bioethique."
+  },
+  {
+    "id": 1847,
+    "question": "Quel est le terme qui designe l'equilibre des fonctions corporelles ?",
+    "answer": "Homeostasie."
+  },
+  {
+    "id": 1848,
+    "question": "Comment appelle-t-on une maladie qui se propage facilement ?",
+    "answer": "Maladie Communicable"
+  },
+  {
+    "id": 1849,
+    "question": "Comment appelle-t-on un changement dans l'ADN d'un gene ?",
+    "answer": "Mutation genetique."
+  },
+  {
+    "id": 1850,
+    "question": "Quel nom donne-t-on a un organisme pouvant causer une maladie ?",
+    "answer": ": Pathogene."
+  },
+  {
+    "id": 1851,
+    "question": "Comment appelle-t-on une infection acquise a l'hopital ?",
+    "answer": "Infection nosocomiale."
+  },
+  {
+    "id": 1852,
+    "question": "Quel est le nom du traitement utilisant le systeme immunitaire pour lutter contre une maladie ?",
+    "answer": "Immunotherapie."
+  },
+  {
+    "id": 1853,
+    "question": "Comment appelle-t-on cet episode de decharges electriques anormales dans le cerveau ?",
+    "answer": "Crise d'epilepsie."
+  },
+  {
+    "id": 1854,
+    "question": "Quel terme designe le nombre total de cas d'une maladie dans une population a un moment donne ?",
+    "answer": "Prevalence."
+  },
+  {
+    "id": 1855,
+    "question": "Quelle cellule a pour fonction transmettre des signaux electriques dans le corps humain ?",
+    "answer": "Neurone"
+  },
+  {
+    "id": 1856,
+    "question": "Comment appelle-t-on une maladie de longue duree, souvent incurable ?",
+    "answer": "Maladie chronique."
+  },
+  {
+    "id": 1857,
+    "question": "Que fait un medecin legiste ?",
+    "answer": "Etudie les causes de deces."
+  },
+  {
+    "id": 1858,
+    "question": "Comment appelle-t-on l'etude des medicaments et de leurs effets ?",
+    "answer": "Pharmacologie."
+  },
+  {
+    "id": 1859,
+    "question": "Quel nom est donne a une etude sur l'efficacite d'un traitement ?",
+    "answer": "Clinique d'essai. Page 119 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1860,
+    "question": "Quelle maladie est caracterisee par un nombre de lymphocytes inferieur a la normale lors d’un hemogramme ?",
+    "answer": "Lymphopenie"
+  },
+  {
+    "id": 1861,
+    "question": "Comment appelle-t-on un ensemble de facteurs de risque de maladies cardiaques ?",
+    "answer": ": Syndrome metabolique."
+  },
+  {
+    "id": 1862,
+    "question": "Quel nom est donne a une maladie touchant tres peu de personnes ?",
+    "answer": "Maladie rare."
+  },
+  {
+    "id": 1863,
+    "question": "Comment appelle-t-on la transmission d'une maladie d'une personne a une autre ?",
+    "answer": "Contagion."
+  },
+  {
+    "id": 1864,
+    "question": "Quel terme designe une maladie transmise par les genes des parents ?",
+    "answer": "Maladie hereditaire."
+  },
+  {
+    "id": 1865,
+    "question": "Quelle hormone prepare le corps a reagir au stress ?",
+    "answer": "L’adrenaline"
+  },
+  {
+    "id": 1866,
+    "question": "Comment appelle-t-on l'etude des maladies dans les populations ?",
+    "answer": "Epidemiologie."
+  },
+  {
+    "id": 1867,
+    "question": "Comment appelle-t-on les elements augmentant la probabilite d'une maladie ?",
+    "answer": "Facteurs de risque."
+  },
+  {
+    "id": 1868,
+    "question": "Quel nom est donne au processus d'elimination des toxines du corps ?",
+    "answer": "Detoxification."
+  },
+  {
+    "id": 1869,
+    "question": "Comment appelle-t-on la complication du diabete caracterisee par une acidite elevee du sang ?",
+    "answer": "Acidocetose diabetique."
+  },
+  {
+    "id": 1870,
+    "question": "Quel nom donne-t-on a un indicateur biologique d'une maladie ?",
+    "answer": "Biomarqueur :"
+  },
+  {
+    "id": 1871,
+    "question": "Comment appelle-t-on la procedure pour ouvrir des arteres obstruees ?",
+    "answer": "Angioplastie."
+  },
+  {
+    "id": 1872,
+    "question": "Comment appelle-t-on le phenomene ou les bacteries ne reagissent plus aux antibiotiques ?",
+    "answer": "Resistance aux antibiotiques."
+  },
+  {
+    "id": 1873,
+    "question": "Quel organe a pour fonction de reguler le metabolisme par les hormones ?",
+    "answer": "La thyroîde"
+  },
+  {
+    "id": 1874,
+    "question": "Comment appelle-t-on le desequilibre entre les radicaux libres et les antioxydants ?",
+    "answer": "Stress oxydatif."
+  },
+  {
+    "id": 1875,
+    "question": "Quel nom donne-t-on a une reaction indesirable a un medicament ?",
+    "answer": "Effet secondaire."
+  },
+  {
+    "id": 1876,
+    "question": "Comment appelle-t-on l'administration d'un vaccin pour prevenir une maladie ?",
+    "answer": "Vaccination."
+  },
+  {
+    "id": 1877,
+    "question": "Quel terme designe la diminution de l'apport sanguin a un organe ?",
+    "answer": "Ischemie."
+  },
+  {
+    "id": 1878,
+    "question": "Une bacterie est un parasite necessitant une cellule hote vrai ou faux ?",
+    "answer": "Faux"
+  },
+  {
+    "id": 1879,
+    "question": "Comment appelle-t-on la discipline visant a proteger et ameliorer la sante des populations ?",
+    "answer": "Sante publique."
+  },
+  {
+    "id": 1880,
+    "question": "Comment nomme-t-on la diminution du nombre de plaquettes dans le sang ?",
+    "answer": "Thrombocytopenie."
+  },
+  {
+    "id": 1881,
+    "question": "Quel terme designe l'usure des articulations ?",
+    "answer": "Arthrose."
+  },
+  {
+    "id": 1882,
+    "question": "Que signifie « non-invasif » en medecine ?",
+    "answer": "Sans intervention chirurgicale. Page 120 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1883,
+    "question": "Comment appelle-t-on un traitement inactif utilise pour comparer l'efficacite d'un medicament ?",
+    "answer": "Placebo."
+  },
+  {
+    "id": 1884,
+    "question": "Quelle vitamine regule le calcium et favorise la sante osseuse ?",
+    "answer": "Vitamine D"
+  },
+  {
+    "id": 1885,
+    "question": "Comment definit-on la situation ou le systeme immunitaire attaque ses propres cellules ?",
+    "answer": "Auto-immunite."
+  },
+  {
+    "id": 1886,
+    "question": "Quel terme designe un AVC cause par un caillot bloquant un vaisseau sanguin ?",
+    "answer": "AVC ischemique."
+  },
+  {
+    "id": 1887,
+    "question": "Quel terme medical est designe par la formation de nouvelles cellules, souvent cancereuses.",
+    "answer": "neoplasie"
+  },
+  {
+    "id": 1888,
+    "question": "Comment definit-on une maladie qui provoque une deterioration progressive des fonctions de l'organisme ?",
+    "answer": "Maladie degenerative."
+  },
+  {
+    "id": 1889,
+    "question": "Comment appelle-t-on l'arthrite causee par des cristaux d'acide urique dans le corps ?",
+    "answer": "Goutte."
+  },
+  {
+    "id": 1890,
+    "question": "Par quel adjectif commençant avec la lettre O designe-t-on un microbe qui cause des maladies specifiquement chez les personnes immunodeprimees ?",
+    "answer": "Opportuniste."
+  },
+  {
+    "id": 1891,
+    "question": "Lorsqu'on parle de la fonction cardiaque, comment sont appelees les contractions rapides et irregulieres du cœur ?",
+    "answer": "fibrillation"
+  },
+  {
+    "id": 1892,
+    "question": "Comment definit-on une lesion ouverte sur la peau ou une muqueuse ?",
+    "answer": "Ulcere."
+  },
+  {
+    "id": 1893,
+    "question": "Qu'est-ce que la cholecystite en termes d'inflammation dans le corps ?",
+    "answer": "Inflammation de la vesicule biliaire."
+  },
+  {
+    "id": 1894,
+    "question": "Comment appelle-t-on un virus inactif dans l'organisme qui peut se reactiver ?",
+    "answer": "Infection virale latente."
+  },
+  {
+    "id": 1895,
+    "question": "Quelle est l'infection qui affecte les voies urinaires, souvent causee par des bacteries ?",
+    "answer": "Infection urinaire."
+  },
+  {
+    "id": 1896,
+    "question": "Par quel adjectif qualifie-t-on la sclerodermie, une maladie qui entraîne un durcissement de la peau ?",
+    "answer": "Maladie auto-immune."
+  },
+  {
+    "id": 1897,
+    "question": "Quel examen medical observe l’interieur du corps avec un tube flexible ?",
+    "answer": "Endoscopie 1898. Quelle maladie auto-immune affecte divers organes et provoque des inflammations ? R : Lupus."
+  },
+  {
+    "id": 1899,
+    "question": "Quelle est la fonction principale des globules blancs dans le systeme immunitaire ?",
+    "answer": "Lutter contre les infections."
+  },
+  {
+    "id": 1900,
+    "question": "Par quel terme designe-t-on la mort des cellules cardiaques souvent cause par un manque de sang au cœur ?",
+    "answer": "Infarctus du myocarde"
+  },
+  {
+    "id": 1901,
+    "question": "Quel est le type de cholesterol qui est considere comme « mauvais » et associe aux maladies cardiaques ?",
+    "answer": "Cholesterol LDL."
+  },
+  {
+    "id": 1902,
+    "question": "Comment definit-on une maladie qui entraîne une deterioration progressive des neurones ?",
+    "answer": "Maladie neurodegenerative."
+  },
+  {
+    "id": 1903,
+    "question": "Quelle douleur thoracique est causee par un manque d'oxygene au cœur, souvent liee a une maladie cardiaque ?",
+    "answer": "Angine de poitrine. Page 121 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1904,
+    "question": "Quelle maladie systemique est une maladie inflammatoire qui peut toucher divers organes ?",
+    "answer": "Sarcoîdose"
+  },
+  {
+    "id": 1905,
+    "question": "Quel examen medical consiste a visualiser la vessie a l'aide d'un tube flexible ?",
+    "answer": "Cystoscopie."
+  },
+  {
+    "id": 1906,
+    "question": "Quelle maladie affecte les muscles et entraîne une faiblesse musculaire progressive ?",
+    "answer": "Myopathie."
+  },
+  {
+    "id": 1907,
+    "question": "Comment appelle-t-on une reaction cutanee causant des demangeaisons et des eruptions ?",
+    "answer": "Urticaire."
+  },
+  {
+    "id": 1908,
+    "question": "Quelle procedure consiste a prelever un echantillon de tissu osseux pour analyse ?",
+    "answer": "Biopsie osseuse."
+  },
+  {
+    "id": 1909,
+    "question": "Quel virus est connu pour causer des verrues et certains types de cancer ?",
+    "answer": "Virus HPV."
+  },
+  {
+    "id": 1910,
+    "question": "Inflammation des diverticules qui touche le colon ?",
+    "answer": "Diverculite"
+  },
+  {
+    "id": 1911,
+    "question": "Comment appelle-t-on l'incapacite du cœur a pomper suffisamment de sang dans le corps ?",
+    "answer": "Insuffisance cardiaque."
+  },
+  {
+    "id": 1912,
+    "question": "Quel type de cancer se developpe a partir des cellules epitheliales ?",
+    "answer": "Carcinome."
+  },
+  {
+    "id": 1913,
+    "question": "Quelle est l'inflammation de l'appendice, souvent necessitant une intervention chirurgicale ?",
+    "answer": "Appendicite."
+  },
+  {
+    "id": 1914,
+    "question": "Maladie qui affecte la densite osseuse et les rend fragiles ?",
+    "answer": "Osteoporose"
+  },
+  {
+    "id": 1915,
+    "question": "Par quel terme designe-t-on un episode soudain de peur intense ?",
+    "answer": "crise d’angoisse"
+  },
+  {
+    "id": 1916,
+    "question": "Quelle maladie est caracterisee par une inflammation chronique du tube digestif ?",
+    "answer": "Maladie de Crohn"
+  },
+  {
+    "id": 1917,
+    "question": "Quelle est la maladie transmise par les moustiques et causee par un parasite ?",
+    "answer": "Paludisme."
+  },
+  {
+    "id": 1918,
+    "question": "Quelle chirurgie minimale se realise avec de petites incisions.",
+    "answer": "Chirurgie laparoscopique"
+  },
+  {
+    "id": 1919,
+    "question": "Quelle partie du systeme nerveux est affecte par le syndrome de Guillain-Barre ?",
+    "answer": "les nerfs."
+  },
+  {
+    "id": 1920,
+    "question": "Que designe le terme « hemorragie » dans un contexte medical ?",
+    "answer": "Perte de sang."
+  },
+  {
+    "id": 1921,
+    "question": "Protrusion d'un organe a travers une ouverture ?",
+    "answer": "Hernie"
+  },
+  {
+    "id": 1922,
+    "question": "Trouble alimentaire avec restriction excessive de la nourriture ?",
+    "answer": "Anorexie"
+  },
+  {
+    "id": 1923,
+    "question": "Type de cancer specifique des vaisseaux sanguins ?",
+    "answer": "Angiosarcome"
+  },
+  {
+    "id": 1924,
+    "question": "Que signifie VIH ?",
+    "answer": "Virus Immunodeficitaire Humaine"
+  },
+  {
+    "id": 1925,
+    "question": "Condition serieuse dans les poumons s’expliquant par un blocage d'une artere dans les poumons ?",
+    "answer": "Embolie pulmonaire"
+  },
+  {
+    "id": 1926,
+    "question": "Comment appelle-t-on une pression arterielle anormalement basse ?",
+    "answer": "Hypotension."
+  },
+  {
+    "id": 1927,
+    "question": "Inflammation de la vessie ?",
+    "answer": "Cystite"
+  },
+  {
+    "id": 1928,
+    "question": "Par quel terme designe-t-on l’inflammation d’un kyste ?",
+    "answer": "Kystite"
+  },
+  {
+    "id": 1929,
+    "question": "Ablation d'un poumon dans des cas de maladies pulmonaires ?",
+    "answer": "Pneumonectomie Page 122 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1930,
+    "question": "Maladie neurodegenerative hereditaire et rare qui se traduit par une degenerescence neurologique provoquant d’importants troubles moteurs et evoluant jusqu'a la perte d’autonomie puis la mort.",
+    "answer": "Maladie de Huntington"
+  },
+  {
+    "id": 1931,
+    "question": "Condition liee a un rythme cardiaque lent ?",
+    "answer": "Bradycardie"
+  },
+  {
+    "id": 1932,
+    "question": "Qu'est-ce que la cystinose, une maladie genetique touchant quel organe ?",
+    "answer": "Maladie genetique affectant les reins."
+  },
+  {
+    "id": 1933,
+    "raw": "Qu'est-ce qu'une depression post-partum, un etat qui survient apres l'accouchement ?R: Depression survenant apres l'accouchement."
+  },
+  {
+    "id": 1934,
+    "question": "Qu'est-ce que l'insuffisance respiratoire, qui affecte la capacite de l'organisme a oxygener le sang ?",
+    "answer": "Incapacite a maintenir une oxygenation adequate."
+  },
+  {
+    "id": 1935,
+    "question": "Qu'est-ce qu'une maladie parasitaire, qui implique des organismes comme les vers ou les protozoaires ?",
+    "answer": "Infection causee par des parasites."
+  },
+  {
+    "id": 1936,
+    "question": "Quel type de chirurgie utilise des incisions minimales ?",
+    "answer": "Chirurgie laparoscopique."
+  },
+  {
+    "id": 1937,
+    "question": "Quel signe physique correspondant a la coloration jaune des teguments est du a une accumulation de bilirubine ?",
+    "answer": "Ictere"
+  },
+  {
+    "id": 1938,
+    "question": "Comment appelait-on les clostridioides difficile ?",
+    "answer": "Clostridium difficile"
+  },
+  {
+    "id": 1939,
+    "question": "Quelle est la caracteristique principale de la maladie d'Alzheimer, une maladie neurodegenerative ?",
+    "answer": "Perte de memoire."
+  },
+  {
+    "id": 1940,
+    "question": "Gonflement des tissus cause par une accumulation anormale de liquide ?",
+    "answer": "œdeme"
+  },
+  {
+    "id": 1941,
+    "question": "Quelle inflammation du nez est due a des allergies ?",
+    "answer": "Rhinite allergique"
+  },
+  {
+    "id": 1942,
+    "question": "Comment definit-on un rythme cardiaque anormalement rapide ?",
+    "answer": "Tachycardie"
+  },
+  {
+    "id": 1943,
+    "question": "Trouble qui impacte la capacite de communiquer par le langage ?",
+    "answer": "Aphasie"
+  },
+  {
+    "id": 1944,
+    "question": "Affection cutanee provoquant des demangeaisons et des rougeurs ?",
+    "answer": "Eczema"
+  },
+  {
+    "id": 1945,
+    "question": "Qu'est-ce qu'un sarcome ?",
+    "answer": "Cancer"
+  },
+  {
+    "id": 1946,
+    "question": "Type d’urticaire cause par la chaleur ou l'effort ?",
+    "answer": "Urticaire cholinergique"
+  },
+  {
+    "id": 1947,
+    "question": "Quel est le virus qui provoque les oreillons ?",
+    "answer": "Le virus ourlien"
+  },
+  {
+    "id": 1948,
+    "question": "Tumeur benigne liee aux vaisseaux sanguins qui se developpe principalement chez les nourrissons ?",
+    "answer": "Hemangiome"
+  },
+  {
+    "id": 1949,
+    "question": "Quel appareil est utilise pour mesurer l'activite du cerveau ?",
+    "answer": "Electroencephalogramme"
+  },
+  {
+    "id": 1950,
+    "question": "Par quel terme designe-t-on l’ablation d'un poumon ?",
+    "answer": "Pneumonectomie"
+  },
+  {
+    "id": 1951,
+    "question": "Quelle est la caracteristique principale de la maladie de Huntington ?",
+    "answer": "Elle est hereditaire."
+  },
+  {
+    "id": 1952,
+    "question": "Quelle infection bacterienne transmise par les tiques a pour symptomes precoces une eruption cutanee, de la fievre, des frissons, la fatigue les maux de tete ?",
+    "answer": "Maladie de Lyme"
+  },
+  {
+    "id": 1953,
+    "question": "L’on constate qu’un enfant, dans son sommeil a des interruptions de la respiration. Que lui arrive-t-il ?",
+    "answer": "Le syndrome de l'apnee du sommeil, Page 123 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1954,
+    "question": "Quelle inflammation chronique affecte l'extremite distale du tube digestif, c’est-a-dire le colon et le rectum ?",
+    "answer": "La colite ulcereuse"
+  },
+  {
+    "id": 1955,
+    "question": "Une malformation des vaisseaux sanguins est encore appelee ?",
+    "answer": "Angiome"
+  },
+  {
+    "id": 1956,
+    "question": "En T, par quelle procedure se fait une greffe d'organe ?",
+    "answer": "Procedure de transplantation 1957. Syndrome affectant le tissu conjonctif. R : Syndrome de Marfan"
+  },
+  {
+    "id": 1958,
+    "question": "Quelle partie du systeme digestif sont touchees par l’ulcere gastroduodenal ?",
+    "answer": "l'estomac ou le duodenum."
+  },
+  {
+    "id": 1959,
+    "question": "Maladie qui affecte le systeme nerveux central ?",
+    "answer": "Sclerose"
+  },
+  {
+    "id": 1960,
+    "question": "Maladie genetique affectant les reins ?",
+    "answer": "Cystinose"
+  },
+  {
+    "id": 1961,
+    "question": "Depression survenant apres l'accouchement ?",
+    "answer": "Post partum"
+  },
+  {
+    "id": 1962,
+    "question": "Quel terme designe une incapacite a maintenir une oxygenation adequate ?",
+    "answer": "l'insuffisance respiratoire"
+  },
+  {
+    "id": 1963,
+    "question": "Infection causee par un virus qui envahit les cellules de l'organisme, provoquant des symptomes varies ?",
+    "answer": "Infection virale"
+  },
+  {
+    "id": 1964,
+    "question": "Etude de la structure et de la forme des organismes vivants, y compris leur systeme organique.",
+    "answer": "L’anatomie"
+  },
+  {
+    "id": 1965,
+    "question": "Medicament utilise pour traiter les infections bacteriennes en tuant ou en inhibant la croissance des bacteries ?",
+    "answer": "Un antibiotique"
+  },
+  {
+    "id": 1966,
+    "question": "Etude des maladies, de leurs causes, de leur developpement et de leurs effets sur l'organisme ?",
+    "answer": "La pathologie"
+  },
+  {
+    "id": 1967,
+    "question": "Technique d'imagerie medicale qui utilise des ondes sonores pour creer des images des organes internes ?",
+    "answer": "L’echographie"
+  },
+  {
+    "id": 1968,
+    "question": "Proteine produite par le systeme immunitaire en reponse a un antigene ?",
+    "answer": "Anticorps"
+  },
+  {
+    "id": 1969,
+    "question": "Substance etrangere pouvant provoquer une reponse immunitaire ?",
+    "answer": "Antigene"
+  },
+  {
+    "id": 1970,
+    "question": "Condition ou la pression du sang dans les arteres est constamment elevee, augmentant le risque de maladies cardiaques ?",
+    "answer": "Hypertension arterielle"
+  },
+  {
+    "id": 1971,
+    "question": "Preparations biologiques qui stimulent le systeme immunitaire pour prevenir certaines infections ?",
+    "answer": "Vaccins"
+  },
+  {
+    "id": 1972,
+    "question": "Maladie chronique qui affecte la maniere dont l'organisme utilise le glucose, entraînant des niveaux eleves de sucre dans le sang ?",
+    "answer": "Diabete"
+  },
+  {
+    "id": 1973,
+    "question": "Quel organe travaille a la production de bile, la detoxification du sang et le metabolisme des nutriments ?",
+    "answer": "Le foie"
+  },
+  {
+    "id": 1974,
+    "question": "Branche de la medecine qui se concentre sur le cœur et les vaisseaux sanguins, ainsi que sur les maladies cardiovasculaires ?",
+    "answer": "Cardiologie"
+  },
+  {
+    "id": 1975,
+    "question": "Ces symptomes sont les symptomes de quelle maladie : Fievre, toux, courbatures, et fatigue ?",
+    "answer": "La grippe"
+  },
+  {
+    "id": 1976,
+    "question": "Quelle maladie peut resulter de ces symptomes chez un enfant ? : Mal de gorge, fievre, difficulte a avaler, et amygdales enflees avec des plaques blanches ?",
+    "answer": "Angine streptococcique Page 124 sur 209 ACADEMIE GENIE IMHOTEP"
+  },
+  {
+    "id": 1977,
+    "question": "Quel mal se manifeste par des douleurs lombaires intenses irradiant vers l’aine ?",
+    "answer": "R : La colique nephretique"
+  },
+  {
+    "id": 1978,
+    "question": "Quel mal presente des symptomes infectieux avec fievre, douleurs lombaires et syndrome inflammatoire biologique ?",
+    "answer": "pyelonephrite"
+  },
+  {
+    "id": 1979,
+    "question": "Dites-moi, comment dit-on asthme en anglais ?",
+    "answer": ": Asthma"
+  },
+  {
+    "id": 1980,
+    "question": "Document enonçant les droits et devoirs des medecins, visant a garantir une pratique ethique et responsable ?",
+    "answer": "la charte du medecin"
+  },
+  {
+    "id": 1981,
+    "question": "Selon le dicton, quel fruit eloigne le medecin quand on en prend chaque jour ?",
+    "answer": "La pomme"
+  },
+  {
+    "id": 1982,
+    "question": "Principe selon lequel le medecin s’engage a ne pas causer de prejudice au patient, que ce soit par action ou omission ?",
+    "answer": "Principe de non-malfaisance"
+  },
+  {
+    "id": 1983,
+    "question": "Quel test sanguin est effectue pour determiner si une femme est enceinte ?",
+    "answer": "le dosage de la beta hCG"
+  },
+  {
+    "id": 1984,
+    "question": "Que signifie hCG ?",
+    "answer": "hormone chorionique gonadotrope"
+  },
+  {
+    "id": 1985,
+    "question": "Par quel organe est detecte le hCG ?",
+    "answer": "Le placenta"
+  },
+  {
+    "id": 1986,
+    "question": "Par quel terme designe-t-on un placenta non insere dans le haut de l'uterus ?",
+    "answer": "Praevia / Placenta Praevia"
+  },
+  {
+    "id": 1987,
+    "question": "“On ne pleure pas, on ne pleure pas c'est interdit de pleurer si tu pleures c'est trop grave” De quel medecin, auteur, entrepreneur provient cette phrase ?",
+    "answer": "Claudel Noubissie"
+  },
+  {
+    "id": 1988,
+    "question": "Comment est appele cet instrument utilise en chirurgie pour faire des incisions ?",
+    "answer": "Scalpel/Bistouri"
+  },
+  {
+    "id": 1989,
+    "question": "Comment appelle-t-on un rythme cardiaque qui ne suit pas un schema regulier ?",
+    "answer": "Arythmie"
+  },
+  {
+    "id": 1990,
+    "question": "Comment appelle-t-on le materiel permettant de repondre aux questions lors d’un concours de culture generale ou medicale ?",
+    "answer": "Buzzer"
+  },
+  {
+    "id": 1991,
+    "raw": "Comment appelle-t-on alors chacune des unites d’un buzzer ? Poussoir Page 125 sur 209 ACADEMIE GENIE IMHOTEP"
+  }
+]
